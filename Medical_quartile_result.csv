@@ -1,0 +1,501 @@
+﻿openalex_id,name,quartile,rank,score,fwci_mean,if2,if2_approx,h5,cite_cagr,self_cite_rate,paper_count,fwci_n,issn,eissn,ccf_rank,venue_type,data_status
+https://openalex.org/S126094547,CA A Cancer Journal for Clinicians,Q1,1,295.6579,169.6552,940.913,0.0,43.0,1.0042,0.0,143.0,114.0,0007-9235,1542-4863,,,ok
+https://openalex.org/S62468778,New England Journal of Medicine,Q1,2,31.1912,28.1616,79.4356,0.0,249.0,0.8881,0.0,2852.0,2280.0,0028-4793,1533-4406,,,ok
+https://openalex.org/S49861241,The Lancet,Q1,3,27.6083,26.7282,67.1728,0.0,217.0,1.1398,0.0,3544.0,2393.0,0140-6736,1474-547X,,,ok
+https://openalex.org/S203256638,Nature Medicine,Q1,4,25.737,24.7669,62.5891,0.0,195.0,0.9716,0.0,2111.0,1769.0,1078-8956,1546-170X,,,ok
+https://openalex.org/S116900674,The Lancet Oncology,Q1,5,13.5515,12.1469,32.072,0.0,103.0,1.2405,0.0,1422.0,1058.0,1470-2045,1474-5488,,,ok
+https://openalex.org/S3251770,Gut,Q1,6,13.1664,11.0206,32.2536,0.0,85.0,1.4136,0.0,924.0,728.0,0017-5749,1468-3288,,,ok
+https://openalex.org/S49878492,Diabetes Care,Q1,7,12.9416,10.576,31.7555,0.0,98.0,1.7619,0.0,1399.0,1191.0,0149-5992,1935-5548,,,ok
+https://openalex.org/S156174673,Hepatology,Q1,8,12.5339,8.7997,32.8387,0.0,81.0,1.5875,0.0,1343.0,1011.0,0270-9139,1527-3350,,,ok
+https://openalex.org/S4210207896,European Respiratory Journal,Q1,9,12.0145,9.852,29.5227,0.0,66.0,1.4502,0.0,650.0,566.0,0903-1936,1399-3003,,,ok
+https://openalex.org/S172573765,JAMA,Q1,10,11.8272,10.9033,26.5401,0.0,160.0,1.0229,0.0,5755.0,3376.0,0098-7484,1538-3598,,,ok
+https://openalex.org/S136578784,British Journal of Sports Medicine,Q1,11,10.1536,8.6245,23.7515,0.0,63.0,1.8567,0.0,792.0,604.0,0306-3674,1473-0480,,,ok
+https://openalex.org/S50280174,Radiology,Q1,12,10.0746,7.2266,25.1681,0.0,87.0,1.4425,0.0,1409.0,1170.0,0033-8419,1527-1315,,,ok
+https://openalex.org/S83651209,Journal of Hepatology,Q1,13,9.4528,6.9562,22.8391,0.0,106.0,1.5456,0.0,8635.0,1909.0,0168-8278,1600-0641,,,ok
+https://openalex.org/S116251202,Circulation,Q1,14,9.0041,7.7329,19.793,0.0,128.0,1.4496,0.0,20406.0,3172.0,0009-7322,1524-4539,,,ok
+https://openalex.org/S65364685,JAMA Internal Medicine,Q1,15,8.8126,7.8127,19.6097,0.0,70.0,1.083,0.0,1275.0,835.0,2168-6106,2168-6114,,,ok
+https://openalex.org/S96871409,European Urology,Q1,16,8.7914,8.4363,18.5933,0.0,70.0,1.2968,0.0,6425.0,883.0,0302-2838,1421-993X,,,ok
+https://openalex.org/S191417626,Critical Care,Q1,17,8.7868,7.2306,20.2083,0.0,73.0,1.3468,0.0,1370.0,1282.0,1364-8535,1466-609X,,,ok
+https://openalex.org/S119722071,Annals of Internal Medicine,Q1,18,8.6937,8.0699,18.8612,0.0,66.0,0.9843,0.0,1770.0,864.0,0003-4819,1539-3704,,,ok
+https://openalex.org/S93356601,American Journal of Respiratory and Critical Care Medicine,Q1,19,8.5785,4.5692,23.1119,0.0,75.0,1.2056,0.0,8241.0,1927.0,1073-449X,1535-4970,,,ok
+https://openalex.org/S197939330,PLoS Medicine,Q1,20,8.4823,8.3707,17.6791,0.0,63.0,0.8598,0.0,702.0,641.0,1549-1277,1549-1676,,,ok
+https://openalex.org/S4210217848,JAMA Network Open,Q1,21,8.4746,8.0372,17.3203,0.0,122.0,1.3554,0.0,8462.0,7628.0,2574-3805,,,,ok
+https://openalex.org/S114430552,Journal of Clinical Investigation,Q1,22,8.2969,6.3308,19.3058,0.0,89.0,1.3748,0.0,2235.0,2026.0,0021-9738,1558-8238,,,ok
+https://openalex.org/S86924810,JAMA Surgery,Q1,23,7.3741,6.7718,15.4867,0.0,56.0,1.2482,0.0,1008.0,687.0,2168-6254,2168-6262,,,ok
+https://openalex.org/S15111687,Biomedicine & Pharmacotherapy,Q1,24,6.7683,4.3414,15.6752,0.0,110.0,1.7661,0.0,5776.0,5383.0,0753-3322,1950-6007,,,ok
+https://openalex.org/S181568219,European Heart Journal,Q1,25,6.6183,5.227,13.8275,0.0,107.0,1.9347,0.0,18698.0,5075.0,0195-668X,1522-9645,,,ok
+https://openalex.org/S183149254,Clinical Cancer Research,Q1,26,6.5305,4.8626,14.4257,0.0,78.0,1.3762,0.0,4817.0,2012.0,1078-0432,1557-3265,,,ok
+https://openalex.org/S61859066,Journal Of Clinical Periodontology,Q1,27,6.3215,4.8914,14.121,0.0,40.0,1.7333,0.0,608.0,552.0,0303-6979,1600-051X,,,ok
+https://openalex.org/S2737566431,Antioxidants,Q1,28,6.2979,4.327,13.8595,0.0,116.0,1.3476,0.0,7522.0,7060.0,2076-3921,,,,ok
+https://openalex.org/S72350973,Clinical Infectious Diseases,Q1,29,6.2148,4.3383,14.0898,0.0,75.0,0.838,0.0,2718.0,2197.0,1058-4838,1537-6591,,,ok
+https://openalex.org/S102860386,Clinical Nutrition,Q1,30,6.1867,4.6778,13.6294,0.0,54.0,1.548,0.0,1130.0,987.0,0261-5614,1532-1983,,,ok
+https://openalex.org/S83853393,International Journal of Biological Macromolecules,Q1,31,6.1751,3.7931,13.9509,0.0,113.0,2.2263,0.0,27356.0,25003.0,0141-8130,1879-0003,,,ok
+https://openalex.org/S106546978,Thorax,Q1,32,6.1539,4.6516,13.8899,0.0,41.0,1.2095,0.0,656.0,484.0,0040-6376,1468-3296,,,ok
+https://openalex.org/S4393917726,BMJ,Q1,33,6.1527,6.3446,10.6606,0.0,115.0,0.6877,0.0,8974.0,5093.0,1756-1833,,,,ok
+https://openalex.org/S67880631,Hypertension,Q1,34,6.1178,4.8019,13.0669,0.0,61.0,1.5191,0.0,2699.0,1026.0,0194-911X,1524-4563,,,ok
+https://openalex.org/S62966998,British Journal of Cancer,Q1,35,5.9477,4.0917,13.3592,0.0,63.0,1.4767,0.0,1472.0,1338.0,0007-0920,1532-1827,,,ok
+https://openalex.org/S77494981,PEDIATRICS,Q1,36,5.7541,5.8277,10.2349,0.0,63.0,1.1658,0.0,2458.0,1822.0,0031-4005,1098-4275,,,ok
+https://openalex.org/S60865174,Journal of the American College of Cardiology,Q1,37,5.6346,4.7845,10.6859,0.0,107.0,1.1958,0.0,23473.0,4054.0,0735-1097,1558-3597,,,ok
+https://openalex.org/S2595292759,Frontiers in Immunology,Q1,38,5.6307,3.5745,11.9825,0.0,151.0,1.3486,0.0,25600.0,23146.0,1664-3224,,,,ok
+https://openalex.org/S30283931,Pharmaceutics,Q1,39,5.6277,3.1775,12.8482,0.0,107.0,1.4271,0.0,8642.0,8057.0,1999-4923,,,,ok
+https://openalex.org/S143352558,Gastroenterology,Q1,40,5.6277,4.4538,11.2129,0.0,94.0,1.3341,0.0,18755.0,2316.0,0016-5085,1528-0012,,,ok
+https://openalex.org/S67965910,International Journal of Surgery,Q1,41,5.6079,4.709,11.1054,0.0,50.0,2.8046,0.0,4419.0,2436.0,1743-9159,1743-9191,,,ok
+https://openalex.org/S134773490,Journal of Neurology Neurosurgery & Psychiatry,Q1,42,5.5729,3.7226,12.701,0.0,47.0,1.3311,0.0,1366.0,672.0,0022-3050,1468-330X,,,ok
+https://openalex.org/S62532593,Stroke,Q1,43,5.5086,3.8332,11.8792,0.0,69.0,1.4605,0.0,5980.0,1965.0,0039-2499,1524-4628,,,ok
+https://openalex.org/S144187503,BMC Medical Education,Q1,44,5.4522,5.9966,8.5687,0.0,67.0,1.8349,0.0,5276.0,4358.0,1472-6920,,,,ok
+https://openalex.org/S108768312,European Journal of Anaesthesiology,Q1,45,5.4273,5.0827,10.5854,0.0,30.0,1.6036,0.0,578.0,408.0,0265-0215,1365-2346,,,ok
+https://openalex.org/S3485792,Arteriosclerosis Thrombosis and Vascular Biology,Q1,46,5.3738,4.0475,11.3594,0.0,46.0,1.806,0.0,2266.0,805.0,1079-5642,1524-4636,,,ok
+https://openalex.org/S128507546,Resuscitation,Q1,47,5.3092,5.8725,8.8319,0.0,37.0,1.4843,0.0,2391.0,875.0,0300-9572,1873-1570,,,ok
+https://openalex.org/S31768639,Age and Ageing,Q1,48,5.3025,5.2105,9.4383,0.0,46.0,1.8419,0.0,3262.0,1224.0,0002-0729,1468-2834,,,ok
+https://openalex.org/S146641495,JAMA Dermatology,Q1,49,5.245,4.2468,10.6457,0.0,48.0,1.2898,0.0,1009.0,757.0,2168-6068,2168-6084,,,ok
+https://openalex.org/S2764804524,Global Heart,Q1,50,5.2443,4.9674,10.2409,0.0,23.0,1.7355,0.0,348.0,285.0,2211-8160,2211-8179,,,ok
+https://openalex.org/S110785341,Nutrients,Q2,51,5.2317,3.8018,10.2954,0.0,117.0,1.4527,0.0,18363.0,16671.0,2072-6643,,,,ok
+https://openalex.org/S124035732,Anesthesiology,Q2,52,5.1977,5.0447,9.4599,0.0,41.0,1.4215,0.0,1505.0,742.0,0003-3022,1528-1175,,,ok
+https://openalex.org/S16731738,European Journal of Cancer,Q2,53,5.1839,3.7484,10.9294,0.0,57.0,1.2927,0.0,3396.0,1658.0,0959-8049,1879-0852,,,ok
+https://openalex.org/S2736626452,Cells,Q2,54,5.1597,3.2663,10.8629,0.0,111.0,1.2427,0.0,10851.0,10022.0,2073-4409,,,,ok
+https://openalex.org/S181459644,World Journal of Gastroenterology,Q2,55,5.154,3.6703,10.8558,0.0,55.0,1.7024,0.0,1869.0,1639.0,1007-9327,2219-2840,,,ok
+https://openalex.org/S2737939966,Foods,Q2,56,5.1278,3.6787,10.1059,0.0,106.0,1.639,0.0,16860.0,15541.0,2304-8158,,,,ok
+https://openalex.org/S10623703,International Journal of Molecular Sciences,Q2,57,5.1215,3.262,10.1543,0.0,183.0,1.5015,0.0,58218.0,52773.0,1422-0067,1661-6596,,,ok
+https://openalex.org/S200437886,BMC Public Health,Q2,58,5.0959,5.0946,8.2685,0.0,82.0,1.5586,0.0,13256.0,10919.0,1471-2458,,,,ok
+https://openalex.org/S2489920150,Journal of the American Heart Association,Q2,59,5.0562,3.9566,9.8944,0.0,67.0,1.5936,0.0,4260.0,3765.0,2047-9980,,,,ok
+https://openalex.org/S46732370,EP Europace,Q2,60,5.0412,3.75,10.2271,0.0,54.0,2.1072,0.0,4171.0,1474.0,1099-5129,1532-2092,,,ok
+https://openalex.org/S2597401208,Frontiers in Endocrinology,Q2,61,5.0273,3.4378,10.1109,0.0,98.0,1.6737,0.0,11222.0,10049.0,1664-2392,,,,ok
+https://openalex.org/S2484704948,Frontiers in Microbiology,Q2,62,4.987,3.2809,10.1524,0.0,105.0,1.4552,0.0,15206.0,14001.0,1664-302X,,,,ok
+https://openalex.org/S157664895,Annals of Surgery,Q2,63,4.9593,4.1088,9.4735,0.0,52.0,1.9101,0.0,1573.0,1335.0,0003-4932,1528-1140,,,ok
+https://openalex.org/S196734849,Scientific Reports,Q2,64,4.9546,3.8888,8.8262,0.0,143.0,1.6205,0.0,122409.0,102607.0,2045-2322,,,,ok
+https://openalex.org/S16322639,Pharmaceuticals,Q2,65,4.9517,3.3769,10.1205,0.0,81.0,1.5093,0.0,6851.0,6112.0,1424-8247,,,,ok
+https://openalex.org/S2596909297,Frontiers in Nutrition,Q2,66,4.913,3.5271,9.6723,0.0,91.0,1.3794,0.0,9390.0,8307.0,2296-861X,,,,ok
+https://openalex.org/S4819472,European Radiology,Q2,67,4.8488,3.431,9.9806,0.0,56.0,1.5778,0.0,3196.0,2905.0,0938-7994,1432-1084,,,ok
+https://openalex.org/S2506667490,Frontiers in Cellular and Infection Microbiology,Q2,68,4.8335,3.2405,9.914,0.0,80.0,1.259,0.0,5841.0,5267.0,2235-2988,,,,ok
+https://openalex.org/S205775358,The Journal of Clinical Endocrinology & Metabolism,Q2,69,4.8237,3.7137,9.4886,0.0,58.0,1.4167,0.0,2594.0,2399.0,0021-972X,1945-7197,,,ok
+https://openalex.org/S68724622,JAMA Ophthalmology,Q2,70,4.8036,3.7881,9.7492,0.0,40.0,1.1106,0.0,997.0,592.0,2168-6165,2168-6173,,,ok
+https://openalex.org/S2898612692,Heliyon,Q2,71,4.7986,3.7474,8.3777,0.0,119.0,2.6863,0.0,34080.0,31107.0,2405-8440,,,,ok
+https://openalex.org/S8802318,Annals of the New York Academy of Sciences,Q2,72,4.7892,4.4864,8.696,0.0,38.0,1.364,0.0,786.0,618.0,0077-8923,1749-6632,,,ok
+https://openalex.org/S108525051,Journal of Allergy and Clinical Immunology,Q2,73,4.7717,3.6965,9.1524,0.0,66.0,1.5206,0.0,4972.0,1818.0,0091-6749,1085-8725,,,ok
+https://openalex.org/S2595131146,Frontiers in Bioengineering and Biotechnology,Q2,74,4.7706,2.7126,10.31,0.0,87.0,1.2917,0.0,6268.0,5755.0,2296-4185,,,,ok
+https://openalex.org/S51654951,Knee Surgery Sports Traumatology Arthroscopy,Q2,75,4.7624,4.2862,8.5692,0.0,48.0,1.6648,0.0,1734.0,1516.0,0942-2056,1433-7347,,,ok
+https://openalex.org/S2764879405,Journal of Global Oncology,Q2,76,4.7483,2.435,0.0,11.5954,53.0,0.0,0.0,1318.0,0.0,2378-9506,,,,ok
+https://openalex.org/S101949793,Sensors,Q2,77,4.7407,3.2978,8.8981,0.0,141.0,1.2701,0.0,35477.0,31349.0,1424-8220,,,,ok
+https://openalex.org/S138569045,European Journal of Vascular and Endovascular Surgery,Q2,78,4.7389,4.1749,9.0677,0.0,33.0,1.3655,0.0,1882.0,776.0,1078-5884,1532-2165,,,ok
+https://openalex.org/S126033908,Cancer,Q2,79,4.7315,3.8705,9.1123,0.0,48.0,1.3125,0.0,1693.0,1370.0,0008-543X,1045-7410,,,ok
+https://openalex.org/S132108250,Frontiers in Pharmacology,Q2,80,4.6929,3.2471,9.139,0.0,98.0,1.2687,0.0,15500.0,13890.0,1663-9812,,,,ok
+https://openalex.org/S2595931848,Frontiers in Public Health,Q2,81,4.6925,4.1577,7.8837,0.0,92.0,1.431,0.0,18614.0,15866.0,2296-2565,,,,ok
+https://openalex.org/S168415115,Cancers,Q2,82,4.6578,3.0899,9.1404,0.0,106.0,1.2715,0.0,19891.0,17941.0,2072-6694,,,,ok
+https://openalex.org/S93003929,Malaria Journal,Q2,83,4.6562,4.2105,8.429,0.0,42.0,1.4591,0.0,1664.0,1419.0,1475-2875,,,,ok
+https://openalex.org/S108911230,Molecules,Q2,84,4.6538,2.5947,9.5339,0.0,138.0,1.3556,0.0,27641.0,25350.0,1420-3049,1433-1373,,,ok
+https://openalex.org/S4210189130,JAMA Otolaryngology–Head & Neck Surgery,Q2,85,4.6075,4.0386,8.6828,0.0,35.0,1.3379,0.0,849.0,547.0,2168-6181,2168-619X,,,ok
+https://openalex.org/S118428158,Frontiers in Aging Neuroscience,Q2,86,4.6051,2.9634,9.5833,0.0,66.0,1.2393,0.0,3572.0,3275.0,1663-4365,,,,ok
+https://openalex.org/S12898181,BMC Health Services Research,Q2,87,4.6009,4.8955,6.8223,0.0,64.0,1.5145,0.0,6413.0,5426.0,1472-6963,,,,ok
+https://openalex.org/S107905979,Arthroscopy The Journal of Arthroscopic and Related Surgery,Q2,88,4.6003,4.1438,8.3524,0.0,36.0,1.8898,0.0,1318.0,972.0,0749-8063,1526-3231,,,ok
+https://openalex.org/S122347013,American Journal of Obstetrics and Gynecology,Q2,89,4.5829,4.5682,7.3206,0.0,58.0,1.452,0.0,5113.0,1746.0,0002-9378,1085-8709,,,ok
+https://openalex.org/S187816532,European Journal of Pharmacology,Q2,90,4.5538,3.0892,9.3869,0.0,49.0,1.6787,0.0,2934.0,2512.0,0014-2999,1879-0712,,,ok
+https://openalex.org/S2596924766,Frontiers in Cell and Developmental Biology,Q2,91,4.5258,2.7945,9.4599,0.0,75.0,0.9481,0.0,5601.0,5144.0,2296-634X,,,,ok
+https://openalex.org/S15239247,International Journal of Environmental Research and Public Health,Q2,92,4.5257,3.3159,8.2818,0.0,122.0,0.842,0.0,27150.0,25525.0,1660-4601,1661-7827,,,ok
+https://openalex.org/S161085503,American Journal of Roentgenology,Q2,93,4.4958,3.3888,9.0568,0.0,38.0,1.3727,0.0,972.0,647.0,0361-803X,1546-3141,,,ok
+https://openalex.org/S53087977,Journal of Clinical Microbiology,Q2,94,4.4664,3.2189,9.1328,0.0,39.0,1.4485,0.0,860.0,698.0,0095-1137,1070-633X,,,ok
+https://openalex.org/S144860794,The Annals of Thoracic Surgery,Q2,95,4.4205,3.1723,9.2634,0.0,35.0,0.928,0.0,1452.0,1050.0,0003-4975,1552-6259,,,ok
+https://openalex.org/S4210217024,ESMO Open,Q2,96,4.4204,3.7441,7.8668,0.0,54.0,1.5672,0.0,4217.0,1456.0,2059-7029,,,,ok
+https://openalex.org/S4210173111,BJOG An International Journal of Obstetrics & Gynaecology,Q2,97,4.4166,4.2742,7.6376,0.0,35.0,1.1571,0.0,1066.0,794.0,1470-0328,1471-0528,,,ok
+https://openalex.org/S158377717,International Immunopharmacology,Q2,98,4.4147,3.0352,8.6232,0.0,62.0,1.9212,0.0,6631.0,5977.0,1567-5769,1878-1705,,,ok
+https://openalex.org/S2764914486,International journal of scientific research,Q2,99,4.4129,2.1975,0.0,10.4643,60.0,0.0,0.0,3000.0,0.0,1992-884X,,,,ok
+https://openalex.org/S4210172076,Diagnostics,Q2,100,4.4076,3.0734,8.287,0.0,89.0,1.4633,0.0,12923.0,10854.0,2075-4418,,,,ok
+https://openalex.org/S22881060,Ultrasound in Obstetrics and Gynecology,Q3,101,4.4015,4.6398,7.01,0.0,34.0,1.4803,0.0,3256.0,704.0,0960-7692,1469-0705,,,ok
+https://openalex.org/S4210214101,Healthcare,Q3,102,4.3963,3.7631,7.4096,0.0,78.0,1.4502,0.0,11601.0,9422.0,2227-9032,,,,ok
+https://openalex.org/S5382288,International Journal of Cancer,Q3,103,4.3945,3.3145,8.5125,0.0,50.0,1.2764,0.0,1662.0,1391.0,0020-7136,1097-0215,,,ok
+https://openalex.org/S2737005842,Biomedicines,Q3,104,4.3921,2.9192,8.459,0.0,89.0,1.3891,0.0,12392.0,10879.0,2227-9059,,,,ok
+https://openalex.org/S45445671,Fertility and Sterility,Q3,105,4.3769,3.7659,7.7568,0.0,51.0,1.4077,0.0,5441.0,1442.0,0015-0282,1556-5653,,,ok
+https://openalex.org/S130337233,The Gerontologist,Q3,106,4.3657,5.3344,5.9581,0.0,30.0,1.7301,0.0,857.0,629.0,0016-9013,1758-5341,,,ok
+https://openalex.org/S13978405,The Medical Journal of Australia,Q3,107,4.3469,3.8906,7.9253,0.0,34.0,1.1529,0.0,898.0,724.0,0025-729X,1326-5377,,,ok
+https://openalex.org/S139838620,Obstetrics and Gynecology,Q3,108,4.3139,4.1223,7.3083,0.0,41.0,1.0763,0.0,2832.0,1197.0,0029-7844,1873-233X,,,ok
+https://openalex.org/S50016660,American Journal of Ophthalmology,Q3,109,4.2978,3.8488,7.545,0.0,38.0,1.6927,0.0,1473.0,1134.0,0002-9394,1879-1891,,,ok
+https://openalex.org/S206830620,Atherosclerosis,Q3,110,4.286,3.4085,8.035,0.0,45.0,1.3339,0.0,4494.0,1148.0,0021-9150,1879-1484,,,ok
+https://openalex.org/S108427512,Alzheimer s & Dementia,Q3,111,4.2847,3.3688,7.449,0.0,76.0,1.8559,0.0,22925.0,5403.0,1552-5260,1552-5279,,,ok
+https://openalex.org/S2898358376,iScience,Q3,112,4.2483,2.801,8.1658,0.0,78.0,1.4463,0.0,10471.0,9090.0,2589-0042,,,,ok
+https://openalex.org/S92766711,Frontiers in Psychiatry,Q3,113,4.2453,3.5945,7.1155,0.0,74.0,1.3624,0.0,9205.0,7932.0,1664-0640,,,,ok
+https://openalex.org/S168041952,European Neuropsychopharmacology,Q3,114,4.2239,3.7271,7.6118,0.0,33.0,1.4572,0.0,2473.0,528.0,0924-977X,1873-7862,,,ok
+https://openalex.org/S90745127,Journal of Thoracic Oncology,Q3,115,4.2195,2.9918,8.0418,0.0,59.0,1.5146,0.0,7320.0,1516.0,1556-0864,1556-1380,,,ok
+https://openalex.org/S36980176,Computational and Mathematical Methods in Medicine,Q3,116,4.2162,1.5081,10.9767,0.0,32.0,0.5957,0.0,788.0,735.0,1748-670X,1748-6718,,,ok
+https://openalex.org/S79587146,British Journal of Ophthalmology,Q3,117,4.2025,3.1472,8.2974,0.0,33.0,1.6301,0.0,831.0,642.0,0007-1161,1468-2079,,,ok
+https://openalex.org/S125119059,Respirology,Q3,118,4.1988,3.3462,8.1937,0.0,33.0,0.9166,0.0,510.0,388.0,1323-7799,1440-1843,,,ok
+https://openalex.org/S15137598,Journal of Clinical Oncology,Q3,119,4.1767,2.9042,7.1882,0.0,151.0,1.0435,0.0,31834.0,13995.0,0732-183X,1527-7755,,,ok
+https://openalex.org/S123732490,BMC Pregnancy and Childbirth,Q3,120,4.1585,4.1391,6.4394,0.0,47.0,1.4137,0.0,4141.0,3354.0,1471-2393,,,,ok
+https://openalex.org/S114689480,Journal of Molecular Medicine,Q3,121,4.1338,2.6208,8.967,0.0,29.0,1.2925,0.0,424.0,372.0,0946-2716,1432-1440,,,ok
+https://openalex.org/S52732750,Frontiers in Physiology,Q3,122,4.1312,2.6495,8.1503,0.0,65.0,1.2087,0.0,6348.0,5769.0,1664-042X,,,,ok
+https://openalex.org/S108732581,Critical Care Medicine,Q3,123,4.1034,3.141,7.7138,0.0,45.0,1.2026,0.0,5702.0,1469.0,0090-3493,1530-0293,,,ok
+https://openalex.org/S128848949,Journal of Bone and Joint Surgery,Q3,124,4.1021,3.545,7.2696,0.0,36.0,1.5646,0.0,1469.0,959.0,0021-9355,1058-2436,,,ok
+https://openalex.org/S22240167,Chinese Medical Journal,Q3,125,4.0885,3.1083,7.7101,0.0,42.0,1.4225,0.0,1791.0,1373.0,0366-6999,2542-5641,,,ok
+https://openalex.org/S2764501393,Journal watch,Q3,126,4.0789,1.9367,0.0,9.2222,79.0,0.0,0.0,4000.0,0.0,0896-7210,,,,ok
+https://openalex.org/S41454044,Annals of Oncology,Q3,127,4.0776,2.8165,7.2787,0.0,95.0,1.3966,0.0,17180.0,4601.0,0923-7534,1569-8041,,,ok
+https://openalex.org/S4210200765,Life,Q3,128,4.0668,2.7643,7.5421,0.0,76.0,1.3441,0.0,8005.0,6843.0,2075-1729,,,,ok
+https://openalex.org/S46544255,PLoS neglected tropical diseases,Q3,129,4.0554,3.4218,7.1219,0.0,50.0,0.8753,0.0,3057.0,2648.0,1935-2727,1935-2735,,,ok
+https://openalex.org/S48915936,The Journal of Arthroplasty,Q3,130,4.0536,3.6631,6.6945,0.0,44.0,1.6506,0.0,3040.0,2390.0,0883-5403,1532-8406,,,ok
+https://openalex.org/S171311646,Diabetes Research and Clinical Practice,Q3,131,4.0319,3.1542,7.37,0.0,43.0,1.5326,0.0,3262.0,1491.0,0168-8227,1872-8227,,,ok
+https://openalex.org/S55776271,Viruses,Q3,132,4.0109,2.6737,7.5088,0.0,79.0,0.9789,0.0,8627.0,7721.0,1999-4915,,,,ok
+https://openalex.org/S191565391,Heart,Q3,133,3.9998,3.2019,7.4821,0.0,37.0,0.938,0.0,897.0,695.0,1355-6037,1468-201X,,,ok
+https://openalex.org/S54542293,The Journal of Infectious Diseases,Q3,134,3.9956,2.9618,7.5453,0.0,48.0,0.9438,0.0,2224.0,1846.0,0022-1899,1537-6613,,,ok
+https://openalex.org/S25650217,Annals of the Rheumatic Diseases,Q3,135,3.9953,2.8174,7.2067,0.0,82.0,0.9853,0.0,13787.0,3174.0,0003-4967,1468-2060,,,ok
+https://openalex.org/S144105592,Schizophrenia Research,Q3,136,3.9949,4.0164,6.3636,0.0,32.0,1.2884,0.0,1231.0,1023.0,0920-9964,1573-2509,,,ok
+https://openalex.org/S41026820,International Journal of Gynecological Cancer,Q3,137,3.9868,2.8732,7.7514,0.0,36.0,1.5539,0.0,4197.0,1204.0,1048-891X,1525-1438,,,ok
+https://openalex.org/S76304953,Investigative Ophthalmology & Visual Science,Q3,138,3.9786,3.0122,7.4946,0.0,37.0,1.5643,0.0,2114.0,1793.0,0146-0404,1552-5783,,,ok
+https://openalex.org/S18197459,American Journal of Kidney Diseases,Q3,139,3.9741,3.0656,7.314,0.0,42.0,1.4165,0.0,2621.0,763.0,0272-6386,1523-6838,,,ok
+https://openalex.org/S24649050,European Geriatric Medicine,Q3,140,3.9472,3.4808,6.9801,0.0,29.0,1.4365,0.0,669.0,542.0,1878-7649,1878-7657,,,ok
+https://openalex.org/S4393911389,BMJ,Q3,141,3.9388,1.9391,0.0,9.2338,44.0,0.0,0.0,2647.0,0.0,0007-1447,,,,ok
+https://openalex.org/S192814187,BMJ,Q3,142,3.9271,1.9315,0.0,9.1978,44.0,0.0,0.0,2649.0,0.0,0959-8138,,,,ok
+https://openalex.org/S96615428,Journal of Virology,Q3,143,3.9107,2.813,7.4959,0.0,41.0,1.1923,0.0,2436.0,2154.0,0022-538X,1070-6321,,,ok
+https://openalex.org/S127900037,Human Reproduction,Q3,144,3.8937,3.37,6.462,0.0,46.0,1.4792,0.0,5432.0,1677.0,0268-1161,1460-2350,,,ok
+https://openalex.org/S2597052008,Frontiers in Medicine,Q3,145,3.8934,2.893,6.7097,0.0,77.0,1.1419,0.0,13758.0,10950.0,2296-858X,,,,ok
+https://openalex.org/S95395365,Molecular Medicine Reports,Q3,146,3.8807,2.6455,7.7453,0.0,34.0,1.3722,0.0,967.0,839.0,1791-2997,1791-3004,,,ok
+https://openalex.org/S160567915,Journal of Orthopaedic Surgery and Research,Q3,147,3.8794,3.2765,6.5289,0.0,42.0,1.9071,0.0,3469.0,2923.0,1749-799X,,,,ok
+https://openalex.org/S2764766708,Microbiology Spectrum,Q3,148,3.8631,2.4613,7.3699,0.0,63.0,1.2174,0.0,7017.0,6213.0,2165-0497,,,,ok
+https://openalex.org/S192926780,BMC Cancer,Q3,149,3.8543,2.7532,7.0382,0.0,53.0,1.442,0.0,6179.0,5219.0,1471-2407,,,,ok
+https://openalex.org/S4210226234,Vaccines,Q3,150,3.8511,2.6191,7.1442,0.0,72.0,0.6575,0.0,6603.0,5862.0,2076-393X,,,,ok
+https://openalex.org/S202381698,PLoS ONE,Q3,151,3.8503,3.1528,5.8422,0.0,104.0,1.2676,0.0,64986.0,53035.0,1932-6203,,,,ok
+https://openalex.org/S2737969411,Journal of Clinical Medicine,Q3,152,3.85,2.8519,6.4228,0.0,85.0,1.4193,0.0,31561.0,26177.0,2077-0383,,,,ok
+https://openalex.org/S206235894,Thrombosis and Haemostasis,Q3,153,3.8455,2.9232,7.4615,0.0,26.0,1.4285,0.0,629.0,452.0,0340-6245,2567-689X,,,ok
+https://openalex.org/S4210205812,Applied Sciences,Q3,154,3.821,2.5855,6.3543,0.0,121.0,1.3247,0.0,51691.0,42625.0,2076-3417,,,,ok
+https://openalex.org/S79704628,Neurology,Q3,155,3.8019,2.6887,6.6821,0.0,70.0,1.2958,0.0,14591.0,4563.0,0028-3878,1526-632X,,,ok
+https://openalex.org/S100767427,Lung Cancer,Q3,156,3.7972,2.6536,7.2887,0.0,37.0,1.49,0.0,2300.0,938.0,0169-5002,1872-8332,,,ok
+https://openalex.org/S144507673,Radiotherapy and Oncology,Q3,157,3.7919,2.9252,6.7039,0.0,44.0,1.5498,0.0,12398.0,1837.0,0167-8140,1879-0887,,,ok
+https://openalex.org/S167664057,Pediatric Research,Q3,158,3.7881,3.6798,5.6831,0.0,40.0,1.7358,0.0,2537.0,1755.0,0031-3998,1530-0447,,,ok
+https://openalex.org/S4210233903,Science-Business eXchange,Q3,159,3.7835,1.8087,0.0,8.6128,53.0,0.0,0.0,4000.0,0.0,1945-3477,,,,ok
+https://openalex.org/S180821644,Pediatric Critical Care Medicine,Q3,160,3.7811,3.0767,6.9949,0.0,30.0,0.909,0.0,1873.0,751.0,1529-7535,1947-3893,,,ok
+https://openalex.org/S2736780684,Journal of Personalized Medicine,Q3,161,3.7689,2.4829,7.0142,0.0,61.0,1.1458,0.0,5435.0,4894.0,2075-4426,,,,ok
+https://openalex.org/S49828768,Journal of Medical Virology,Q3,162,3.7679,2.5525,7.1522,0.0,60.0,0.4795,0.0,2670.0,2307.0,0146-6615,1096-9071,,,ok
+https://openalex.org/S140251998,Journal of Biological Chemistry,Q3,163,3.7542,2.124,7.4283,0.0,60.0,1.3158,0.0,9093.0,4315.0,0021-9258,1067-8816,,,ok
+https://openalex.org/S27359860,Vaccine,Q3,164,3.75,2.8003,6.7122,0.0,52.0,0.9385,0.0,3997.0,3332.0,0264-410X,1873-2518,,,ok
+https://openalex.org/S186920367,The American Journal of Medicine,Q3,165,3.7442,2.836,6.8016,0.0,36.0,1.6906,0.0,1222.0,684.0,0002-9343,1555-7162,,,ok
+https://openalex.org/S112180307,The Spine Journal,Q3,166,3.6984,3.0618,6.2989,0.0,34.0,1.9684,0.0,2520.0,941.0,1529-9430,1878-1632,,,ok
+https://openalex.org/S109998069,Drug and Alcohol Dependence,Q3,167,3.6966,2.9829,6.4353,0.0,40.0,1.1578,0.0,3226.0,1177.0,0376-8716,1879-0046,,,ok
+https://openalex.org/S35071406,International Journal of Infectious Diseases,Q3,168,3.695,2.5284,6.9699,0.0,51.0,0.7022,0.0,2930.0,1807.0,1201-9712,1878-3511,,,ok
+https://openalex.org/S47215897,Antimicrobial Agents and Chemotherapy,Q3,169,3.6892,2.3966,7.2025,0.0,40.0,1.2455,0.0,1543.0,1364.0,0066-4804,1070-6283,,,ok
+https://openalex.org/S104698359,Anesthesia & Analgesia,Q3,170,3.6736,3.1961,6.1113,0.0,36.0,1.292,0.0,1786.0,1221.0,0003-2999,1526-7598,,,ok
+https://openalex.org/S30525748,The Journal of Urology,Q3,171,3.6628,2.7979,6.485,0.0,40.0,1.441,0.0,11456.0,1379.0,0022-5347,1527-3792,,,ok
+https://openalex.org/S1010394304,BioMed Research International,Q3,172,3.6609,2.153,7.2763,0.0,53.0,0.8351,0.0,2088.0,1929.0,2314-6133,2314-6141,,,ok
+https://openalex.org/S106908163,Neuro-Oncology,Q3,173,3.6604,2.6047,6.379,0.0,57.0,1.5246,0.0,10645.0,2022.0,1522-8517,1523-5866,,,ok
+https://openalex.org/S157527038,Endocrinology,Q3,174,3.6574,2.6621,6.9739,0.0,30.0,1.2806,0.0,720.0,624.0,0013-7227,1945-7170,,,ok
+https://openalex.org/S13054843,Osteoarthritis and Cartilage,Q3,175,3.6522,2.7268,6.4766,0.0,42.0,1.5159,0.0,3619.0,1091.0,1063-4584,1522-9653,,,ok
+https://openalex.org/S46995015,American Heart Journal,Q3,176,3.6434,3.0632,6.37,0.0,28.0,1.4911,0.0,1027.0,673.0,0002-8703,1097-6744,,,ok
+https://openalex.org/S171015910,BMC Infectious Diseases,Q3,177,3.6357,2.775,6.2906,0.0,49.0,1.1358,0.0,5274.0,4167.0,1471-2334,,,,ok
+https://openalex.org/S127437062,Journal of Thoracic and Cardiovascular Surgery,Q3,178,3.6287,2.8075,6.6634,0.0,31.0,1.1359,0.0,1744.0,946.0,0022-5223,1085-8687,,,ok
+https://openalex.org/S4210223820,World Journal of Advanced Research and Reviews,Q3,179,3.5999,3.243,5.3079,0.0,43.0,2.5937,0.0,9963.0,3226.0,2581-9615,,,,ok
+https://openalex.org/S64942916,European Heart Journal - Cardiovascular Imaging,Q3,180,3.5971,2.4995,6.749,0.0,36.0,1.4158,0.0,2652.0,993.0,2047-2404,2047-2412,,,ok
+https://openalex.org/S47506589,Annals of Physical and Rehabilitation Medicine,Q3,181,3.5944,2.9994,6.6129,0.0,20.0,1.3835,0.0,196.0,156.0,1877-0657,1877-0665,,,ok
+https://openalex.org/S2596394214,Frontiers in Oncology,Q3,182,3.5905,2.1616,6.413,0.0,87.0,1.101,0.0,19589.0,16486.0,2234-943X,,,,ok
+https://openalex.org/S2754843627,Cancer Medicine,Q3,183,3.566,2.5562,6.33,0.0,49.0,1.093,0.0,4233.0,3800.0,2045-7634,,,,ok
+https://openalex.org/S183989336,Lara D. Veeken,Q3,184,3.5587,2.5325,6.3486,0.0,45.0,1.3483,0.0,3989.0,2284.0,1462-0324,1462-0332,,,ok
+https://openalex.org/S1008817457,Medicina,Q3,185,3.5396,2.6313,5.8469,0.0,57.0,1.5746,0.0,8352.0,6877.0,1010-660X,1648-9144,,,ok
+https://openalex.org/S183718435,Sleep Medicine,Q3,186,3.5305,2.6328,6.1948,0.0,36.0,1.8603,0.0,3518.0,1575.0,1389-9457,1878-5506,,,ok
+https://openalex.org/S67869649,Journal of Cardiac Failure,Q3,187,3.5189,2.4653,6.4902,0.0,35.0,1.5036,0.0,2441.0,891.0,1071-9164,1532-8414,,,ok
+https://openalex.org/S96975567,Frontiers in Neurology,Q3,188,3.5089,2.1974,6.2804,0.0,63.0,1.3788,0.0,9770.0,8291.0,1664-2295,,,,ok
+https://openalex.org/S140889577,Journal of Applied Physiology,Q3,189,3.5041,2.6135,6.3974,0.0,30.0,1.4037,0.0,1127.0,964.0,1522-1601,8750-7587,,,ok
+https://openalex.org/S2574783,Gynecologic Oncology,Q3,190,3.504,2.6718,6.0803,0.0,40.0,1.2322,0.0,3629.0,1435.0,0090-8258,1095-6859,,,ok
+https://openalex.org/S2595413687,Frontiers in Cardiovascular Medicine,Q3,191,3.4918,2.1568,6.2233,0.0,71.0,1.1086,0.0,9165.0,7768.0,2297-055X,,,,ok
+https://openalex.org/S191421250,Clinical Orthopaedics and Related Research,Q3,192,3.4795,3.1157,5.7073,0.0,29.0,1.1085,0.0,1258.0,709.0,0009-921X,1528-1132,,,ok
+https://openalex.org/S47192491,Surgical Endoscopy,Q3,193,3.4727,2.6365,5.9243,0.0,39.0,1.6572,0.0,3471.0,2802.0,0930-2794,1432-2218,,,ok
+https://openalex.org/S142542876,British Journal of Radiology,Q3,194,3.4601,2.1753,6.668,0.0,34.0,1.5921,0.0,1147.0,914.0,0007-1285,1748-880X,,,ok
+https://openalex.org/S2737761232,Intensive Care Medicine Experimental,Q3,195,3.4458,2.8226,6.0714,0.0,22.0,1.8318,0.0,370.0,306.0,2197-425X,,,,ok
+https://openalex.org/S25293849,The FASEB Journal,Q3,196,3.4455,1.734,7.0814,0.0,43.0,1.2579,0.0,8124.0,3511.0,0892-6638,1530-6860,,,ok
+https://openalex.org/S3774022,The Journal of Pediatrics,Q3,197,3.4452,3.0592,5.539,0.0,32.0,1.1612,0.0,1638.0,1103.0,0022-3476,1085-8695,,,ok
+https://openalex.org/S2736895435,Children,Q3,198,3.4437,2.8908,5.2893,0.0,50.0,1.3259,0.0,7094.0,5764.0,2227-9067,,,,ok
+https://openalex.org/S4210216427,International Journal of Gynecology & Obstetrics,Q3,199,3.4393,3.0099,5.463,0.0,35.0,1.2888,0.0,2502.0,1773.0,0020-7292,1879-3479,,,ok
+https://openalex.org/S126644158,Oncotarget,Q3,200,3.4381,2.0746,7.3033,0.0,20.0,1.3022,0.0,349.0,255.0,1949-2553,,,,ok
+https://openalex.org/S150894996,Journal of science and medicine in sport,Q4,201,3.4378,2.8521,5.8447,0.0,27.0,1.6348,0.0,1183.0,580.0,1440-2440,1878-1861,,,ok
+https://openalex.org/S6589812,Journal of Clinical Virology,Q4,202,3.4344,2.1946,7.0222,0.0,26.0,0.7837,0.0,424.0,342.0,1386-6532,1873-5967,,,ok
+https://openalex.org/S2597340651,Frontiers in Genetics,Q4,203,3.4294,2.0782,6.2157,0.0,66.0,0.908,0.0,7193.0,6443.0,1664-8021,,,,ok
+https://openalex.org/S79054089,BMJ Open,Q4,204,3.4081,2.6704,5.1445,0.0,71.0,1.1987,0.0,17963.0,14269.0,2044-6055,,,,ok
+https://openalex.org/S207549998,Clinica Chimica Acta,Q4,205,3.4031,2.1915,6.4007,0.0,34.0,1.6648,0.0,4344.0,1489.0,0009-8981,1873-3492,,,ok
+https://openalex.org/S13342628,International Journal of Cardiology,Q4,206,3.4023,2.6742,5.7524,0.0,36.0,1.3094,0.0,2479.0,1870.0,0167-5273,1874-1754,,,ok
+https://openalex.org/S163651451,Heart Rhythm,Q4,207,3.4007,2.7888,5.5688,0.0,36.0,1.3736,0.0,7588.0,1868.0,1547-5271,1556-3871,,,ok
+https://openalex.org/S147691530,Parkinsonism & Related Disorders,Q4,208,3.3914,2.3075,6.2542,0.0,31.0,1.7874,0.0,2111.0,938.0,1353-8020,1873-5126,,,ok
+https://openalex.org/S45720283,British Journal of Dermatology,Q4,209,3.3873,2.6987,5.5221,0.0,43.0,1.1701,0.0,4061.0,1444.0,0007-0963,1365-2133,,,ok
+https://openalex.org/S10075937,Journal of Cancer Research and Clinical Oncology,Q4,210,3.3802,2.059,6.2821,0.0,42.0,1.696,0.0,2400.0,2173.0,0171-5216,1432-1335,,,ok
+https://openalex.org/S126162762,Canadian Journal of Cardiology,Q4,211,3.3712,2.3983,6.2227,0.0,31.0,1.0771,0.0,2458.0,804.0,0828-282X,1916-7075,,,ok
+https://openalex.org/S1995308,Journal of neurosurgery,Q4,212,3.3664,2.41,6.0565,0.0,32.0,1.4531,0.0,1386.0,1174.0,0022-3085,1933-0693,,,ok
+https://openalex.org/S95522064,Medical Physics,Q4,213,3.3622,2.3776,5.8915,0.0,41.0,1.2662,0.0,2774.0,2212.0,0094-2405,1522-8541,,,ok
+https://openalex.org/S38337076,Clinical Neurophysiology,Q4,214,3.3621,2.2331,6.2482,0.0,34.0,1.3732,0.0,2415.0,839.0,1388-2457,1872-8952,,,ok
+https://openalex.org/S2739034459,Global Spine Journal,Q4,215,3.362,2.8426,5.4101,0.0,32.0,1.5512,0.0,1119.0,838.0,2192-5682,2192-5690,,,ok
+https://openalex.org/S58727509,Journal of the American Academy of Dermatology,Q4,216,3.3568,2.5222,5.4688,0.0,48.0,1.4405,0.0,7740.0,2353.0,0190-9622,1097-6787,,,ok
+https://openalex.org/S67514239,Experimental Biology and Medicine,Q4,217,3.346,2.0183,6.7143,0.0,27.0,1.3463,0.0,546.0,485.0,1535-3699,1535-3702,,,ok
+https://openalex.org/S172125442,The American Journal of Emergency Medicine,Q4,218,3.313,2.6715,5.4993,0.0,33.0,1.2489,0.0,1988.0,1466.0,0735-6757,1532-8171,,,ok
+https://openalex.org/S197961893,Surgery for Obesity and Related Diseases,Q4,219,3.3122,2.9873,5.2444,0.0,26.0,1.4044,0.0,2202.0,535.0,1550-7289,1878-7533,,,ok
+https://openalex.org/S4210231119,Aging,Q4,220,3.3119,1.9155,6.2868,0.0,42.0,1.3703,0.0,2318.0,2141.0,1945-4589,,,,ok
+https://openalex.org/S4026894,Spine,Q4,221,3.3029,2.7112,5.3658,0.0,29.0,1.9501,0.0,1209.0,923.0,0362-2436,1528-1159,,,ok
+https://openalex.org/S25155249,Journal of Alzheimer s Disease,Q4,222,3.3028,2.2435,5.7582,0.0,42.0,1.5046,0.0,3118.0,2564.0,1387-2877,1875-8908,,,ok
+https://openalex.org/S35439863,BMC Musculoskeletal Disorders,Q4,223,3.3,2.5505,5.357,0.0,41.0,1.4374,0.0,4355.0,3618.0,1471-2474,,,,ok
+https://openalex.org/S4210182343,European Urology Open Science,Q4,224,3.2931,2.4399,5.7806,0.0,32.0,1.2227,0.0,4894.0,746.0,2666-1683,2666-1691,,,ok
+https://openalex.org/S115964404,Journal of Hypertension,Q4,225,3.2884,1.9841,6.3916,0.0,29.0,1.6429,0.0,6293.0,1417.0,0263-6352,1473-5598,,,ok
+https://openalex.org/S116012647,Annals of Emergency Medicine,Q4,226,3.2839,2.6964,5.4441,0.0,28.0,1.4974,0.0,3137.0,664.0,0196-0644,1085-8717,,,ok
+https://openalex.org/S193617204,Pancreatology,Q4,227,3.2768,2.3417,6.0098,0.0,24.0,1.7193,0.0,2304.0,545.0,1424-3903,1424-3911,,,ok
+https://openalex.org/S186113128,Nephrology Dialysis Transplantation,Q4,228,3.266,2.2806,5.5613,0.0,40.0,1.7021,0.0,7771.0,1673.0,0931-0509,1460-2385,,,ok
+https://openalex.org/S69273698,Digestive and Liver Disease,Q4,229,3.2387,2.4016,5.5111,0.0,32.0,1.6516,0.0,2864.0,980.0,1590-8658,1878-3562,,,ok
+https://openalex.org/S2756194055,American Review of Tuberculosis,Q4,230,3.2335,1.5833,0.0,7.5395,23.0,0.0,0.0,247.0,0.0,0096-0381,,,,ok
+https://openalex.org/S197964821,Journal of Pediatric Gastroenterology and Nutrition,Q4,231,3.2263,2.6184,5.3078,0.0,27.0,1.7156,0.0,1220.0,919.0,0277-2116,1536-4801,,,ok
+https://openalex.org/S153015021,British Journal of Haematology,Q4,232,3.2095,2.2847,5.5852,0.0,35.0,1.1906,0.0,1982.0,1531.0,0007-1048,1365-2141,,,ok
+https://openalex.org/S207294652,Archives of Disease in Childhood,Q4,233,3.2,3.0993,4.753,0.0,25.0,1.1164,0.0,1136.0,601.0,0003-9888,1468-2044,,,ok
+https://openalex.org/S144688638,Journal of Cardiovascular Magnetic Resonance,Q4,234,3.1789,2.3228,5.5078,0.0,28.0,1.6679,0.0,2064.0,587.0,1097-6647,1532-429X,,,ok
+https://openalex.org/S153558830,Annals of Allergy Asthma & Immunology,Q4,235,3.1605,2.1192,5.601,0.0,36.0,1.164,0.0,3500.0,1151.0,1081-1206,1534-4436,,,ok
+https://openalex.org/S28527816,Gastrointestinal Endoscopy,Q4,236,3.1569,2.3276,5.0924,0.0,42.0,1.3613,0.0,7663.0,1600.0,0016-5107,1085-8741,,,ok
+https://openalex.org/S134546602,Thrombosis Research,Q4,237,3.1446,2.3289,5.4303,0.0,27.0,1.5233,0.0,840.0,719.0,0049-3848,1879-2472,,,ok
+https://openalex.org/S15444899,Evidence-based Complementary and Alternative Medicine,Q4,238,3.1434,1.6628,6.2884,0.0,38.0,0.6319,0.0,1825.0,1758.0,1741-427X,1741-4288,,,ok
+https://openalex.org/S12644804,Tumor Biology,Q4,239,3.1221,1.8774,6.8966,0.0,10.0,1.5662,0.0,58.0,44.0,1010-4283,1423-0380,,,ok
+https://openalex.org/S134316426,Journal of the American College of Surgeons,Q4,240,3.1214,2.3695,5.2919,0.0,31.0,0.983,0.0,2684.0,969.0,1072-7515,1879-1190,,,ok
+https://openalex.org/S4210220095,Sari Pediatri,Q4,241,3.11,1.384,0.0,6.5903,49.0,0.0,0.0,4000.0,0.0,2338-5022,,,,ok
+https://openalex.org/S200877091,Otolaryngology,Q4,242,3.1014,2.3406,5.1084,0.0,29.0,1.806,0.0,1425.0,1088.0,0194-5998,1085-8679,,,ok
+https://openalex.org/S11564597,Transplantation,Q4,243,3.0995,2.3906,5.0468,0.0,35.0,1.017,0.0,5008.0,1350.0,0041-1337,1534-6080,,,ok
+https://openalex.org/S42921845,SLEEP,Q4,244,3.0974,2.2163,5.0829,0.0,38.0,1.4605,0.0,5686.0,1565.0,0161-8105,1550-9109,,,ok
+https://openalex.org/S110924429,Archives of Physical Medicine and Rehabilitation,Q4,245,3.0923,2.2163,5.2453,0.0,30.0,1.661,0.0,3034.0,1098.0,0003-9993,1532-821X,,,ok
+https://openalex.org/S28607811,Journal of Investigative Dermatology,Q4,246,3.0858,2.0544,5.2702,0.0,37.0,1.5399,0.0,9267.0,1561.0,0022-202X,1523-1747,,,ok
+https://openalex.org/S2764478277,Kidney International Reports,Q4,247,3.0822,2.1167,5.1399,0.0,40.0,1.348,0.0,6370.0,1816.0,2468-0249,,,,ok
+https://openalex.org/S4386621754,Transplantation and Cellular Therapy,Q4,248,3.0809,2.173,5.0604,0.0,39.0,1.4279,0.0,4030.0,1555.0,2666-6367,,,,ok
+https://openalex.org/S100736837,Plastic & Reconstructive Surgery,Q4,249,3.0582,2.1866,5.093,0.0,34.0,1.3914,0.0,2729.0,1984.0,0032-1052,1076-5751,,,ok
+https://openalex.org/S4210212300,Time to knit,Q4,250,3.0502,1.3897,0.0,6.6176,37.0,0.0,0.0,1361.0,0.0,0849-6757,,,,ok
+https://openalex.org/S177486402,Annals of Surgical Oncology,Q4,251,3.042,2.2285,4.883,0.0,41.0,1.0389,0.0,6342.0,3591.0,1068-9265,1534-4681,,,ok
+https://openalex.org/S147774598,Journal of Cystic Fibrosis,Q4,252,3.0333,2.2285,4.8954,0.0,36.0,1.3282,0.0,6118.0,1016.0,1569-1993,1873-5010,,,ok
+https://openalex.org/S135898356,Journal of Pain and Symptom Management,Q4,253,3.0205,2.5242,4.5636,0.0,29.0,1.6446,0.0,2905.0,1066.0,0885-3924,1873-6513,,,ok
+https://openalex.org/S200071133,Blood,Q4,254,3.0191,1.9208,4.3478,0.0,87.0,1.5527,0.0,32086.0,11507.0,0006-4971,1528-0020,,,ok
+https://openalex.org/S2596117549,Frontiers in Pediatrics,Q4,255,3.0158,2.1289,4.7684,0.0,45.0,1.2469,0.0,6745.0,5456.0,2296-2360,,,,ok
+https://openalex.org/S61740008,British journal of surgery,Q4,256,2.9984,2.1138,4.7719,0.0,37.0,1.8329,0.0,10505.0,1652.0,0007-1323,1365-2168,,,ok
+https://openalex.org/S150708336,The Journal of Strength and Conditioning Research,Q4,257,2.9951,2.317,4.8056,0.0,25.0,2.0692,0.0,1116.0,832.0,1064-8011,1533-4287,,,ok
+https://openalex.org/S110533041,International Journal of Radiation Oncology*Biology*Physics,Q4,258,2.9858,2.0239,4.7337,0.0,44.0,1.5833,0.0,10335.0,2917.0,0360-3016,1879-355X,,,ok
+https://openalex.org/S129764719,Infection Control and Hospital Epidemiology,Q4,259,2.9772,1.9969,5.4251,0.0,26.0,0.9225,0.0,1002.0,697.0,0899-823X,1559-6834,,,ok
+https://openalex.org/S2755168269,Orthopaedic Journal of Sports Medicine,Q4,260,2.977,2.3535,4.5836,0.0,31.0,1.5582,0.0,3458.0,1765.0,2325-9671,,,,ok
+https://openalex.org/S2735126445,Open Forum Infectious Diseases,Q4,261,2.9768,1.8439,5.0341,0.0,45.0,1.1631,0.0,9781.0,3588.0,2328-8957,,,,ok
+https://openalex.org/S111727011,Neurosurgery,Q4,262,2.958,2.0449,4.9953,0.0,30.0,1.4597,0.0,3710.0,1429.0,0148-396X,1081-1281,,,ok
+https://openalex.org/S165390330,Endocrine Practice,Q4,263,2.9319,2.2079,4.7377,0.0,30.0,1.1703,0.0,2941.0,901.0,1530-891X,1934-2403,,,ok
+https://openalex.org/S158473028,European Journal of Surgical Oncology,Q4,264,2.9203,2.1251,4.7126,0.0,29.0,1.6837,0.0,5622.0,1569.0,0748-7983,1532-2157,,,ok
+https://openalex.org/S109113098,Ultrasound in Medicine & Biology,Q4,265,2.9175,1.8312,5.3116,0.0,24.0,1.6117,0.0,2136.0,831.0,0301-5629,1879-291X,,,ok
+https://openalex.org/S14109371,Injury,Q4,266,2.8971,2.2753,4.321,0.0,32.0,1.6525,0.0,2252.0,1751.0,0020-1383,1879-0267,,,ok
+https://openalex.org/S42270594,The Journal of Heart and Lung Transplantation,Q4,267,2.8884,2.0305,4.5066,0.0,39.0,1.3611,0.0,6685.0,1754.0,1053-2498,1557-3117,,,ok
+https://openalex.org/S2755174949,Annals of Translational Medicine,Q4,268,2.8852,1.5441,5.496,0.0,38.0,0.4415,0.0,1771.0,1654.0,2305-5839,2305-5847,,,ok
+https://openalex.org/S2764622253,Multiple Sclerosis and Related Disorders,Q4,269,2.8696,1.9352,4.7869,0.0,33.0,1.1372,0.0,2688.0,1899.0,2211-0348,2211-0356,,,ok
+https://openalex.org/S1605907,The Journal of Maternal-Fetal & Neonatal Medicine,Q4,270,2.8572,2.3127,4.5351,0.0,21.0,1.5642,0.0,959.0,765.0,1476-4954,1476-7058,,,ok
+https://openalex.org/S17762386,European Journal of Obstetrics & Gynecology and Reproductive Biology,Q4,271,2.8423,2.3348,4.2313,0.0,26.0,1.5995,0.0,3098.0,1493.0,0301-2115,1872-7654,,,ok
+https://openalex.org/S2764554612,Cancer Management and Research,Q4,272,2.8411,1.9336,4.9207,0.0,26.0,1.0847,0.0,831.0,632.0,1179-1322,,,,ok
+https://openalex.org/S185186944,The American Journal of Cardiology,Q4,273,2.8404,1.903,4.7355,0.0,30.0,1.4101,0.0,2185.0,1809.0,0002-9149,1879-1913,,,ok
+https://openalex.org/S109512841,Trials,Q4,274,2.8376,2.0942,4.3319,0.0,36.0,1.2103,0.0,3211.0,2622.0,1745-6215,,,,ok
+https://openalex.org/S104135014,Journal of Vascular Surgery,Q4,275,2.8271,2.0643,4.4023,0.0,32.0,1.3772,0.0,5154.0,1798.0,0741-5214,1085-875X,,,ok
+https://openalex.org/S2764915710,Clinical Nutrition ESPEN,Q4,276,2.8202,1.9731,4.433,0.0,34.0,1.42,0.0,5425.0,1496.0,2405-4577,,,,ok
+https://openalex.org/S61251237,Archives of Surgery,Q4,277,2.8164,1.2467,0.0,5.9369,35.0,0.0,0.0,2174.0,0.0,0004-0010,1538-3644,,,ok
+https://openalex.org/S66582611,Foot and Ankle Surgery,Q4,278,2.8072,1.9823,4.7921,0.0,20.0,1.7967,0.0,456.0,376.0,1268-7731,1460-9584,,,ok
+https://openalex.org/S4210185368,Research and Practice in Thrombosis and Haemostasis,Q4,279,2.8007,2.0689,4.5279,0.0,29.0,0.8749,0.0,3156.0,1072.0,2475-0379,,,,ok
+https://openalex.org/S28966261,Medicine,Q4,280,2.7873,1.7388,4.1208,0.0,51.0,1.9187,0.0,17588.0,12344.0,0025-7974,1536-5964,,,ok
+https://openalex.org/S101510409,The American Journal of Surgery,Q4,281,2.7823,2.2942,4.1932,0.0,24.0,1.3206,0.0,1387.0,1043.0,0002-9610,1879-1883,,,ok
+https://openalex.org/S3376858,Journal of Vascular and Interventional Radiology,Q4,282,2.777,2.0463,4.4837,0.0,23.0,1.6348,0.0,3296.0,822.0,1051-0443,1535-7732,,,ok
+https://openalex.org/S14544163,Medicine & Science in Sports & Exercise,Q4,283,2.7728,1.9721,4.379,0.0,30.0,1.3675,0.0,10184.0,1305.0,0195-9131,1530-0315,,,ok
+https://openalex.org/S2737491567,Journal of Evidence Based Medicine and Healthcare,Q4,284,2.7715,1.2903,0.0,6.1442,22.0,0.0,0.0,839.0,0.0,2349-2562,2349-2570,,,ok
+https://openalex.org/S39924113,Journal of Pediatric Surgery,Q4,285,2.7687,2.3439,4.0246,0.0,24.0,1.5007,0.0,1747.0,1264.0,0022-3468,1531-5037,,,ok
+https://openalex.org/S453935,Survey of Anesthesiology,Q4,286,2.7674,1.2616,0.0,6.0077,26.0,0.0,0.0,1153.0,0.0,0039-6206,1536-7185,,,ok
+https://openalex.org/S123199335,International Journal of General Medicine,Q4,287,2.76,1.8145,4.5157,0.0,34.0,1.0428,0.0,2472.0,1943.0,1178-7074,,,,ok
+https://openalex.org/S138998826,Physica Medica,Q4,288,2.7591,1.8705,4.7264,0.0,23.0,1.3529,0.0,3421.0,812.0,1120-1797,1724-191X,,,ok
+https://openalex.org/S112197712,Sexually Transmitted Infections,Q4,289,2.7509,2.1626,4.5245,0.0,18.0,1.3277,0.0,379.0,254.0,1368-4973,1472-3263,,,ok
+https://openalex.org/S196979320,Urology,Q4,290,2.7418,2.1164,4.2063,0.0,25.0,1.4596,0.0,2275.0,1277.0,0090-4295,1527-9995,,,ok
+https://openalex.org/S151589183,Biochemical and Biophysical Research Communications,Q4,291,2.7399,1.58,4.5779,0.0,38.0,1.3246,0.0,5393.0,4334.0,0006-291X,1090-2104,,,ok
+https://openalex.org/S22344484,International Journal of Clinical Practice,Q4,292,2.7381,1.8867,4.5876,0.0,26.0,1.0395,0.0,717.0,498.0,1368-5031,1742-1241,,,ok
+https://openalex.org/S156858864,Medical Science Monitor,Q4,293,2.7361,2.1008,4.1592,0.0,25.0,1.6555,0.0,1471.0,1097.0,1234-1010,1643-3750,,,ok
+https://openalex.org/S168522863,Cancer Research,Q4,294,2.7348,1.3572,4.1806,0.0,74.0,1.4634,0.0,35624.0,7814.0,0008-5472,1538-7445,,,ok
+https://openalex.org/S178469169,Acta Paediatrica,Q4,295,2.7237,2.527,3.7802,0.0,24.0,0.8153,0.0,1458.0,1049.0,0803-5253,1651-2227,,,ok
+https://openalex.org/S66441642,The American Journal of Gastroenterology,Q4,296,2.7207,1.8982,3.6719,0.0,51.0,1.729,0.0,22364.0,3539.0,0002-9270,1572-0241,,,ok
+https://openalex.org/S195182175,Endoscopy,Q4,297,2.7,2.0529,3.7946,0.0,37.0,1.2778,0.0,7749.0,1691.0,0013-726X,1438-8812,,,ok
+https://openalex.org/S2738950867,Cureus,Q4,298,2.6988,1.4908,3.603,0.0,86.0,1.901,0.0,79098.0,43891.0,2168-8184,,,,ok
+https://openalex.org/S38008053,The Journal of Immunology,Q4,299,2.686,1.3856,4.7544,0.0,36.0,1.0786,0.0,8593.0,1933.0,0022-1767,1550-6606,,,ok
+https://openalex.org/S2595365928,Frontiers in Surgery,Q4,300,2.684,1.708,4.2519,0.0,36.0,1.2331,0.0,4545.0,3555.0,2296-875X,,,,ok
+https://openalex.org/S8391440,Cancer Epidemiology Biomarkers & Prevention,Q4,301,2.678,1.8053,4.1842,0.0,30.0,1.5703,0.0,3355.0,882.0,1055-9965,1538-7755,,,ok
+https://openalex.org/S115693375,Journal of the American Society of Nephrology,Q4,302,2.6754,1.8131,3.845,0.0,48.0,1.0361,0.0,17593.0,2098.0,1046-6673,1533-3450,,,ok
+https://openalex.org/S86387881,The Laryngoscope,Q4,303,2.6727,1.8722,4.0972,0.0,27.0,1.9078,0.0,2541.0,1811.0,0023-852X,1091-756X,,,ok
+https://openalex.org/S151424340,Experimental and Therapeutic Medicine,Q4,304,2.6542,1.5444,4.5564,0.0,30.0,1.1681,0.0,1751.0,1472.0,1792-0981,1792-1015,,,ok
+https://openalex.org/S121762105,Neuromodulation Technology at the Neural Interface,Q4,305,2.6523,1.8313,4.2464,0.0,27.0,1.1777,0.0,3543.0,701.0,1094-7159,1525-1403,,,ok
+https://openalex.org/S46247591,PM&R,Q4,306,2.6475,2.0651,3.9796,0.0,24.0,1.3021,0.0,981.0,382.0,1934-1482,1934-1563,,,ok
+https://openalex.org/S4210226177,Annals of Medicine and Surgery,Q4,307,2.6269,1.7838,3.7695,0.0,46.0,0.9181,0.0,5631.0,3813.0,2049-0801,,,,ok
+https://openalex.org/S59624048,World Neurosurgery,Q4,308,2.6213,1.6898,3.9813,0.0,35.0,1.5209,0.0,5868.0,4376.0,1878-8750,1878-8769,,,ok
+https://openalex.org/S21165490,Acta Ophthalmologica,Q4,309,2.6103,1.8091,4.1409,0.0,25.0,1.3369,0.0,3049.0,800.0,1755-375X,1755-3768,,,ok
+https://openalex.org/S169054600,Journal of the Neurological Sciences,Q4,310,2.6069,1.9282,3.7916,0.0,32.0,1.0818,0.0,4868.0,1143.0,0022-510X,1878-5883,,,ok
+https://openalex.org/S84414767,Annales d Endocrinologie,Q4,311,2.6008,1.885,4.2538,0.0,17.0,1.8108,0.0,2617.0,256.0,0003-4266,2213-3941,,,ok
+https://openalex.org/S2764761676,Annals of Palliative Medicine,Q4,312,2.6004,1.9138,4.3462,0.0,21.0,0.6079,0.0,697.0,576.0,2224-5820,2224-5839,,,ok
+https://openalex.org/S2764457454,Quantitative Imaging in Medicine and Surgery,Q4,313,2.5883,1.6861,4.0031,0.0,30.0,1.5246,0.0,2861.0,1971.0,2223-4292,2223-4306,,,ok
+https://openalex.org/S191336577,Indian Journal of Ophthalmology,Q4,314,2.5792,1.5761,4.1923,0.0,32.0,1.0188,0.0,2530.0,1777.0,0301-4738,1998-3689,,,ok
+https://openalex.org/S129060628,Diabetes,Q4,315,2.576,1.6515,3.8061,0.0,39.0,1.2896,0.0,8965.0,2059.0,0012-1797,1939-327X,,,ok
+https://openalex.org/S2754193772,Journal of Thoracic Disease,Q4,316,2.5539,1.7641,3.8895,0.0,29.0,1.1351,0.0,2714.0,1911.0,2072-1439,2077-6624,,,ok
+https://openalex.org/S2754281505,Plastic & Reconstructive Surgery Global Open,Q4,317,2.53,1.8399,3.4732,0.0,30.0,1.8919,0.0,6281.0,2596.0,2169-7574,,,,ok
+https://openalex.org/S62018274,Journal of International Medical Research,Q4,318,2.524,1.5712,4.0828,0.0,27.0,1.2308,0.0,2018.0,1451.0,0300-0605,1473-2300,,,ok
+https://openalex.org/S76900504,CHEST Journal,Q4,319,2.5202,1.5804,3.5,0.0,50.0,1.0693,0.0,16072.0,3334.0,0012-3692,1931-3543,,,ok
+https://openalex.org/S4306401843,Data Archiving and Networked Services (DANS),Q4,320,2.5047,2.7727,3.3529,0.0,14.0,0.1353,0.0,274.0,35.0,,,,,ok
+https://openalex.org/S4210237554,IBRO Neuroscience Reports,Q4,321,2.5044,1.8504,3.5455,0.0,25.0,1.8259,0.0,2716.0,555.0,2667-2421,,,,ok
+https://openalex.org/S4210174059,Journal of Stroke and Cerebrovascular Diseases,Q4,322,2.4942,1.5969,3.9507,0.0,25.0,1.4284,0.0,1768.0,1435.0,1052-3057,1532-8511,,,ok
+https://openalex.org/S58832373,Oncology Letters,Q4,323,2.4933,1.5131,3.8887,0.0,29.0,1.5644,0.0,2084.0,1630.0,1792-1074,1792-1082,,,ok
+https://openalex.org/S38907727,International Journal of Oral and Maxillofacial Surgery,Q4,324,2.461,2.0017,3.3589,0.0,22.0,1.4892,0.0,2438.0,559.0,0901-5027,1399-0020,,,ok
+https://openalex.org/S45161156,Journal of Surgical Research,Q4,325,2.4566,1.863,3.4148,0.0,25.0,1.4812,0.0,2856.0,1931.0,0022-4804,1095-8673,,,ok
+https://openalex.org/S13566964,The Journal of Nervous and Mental Disease,Q4,326,2.4533,2.1741,3.3407,0.0,16.0,1.6975,0.0,399.0,314.0,0022-3018,1539-736X,,,ok
+https://openalex.org/S105051383,American Journal of Health-System Pharmacy,Q4,327,2.4464,2.0798,3.2657,0.0,21.0,1.3672,0.0,1411.0,744.0,1079-2082,1535-2900,,,ok
+https://openalex.org/S166523383,Arquivos de Neuro-Psiquiatria,Q4,328,2.4353,1.4611,4.004,0.0,22.0,1.5275,0.0,3138.0,489.0,0004-282X,1678-4227,,,ok
+https://openalex.org/S2898367572,Pregnancy Hypertension,Q4,329,2.4308,2.0864,3.4435,0.0,17.0,1.1828,0.0,614.0,252.0,2210-7789,2210-7797,,,ok
+https://openalex.org/S146294059,Geburtshilfe und Frauenheilkunde,Q4,330,2.4303,2.0456,3.5369,0.0,16.0,1.2531,0.0,2864.0,282.0,0016-5751,1438-8804,,,ok
+https://openalex.org/S4210215356,Brain and Spine,Q4,331,2.4248,1.7191,3.5654,0.0,19.0,2.3839,0.0,4861.0,670.0,2772-5294,,,,ok
+https://openalex.org/S73678819,Journal of Minimally Invasive Gynecology,Q4,332,2.4104,1.9468,3.3324,0.0,20.0,1.4569,0.0,2795.0,645.0,1553-4650,1553-4669,,,ok
+https://openalex.org/S121579133,Asian Pacific Journal of Cancer Prevention,Q4,333,2.4056,1.5441,3.7347,0.0,25.0,1.1807,0.0,2060.0,1529.0,1513-7368,2476-762X,,,ok
+https://openalex.org/S4210200900,Stroke Vascular and Interventional Neurology,Q4,334,2.4014,1.4116,4.0115,0.0,21.0,1.4063,0.0,2082.0,428.0,2694-5746,,,,ok
+https://openalex.org/S4377196282,Figshare,Q4,335,2.3913,2.4166,2.1747,0.0,54.0,-0.0649,0.0,121657.0,674.0,,,,,ok
+https://openalex.org/S111121700,Physiotherapy,Q4,336,2.373,1.6908,3.7586,0.0,17.0,1.211,0.0,1166.0,286.0,0031-9406,1873-1465,,,ok
+https://openalex.org/S115789314,Obstetrical & Gynecological Survey,Q4,337,2.3665,1.8011,3.6368,0.0,21.0,0.4348,0.0,971.0,383.0,0029-7828,1533-9866,,,ok
+https://openalex.org/S678965,Value in Health,Q4,338,2.3544,2.0216,2.5495,0.0,35.0,1.1319,0.0,19639.0,2474.0,1098-3015,1524-4733,,,ok
+https://openalex.org/S985209115,Oral Surgery Oral Medicine Oral Pathology and Oral Radiology,Q4,339,2.3478,1.5774,3.4796,0.0,20.0,1.998,0.0,4163.0,739.0,2212-4403,2212-4411,,,ok
+https://openalex.org/S170171939,Diseases of the Esophagus,Q4,340,2.3411,1.8245,3.3791,0.0,17.0,1.4625,0.0,1966.0,424.0,1120-8694,1442-2050,,,ok
+https://openalex.org/S159118581,Pathology,Q4,341,2.3407,1.5103,3.7574,0.0,19.0,1.283,0.0,1788.0,413.0,0031-3025,1465-3931,,,ok
+https://openalex.org/S159512450,The Journal of Sexual Medicine,Q4,342,2.3319,1.5907,3.3469,0.0,23.0,1.6105,0.0,5220.0,1148.0,1743-6095,1743-6109,,,ok
+https://openalex.org/S115046667,Archives of Dermatology,Q4,343,2.3265,1.0162,0.0,4.8389,20.0,0.0,0.0,765.0,0.0,0003-987X,1538-3652,,,ok
+https://openalex.org/S4210211592,HemaSphere,Q4,344,2.3252,1.2497,3.7113,0.0,29.0,1.078,0.0,5907.0,1819.0,2572-9241,,,,ok
+https://openalex.org/S23714410,Hematological Oncology,Q4,345,2.3214,1.5662,3.5166,0.0,21.0,1.2449,0.0,2017.0,653.0,0278-0232,1099-1069,,,ok
+https://openalex.org/S81127,European Heart Journal Supplements,Q4,346,2.3017,1.2739,3.8202,0.0,20.0,1.5364,0.0,3556.0,674.0,1520-765X,1554-2815,,,ok
+https://openalex.org/S4210212309,RöFo - Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren,Q4,347,2.2914,1.4513,3.7351,0.0,16.0,1.5664,0.0,2606.0,252.0,1438-9010,1438-9029,,,ok
+https://openalex.org/S1118231,Clinical Nuclear Medicine,Q4,348,2.287,1.4109,3.4724,0.0,25.0,1.0892,0.0,2277.0,1585.0,0363-9762,1536-0229,,,ok
+https://openalex.org/S2738453254,World Journal of Clinical Cases,Q4,349,2.2743,1.1648,3.4521,0.0,33.0,1.2552,0.0,3708.0,2807.0,2307-8960,,,,ok
+https://openalex.org/S4210219560,Current Developments in Nutrition,Q4,350,2.2729,1.3478,3.4704,0.0,24.0,1.3613,0.0,6531.0,1216.0,2475-2991,,,,ok
+https://openalex.org/S32515731,Archives de Pédiatrie,Q4,351,2.2607,1.6553,3.414,0.0,17.0,1.017,0.0,437.0,287.0,0929-693X,1769-664X,,,ok
+https://openalex.org/S124584150,Annals of Vascular Surgery,Q4,352,2.2533,1.6323,3.127,0.0,19.0,1.742,0.0,2561.0,1414.0,0890-5096,1615-5947,,,ok
+https://openalex.org/S98085912,Biophysical Journal,Q4,353,2.2327,1.1074,3.4001,0.0,34.0,1.0311,0.0,12650.0,2754.0,0006-3495,1542-0086,,,ok
+https://openalex.org/S59987174,Biology of Blood and Marrow Transplantation,Q4,354,2.2183,1.0237,0.0,4.875,12.0,0.0,0.0,150.0,0.0,1083-8791,1523-6536,,,ok
+https://openalex.org/S15871148,American Journal of Clinical Pathology,Q4,355,2.2119,1.3398,3.4244,0.0,18.0,1.733,0.0,2176.0,622.0,0002-9173,1943-7722,,,ok
+https://openalex.org/S41786655,Annales de Dermatologie et de Vénéréologie,Q4,356,2.2075,1.7296,3.3137,0.0,12.0,1.4183,0.0,156.0,94.0,0151-9638,2214-5451,,,ok
+https://openalex.org/S2764965054,Translational Cancer Research,Q4,357,2.1972,1.3413,3.386,0.0,22.0,0.9137,0.0,1759.0,1248.0,2218-676X,2219-6803,,,ok
+https://openalex.org/S69770752,Revista Española de Cardiología,Q4,358,2.1915,1.4754,3.3864,0.0,16.0,1.2292,0.0,4075.0,355.0,0300-8932,1577-3698,,,ok
+https://openalex.org/S185605772,HPB,Q4,359,2.1878,1.2416,3.3777,0.0,21.0,1.4768,0.0,6397.0,881.0,1365-182X,1477-2574,,,ok
+https://openalex.org/S187216704,AJN American Journal of Nursing,Q4,360,2.1875,1.9124,2.8233,0.0,14.0,1.4649,0.0,1401.0,426.0,0002-936X,1538-7488,,,ok
+https://openalex.org/S189922908,Zeitschrift für Gastroenterologie,Q4,361,2.1818,1.4106,3.4045,0.0,19.0,0.7987,0.0,5145.0,328.0,0044-2771,1439-7803,,,ok
+https://openalex.org/S157347057,Anticancer Research,Q4,362,2.1528,1.1765,3.2487,0.0,26.0,1.0126,0.0,2418.0,1785.0,0250-7005,1791-7530,,,ok
+https://openalex.org/S2764801637,Journal of Family Medicine and Primary Care,Q4,363,2.1484,1.454,2.638,0.0,29.0,1.3744,0.0,3770.0,2481.0,2249-4863,2278-7135,,,ok
+https://openalex.org/S40489520,ANZ Journal of Surgery,Q4,364,2.1321,1.3454,3.0424,0.0,21.0,1.3454,0.0,2165.0,1219.0,1445-1433,1445-2197,,,ok
+https://openalex.org/S4210220588,European Journal of Public Health,Q4,365,2.1083,1.4387,2.3949,0.0,28.0,1.9888,0.0,8438.0,2193.0,1101-1262,1464-360X,,,ok
+https://openalex.org/S2764750233,British Journal of Medicine and Medical Research,Q4,366,2.1076,0.9945,0.0,4.7357,9.0,0.0,0.0,140.0,0.0,2231-0614,,,,ok
+https://openalex.org/S80523760,Archives of Ophthalmology,Q4,367,2.1012,0.9607,0.0,4.575,11.0,0.0,0.0,229.0,0.0,0003-9950,1538-3601,,,ok
+https://openalex.org/S4404677285,Revista fisio&terapia.,Q4,368,2.0717,3.0576,0.9874,0.0,4.0,9.4722,0.0,12466.0,394.0,1678-0817,,,,ok
+https://openalex.org/S119123570,Heart Lung and Circulation,Q4,369,2.0703,1.3354,2.8347,0.0,21.0,1.2475,0.0,5162.0,864.0,1443-9506,1444-2892,,,ok
+https://openalex.org/S87202501,European Psychiatry,Q4,370,2.054,1.4664,2.2327,0.0,28.0,1.5557,0.0,8330.0,1939.0,0924-9338,1778-3585,,,ok
+https://openalex.org/S67424211,Dermatologic Therapy,Q4,371,2.0425,1.7403,2.1261,0.0,28.0,0.492,0.0,610.0,475.0,1396-0296,1529-8019,,,ok
+https://openalex.org/S186546955,Clinical Lymphoma Myeloma & Leukemia,Q4,372,2.0345,1.2771,2.7386,0.0,20.0,1.5717,0.0,9151.0,1453.0,2152-2650,2152-2669,,,ok
+https://openalex.org/S2735747656,Journal of the Endocrine Society,Q4,373,2.0271,1.1601,2.5931,0.0,27.0,1.5391,0.0,9511.0,1880.0,2472-1972,,,,ok
+https://openalex.org/S113474406,The American Surgeon,Q4,374,1.9951,1.3064,2.5434,0.0,20.0,1.5581,0.0,2142.0,1366.0,0003-1348,1555-9823,,,ok
+https://openalex.org/S9803440,Journal of the International Neuropsychological Society,Q4,375,1.9885,1.3101,2.6848,0.0,17.0,1.4787,0.0,1393.0,352.0,1355-6177,1469-7661,,,ok
+https://openalex.org/S111957458,Pneumologie,Q4,376,1.9857,1.2995,2.9848,0.0,12.0,1.6017,0.0,1960.0,208.0,0934-8387,1438-8790,,,ok
+https://openalex.org/S139075330,QJM,Q4,377,1.9814,1.4483,2.3333,0.0,21.0,1.2026,0.0,3774.0,865.0,1460-2393,1460-2725,,,ok
+https://openalex.org/S4210207214,International Journal For Multidisciplinary Research,Q4,378,1.9772,1.8842,1.6493,0.0,21.0,1.4217,0.0,27366.0,3340.0,2582-2160,,,,ok
+https://openalex.org/S36642063,Journal of Craniofacial Surgery,Q4,379,1.9734,1.3334,2.2901,0.0,19.0,2.4378,0.0,3833.0,2120.0,1049-2275,1536-3732,,,ok
+https://openalex.org/S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),Q4,380,1.9697,2.0056,1.5346,0.0,29.0,0.2526,0.0,54664.0,527.0,,,,,ok
+https://openalex.org/S4210199530,Contribuciones a las Ciencias Sociales,Q4,381,1.9459,2.095,1.3016,0.0,10.0,5.8113,0.0,11819.0,1237.0,1988-7833,,,,ok
+https://openalex.org/S2755481371,Pan African Medical Journal,Q4,382,1.9299,1.177,2.4136,0.0,23.0,1.2262,0.0,2149.0,1261.0,1937-8688,,,,ok
+https://openalex.org/S4210194820,Cuadernos de Educación y Desarrollo,Q4,383,1.9249,2.1885,1.4485,0.0,10.0,2.7265,0.0,5144.0,766.0,1989-4155,,,,ok
+https://openalex.org/S2735557189,Innovation in Aging,Q4,384,1.9208,1.3551,1.9701,0.0,22.0,2.1088,0.0,16192.0,1922.0,2399-5300,,,,ok
+https://openalex.org/S196623810,Revista Clínica Española,Q4,385,1.8438,1.3749,2.608,0.0,10.0,1.0977,0.0,3547.0,184.0,0014-2565,1578-1860,,,ok
+https://openalex.org/S88977973,Physiology,Q4,386,1.8412,1.1231,2.0368,0.0,21.0,2.0271,0.0,5727.0,746.0,1548-9213,1548-9221,,,ok
+https://openalex.org/S81394012,The Thoracic and Cardiovascular Surgeon,Q4,387,1.8412,1.1638,2.7192,0.0,12.0,1.122,0.0,1410.0,285.0,0171-6425,1439-1902,,,ok
+https://openalex.org/S33826441,African Journal of Biomedical Research,Q4,388,1.8352,1.4402,2.2063,0.0,7.0,4.6488,0.0,4061.0,371.0,1119-5096,,,,ok
+https://openalex.org/S112646816,SHILAP Revista de lepidopterología,Q4,389,1.8296,1.0314,1.5079,0.0,68.0,0.2468,0.0,81822.0,8772.0,0300-5267,2340-4078,,,ok
+https://openalex.org/S4210238184,"Revista Ibero-Americana de Humanidades, Ciências e Educação",Q4,390,1.8184,1.9643,1.2304,0.0,15.0,1.3806,0.0,12852.0,2293.0,2675-3375,,,,ok
+https://openalex.org/S4210206803,Archives of Internal Medicine,Q4,391,1.8076,0.6956,0.0,3.3123,18.0,0.0,0.0,1077.0,0.0,0003-9926,1538-3679,,,ok
+https://openalex.org/S4306400562,Zenodo (CERN European Organization for Nuclear Research),Q4,392,1.806,1.2302,1.4112,0.0,52.0,0.2221,0.0,680147.0,18714.0,,,,,ok
+https://openalex.org/S2764563025,Foot & Ankle Orthopaedics,Q4,393,1.8023,0.9826,2.5265,0.0,16.0,1.203,0.0,2978.0,757.0,2473-0114,,,,ok
+https://openalex.org/S109361689,The American Journal of the Medical Sciences,Q4,394,1.7688,1.1062,2.0873,0.0,19.0,1.0935,0.0,2994.0,677.0,0002-9629,1538-2990,,,ok
+https://openalex.org/S5398819,International Journal of Surgery Case Reports,Q4,395,1.7636,1.0778,2.0246,0.0,19.0,1.3998,0.0,5203.0,3263.0,2210-2612,,,,ok
+https://openalex.org/S36000085,Nursing Standard,Q4,396,1.7492,1.3805,2.0833,0.0,10.0,1.6414,0.0,1249.0,189.0,0029-6570,2047-9018,,,ok
+https://openalex.org/S4306401840,DergiPark (Istanbul University),Q4,397,1.7359,1.5914,1.3876,0.0,17.0,1.0739,0.0,56217.0,2356.0,,,,,ok
+https://openalex.org/S110757056,The Journal of Laryngology & Otology,Q4,398,1.7354,0.9903,2.5401,0.0,12.0,1.1169,0.0,906.0,496.0,0022-2151,1748-5460,,,ok
+https://openalex.org/S199738284,Journal of Visualized Experiments,Q4,399,1.7345,0.762,2.4762,0.0,18.0,1.1192,0.0,9259.0,3026.0,1940-087X,,,,ok
+https://openalex.org/S154471048,Internal Medicine,Q4,400,1.7261,0.9533,2.2918,0.0,17.0,0.9078,0.0,2711.0,1644.0,0918-2918,1349-7235,,,ok
+https://openalex.org/S86692366,La Revue de Médecine Interne,Q4,401,1.7148,0.9573,2.4578,0.0,11.0,1.6134,0.0,3774.0,300.0,0248-8663,1768-3122,,,ok
+https://openalex.org/S146061289,Transplantation Proceedings,Q4,402,1.7081,0.9758,2.3243,0.0,14.0,1.0616,0.0,1634.0,1054.0,0041-1345,1873-2623,,,ok
+https://openalex.org/S45895958,Cirugía Española,Q4,403,1.6683,1.0942,2.3889,0.0,8.0,1.5233,0.0,3223.0,161.0,0009-739X,1578-147X,,,ok
+https://openalex.org/S89143414,Southern Medical Journal,Q4,404,1.6624,1.0979,2.1835,0.0,10.0,1.4233,0.0,548.0,288.0,0038-4348,1541-8243,,,ok
+https://openalex.org/S4210224230,Brazilian Journal of Implantology and Health Sciences,Q4,405,1.615,1.5348,1.401,0.0,8.0,2.2817,0.0,5433.0,1187.0,2674-8169,,,,ok
+https://openalex.org/S4210214068,工程学研究与实用,Q4,406,1.6121,1.5507,1.3965,0.0,10.0,1.2367,0.0,6384.0,985.0,2717-5316,,,,ok
+https://openalex.org/S125166392,Journal of Physical Therapy Science,Q4,407,1.607,1.0049,2.0611,0.0,11.0,1.2082,0.0,518.0,330.0,0915-5287,2187-5626,,,ok
+https://openalex.org/S4210206555,Journal of Pharmaceutical Research International,Q4,408,1.5933,0.6863,2.4422,0.0,12.0,0.9642,0.0,1288.0,510.0,2456-9119,,,,ok
+https://openalex.org/S190549722,Radiology Case Reports,Q4,409,1.585,0.9201,1.8227,0.0,14.0,1.384,0.0,4560.0,2703.0,1930-0433,,,,ok
+https://openalex.org/S4210234566,Brazilian Journal of Development,Q4,410,1.5829,1.118,1.4813,0.0,19.0,0.6195,0.0,9260.0,2396.0,2525-8761,,,,ok
+https://openalex.org/S4210240710,International Journal of Science and Research (IJSR),Q4,411,1.5807,1.0511,1.3948,0.0,20.0,0.9871,0.0,17717.0,2100.0,2319-7064,,,,ok
+https://openalex.org/S957094277,Journal of the Association of Physicians of India,Q4,412,1.5717,1.0761,1.8493,0.0,9.0,1.8504,0.0,861.0,370.0,0004-5772,,,,ok
+https://openalex.org/S104442948,Indian Journal of Otolaryngology and Head & Neck Surgery,Q4,413,1.5598,0.8139,1.6789,0.0,13.0,2.6801,0.0,3219.0,1376.0,0973-7707,2231-3796,,,ok
+https://openalex.org/S2735316389,European Heart Journal - Case Reports,Q4,414,1.5275,0.8454,1.8618,0.0,13.0,1.0319,0.0,2458.0,1249.0,2514-2119,,,,ok
+https://openalex.org/S4387280582,Revista Contemporânea,Q4,415,1.5167,1.4319,1.1658,0.0,8.0,2.2075,0.0,6063.0,862.0,2447-0961,2764-7757,,,ok
+https://openalex.org/S2737168579,Clinical Case Reports,Q4,416,1.4922,0.9029,1.6492,0.0,18.0,0.2033,0.0,5869.0,4112.0,2050-0904,,,,ok
+https://openalex.org/S141953298,BMJ Case Reports,Q4,417,1.487,0.8198,1.6198,0.0,16.0,0.7837,0.0,6865.0,3451.0,1757-790X,,,,ok
+https://openalex.org/S4210217879,Population Medicine,Q4,418,1.4835,0.8883,1.5607,0.0,12.0,1.5633,0.0,2217.0,344.0,2654-1459,,,,ok
+https://openalex.org/S4210206230,International Journal of Advanced Research,Q4,419,1.4812,1.0304,1.3944,0.0,11.0,1.732,0.0,8356.0,989.0,2320-5407,,,,ok
+https://openalex.org/S38943393,DMW - Deutsche Medizinische Wochenschrift,Q4,420,1.4764,0.9449,1.8072,0.0,9.0,1.1996,0.0,1835.0,299.0,0012-0472,1439-4413,,,ok
+https://openalex.org/S4306401293,Dialnet (Universidad de la Rioja),Q4,421,1.469,1.6732,1.0714,0.0,10.0,0.1133,0.0,20543.0,180.0,,,,,ok
+https://openalex.org/S4210177346,Brazilian Journal of Health Review,Q4,422,1.4645,0.9312,1.3414,0.0,13.0,1.6018,0.0,10407.0,2405.0,2595-6825,,,,ok
+https://openalex.org/S4210198593,Journal of Surgical Case Reports,Q4,423,1.4626,0.9077,1.6348,0.0,10.0,1.4886,0.0,3157.0,1546.0,2042-8812,,,,ok
+https://openalex.org/S4210179027,International Journal of Health Sciences,Q4,424,1.4569,0.6762,1.6981,0.0,22.0,0.0821,0.0,9593.0,3448.0,2550-696X,2550-6978,,,ok
+https://openalex.org/S2738387300,Open Access Macedonian Journal of Medical Sciences,Q4,425,1.4522,0.645,1.8772,0.0,15.0,0.5319,0.0,1966.0,1121.0,1857-9655,,,,ok
+https://openalex.org/S2739064124,Research Society and Development,Q4,426,1.4518,0.8855,1.3224,0.0,22.0,0.2003,0.0,16411.0,7689.0,2525-3409,,,,ok
+https://openalex.org/S4210203361,Neurology Perspectives,Q4,427,1.4277,0.8137,1.9333,0.0,8.0,1.0856,0.0,2552.0,81.0,2667-0496,,,,ok
+https://openalex.org/S187579785,Journal of Cardiac Surgery,Q4,428,1.4058,0.8538,1.2857,0.0,20.0,0.177,0.0,920.0,652.0,0886-0440,1540-8191,,,ok
+https://openalex.org/S4210228917,Kazan medical journal,Q4,429,1.3848,0.7888,1.8642,0.0,7.0,1.268,0.0,923.0,160.0,0368-4814,2587-9359,,,ok
+https://openalex.org/S2898598332,Hematology Transfusion and Cell Therapy,Q4,430,1.3785,0.7125,1.4576,0.0,12.0,1.2786,0.0,8164.0,692.0,2531-1379,2531-1387,,,ok
+https://openalex.org/S80542161,Pharmaceutical journal/The pharmaceutical journal,Q4,431,1.3464,0.9001,1.914,0.0,6.0,0.5571,0.0,3322.0,199.0,0031-6873,2053-6186,,,ok
+https://openalex.org/S2764350261,Journal of Pharmaceutical Negative Results,Q4,432,1.34,0.5063,1.5238,0.0,15.0,0.8067,0.0,2078.0,983.0,0976-9234,2229-7723,,,ok
+https://openalex.org/S14436165,Reactions Weekly,Q4,433,1.3052,0.9447,1.4571,0.0,10.0,0.0745,0.0,81686.0,221.0,0114-9954,1179-2051,,,ok
+https://openalex.org/S2764844500,IOSR Journal of Dental and Medical Sciences,Q4,434,1.2947,1.0588,1.4839,0.0,2.0,5.4031,0.0,577.0,38.0,2279-0853,2279-0861,,,ok
+https://openalex.org/S2764968390,Asian Journal of Pharmaceutical and Clinical Research,Q4,435,1.2889,0.6573,1.4232,0.0,8.0,1.7878,0.0,1778.0,596.0,0974-2441,2455-3891,,,ok
+https://openalex.org/S2764638019,Biomedical Journal of Scientific & Technical Research,Q4,436,1.2831,0.7135,1.2773,0.0,12.0,0.6251,0.0,3006.0,840.0,2574-1241,,,,ok
+https://openalex.org/S4210197100,Journal of Neurological Surgery Part B Skull Base,Q4,437,1.2799,0.6219,1.3486,0.0,10.0,1.3097,0.0,3026.0,328.0,2193-6331,2193-634X,,,ok
+https://openalex.org/S2737465529,JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH,Q4,438,1.2768,0.5952,1.304,0.0,10.0,1.5948,0.0,6449.0,1611.0,0973-709X,2249-782X,,,ok
+https://openalex.org/S140305009,Laryngo-Rhino-Otologie,Q4,439,1.258,0.6796,1.4868,0.0,8.0,0.9362,0.0,4467.0,272.0,0935-8943,1438-8685,,,ok
+https://openalex.org/S4210240253,工程管理与技术探讨,Q4,440,1.2575,1.1883,1.0,0.0,6.0,1.0148,0.0,6907.0,563.0,2717-5189,,,,ok
+https://openalex.org/S6672359,Revue des Maladies Respiratoires,Q4,441,1.2398,0.6632,1.617,0.0,7.0,0.746,0.0,632.0,172.0,0761-8425,1776-2588,,,ok
+https://openalex.org/S205902839,Interactive Cardiovascular and Thoracic Surgery,Q4,442,1.1938,1.1244,0.0,0.0,17.0,0.678,0.0,249.0,220.0,1569-9285,1569-9293,,,ok
+https://openalex.org/S4210221842,Anales de la Facultad de Medicina,Q4,443,1.1883,0.8659,1.28,0.0,6.0,0.6908,0.0,322.0,104.0,1025-5583,1609-9419,,,ok
+https://openalex.org/S101791497,Archives of Otolaryngology - Head and Neck Surgery,Q4,444,1.1707,0.4987,0.0,2.375,4.0,0.0,0.0,36.0,0.0,0886-4470,1538-361X,,,ok
+https://openalex.org/S2764396899,The Egyptian Journal of Hospital Medicine,Q4,445,1.1574,0.4902,1.2575,0.0,8.0,1.2577,0.0,3934.0,1101.0,1687-2002,2090-7125,,,ok
+https://openalex.org/S4210177211,C&EN Global Enterprise,Q4,446,1.1524,0.613,1.3275,0.0,7.0,0.7758,0.0,6020.0,312.0,2474-7408,,,,ok
+https://openalex.org/S2755438640,Revista de medicina de la Universidad de Navarra,Q4,447,1.1517,0.3314,0.0,1.578,12.0,0.0,0.0,2969.0,0.0,0556-6177,2444-2836,,,ok
+https://openalex.org/S4306509401,Endocrine Abstracts,Q4,448,1.1113,0.5989,1.0838,0.0,7.0,1.0947,0.0,14425.0,702.0,1470-3947,1479-6848,,,ok
+https://openalex.org/S206553565,Genetics and Molecular Research,Q4,449,1.0996,0.6854,1.5,0.0,4.0,0.7321,0.0,123.0,49.0,1676-5680,,,,ok
+https://openalex.org/S180817373,Asian Journal of Medical Sciences,Q4,450,1.092,0.5738,1.1196,0.0,6.0,1.2974,0.0,2479.0,598.0,2091-0576,,,,ok
+https://openalex.org/S2764444635,International Journal of Reproduction Contraception Obstetrics and Gynecology,Q4,451,1.087,0.7172,1.0396,0.0,7.0,0.4545,0.0,2949.0,1080.0,2320-1770,2320-1789,,,ok
+https://openalex.org/S25652865,MMW - Fortschritte der Medizin,Q4,452,1.0859,0.7853,0.9273,0.0,5.0,1.3986,0.0,3825.0,270.0,1438-3276,1613-3560,,,ok
+https://openalex.org/S2764440867,International Journal of Research in Medical Sciences,Q4,453,1.0735,0.6036,0.9898,0.0,8.0,0.5475,0.0,3242.0,1020.0,2320-6012,2320-6071,,,ok
+https://openalex.org/S4210228265,The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Series pedagogy,Q4,454,1.0683,1.1474,0.875,0.0,5.0,-0.0772,0.0,9385.0,58.0,2311-6382,2415-3605,,,ok
+https://openalex.org/S4387287184,Orthopaedic Proceedings,Q4,455,1.0488,0.5367,1.0411,0.0,3.0,4.4401,0.0,3334.0,226.0,1358-992X,2049-4416,,,ok
+https://openalex.org/S2764603850,Indian Journal of Public Health Research & Development,Q4,456,1.04,0.6539,1.1282,0.0,4.0,1.3279,0.0,959.0,217.0,0976-0245,0976-5506,,,ok
+https://openalex.org/S4393917449,"Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition",Q4,457,1.0235,0.4915,1.0176,0.0,7.0,0.6735,0.0,21018.0,1017.0,1524-6965,1545-4428,,,ok
+https://openalex.org/S21218142,Revista Brasileira de Reumatologia,Q4,458,1.0199,0.3055,0.0,1.4547,8.0,0.0,0.0,1860.0,0.0,0482-5004,1809-4570,,,ok
+https://openalex.org/S2764854030,The Professional Medical Journal,Q4,459,1.0184,0.4871,1.1346,0.0,5.0,1.1722,0.0,1145.0,268.0,1024-8919,2071-7733,,,ok
+https://openalex.org/S2764819133,Journal of Pediatric Neurology,Q4,460,1.0169,0.4147,1.3438,0.0,3.0,2.5303,0.0,176.0,57.0,1304-2580,1875-9041,,,ok
+https://openalex.org/S2764642487,Journal of obstetrics and women s diseases,Q4,461,1.0066,0.6226,1.3051,0.0,3.0,1.1646,0.0,316.0,102.0,1683-9366,1684-0461,,,ok
+https://openalex.org/S2764418376,International Surgery Journal,Q4,462,1.0037,0.5758,1.0458,0.0,6.0,0.4355,0.0,1791.0,545.0,2349-2902,2349-3305,,,ok
+https://openalex.org/S2764671007,Advances in Clinical Medicine,Q4,463,0.9852,0.5067,0.913,0.0,5.0,1.4057,0.0,11397.0,906.0,2161-8712,2161-8720,,,ok
+https://openalex.org/S2764466093,International Journal of Orthopaedics Sciences,Q4,464,0.9829,0.6359,1.1613,0.0,5.0,0.1582,0.0,791.0,130.0,2395-1958,,,,ok
+https://openalex.org/S4210178864,Al-Azhar International Medical Journal /Al-Azhar International Medical Journal,Q4,465,0.9768,0.4468,1.019,0.0,5.0,1.1918,0.0,2633.0,274.0,2682-3381,2682-339X,,,ok
+https://openalex.org/S2898446404,Revue du Rhumatisme,Q4,466,0.9635,0.3764,1.0308,0.0,4.0,2.1414,0.0,2549.0,99.0,1169-8330,1768-3130,,,ok
+https://openalex.org/S4210171399,Indian Journal of Forensic Medicine & Toxicology,Q4,467,0.9549,0.6101,1.0,0.0,4.0,0.8099,0.0,535.0,162.0,0973-9122,0973-9130,,,ok
+https://openalex.org/S4210232157,Arquivos Brasileiros de Neurocirurgia Brazilian Neurosurgery,Q4,468,0.9445,0.3758,1.1538,0.0,4.0,1.2572,0.0,212.0,62.0,0103-5355,2359-5922,,,ok
+https://openalex.org/S2738651701,Revista Peruana de Ginecología y Obstetricia,Q4,469,0.9304,0.4328,1.1111,0.0,3.0,1.802,0.0,225.0,51.0,2304-5124,2304-5132,,,ok
+https://openalex.org/S4210169582,Journal of Medical Science And clinical Research,Q4,470,0.9124,0.4366,1.1724,0.0,3.0,1.224,0.0,672.0,56.0,2347-176X,2455-0450,,,ok
+https://openalex.org/S2898562440,Anesthésie & Réanimation,Q4,471,0.897,0.6289,0.963,0.0,3.0,0.8171,0.0,378.0,49.0,2352-5800,2352-5819,,,ok
+https://openalex.org/S4210192124,Im Focus Onkologie,Q4,472,0.8929,0.6587,1.25,0.0,2.0,0.651,0.0,1362.0,24.0,1435-7402,2192-5674,,,ok
+https://openalex.org/S4210199801,The Medical Journal of Cairo University/The Medical Journal of Cairo University,Q4,473,0.8828,0.3479,0.9574,0.0,4.0,1.2155,0.0,909.0,155.0,0045-3803,2536-9806,,,ok
+https://openalex.org/S4210184997,Modern technologies in ophtalmology,Q4,474,0.881,0.3787,1.1471,0.0,3.0,1.1544,0.0,1230.0,78.0,2312-4911,,,,ok
+https://openalex.org/S4210170078,Oncology Times,Q4,475,0.8667,0.4069,1.1489,0.0,4.0,0.2599,0.0,1835.0,103.0,0276-2234,1548-4688,,,ok
+https://openalex.org/S147586446,Archives of Cardiovascular Diseases Supplements,Q4,476,0.8635,0.2425,1.0,0.0,4.0,1.3208,0.0,756.0,83.0,1878-6480,1878-6502,,,ok
+https://openalex.org/S4210225430,Tạp chí Y học Việt Nam,Q4,477,0.856,0.3577,0.8549,0.0,4.0,1.1481,0.0,12132.0,771.0,1859-1868,,,,ok
+https://openalex.org/S2764443815,International Journal of Research in Pharmaceutical Sciences,Q4,478,0.8451,0.5,0.5862,0.0,7.0,0.025,0.0,297.0,62.0,0975-7538,,,,ok
+https://openalex.org/S43051214,Nihon Rinsho Geka Gakkai Zasshi (Journal of Japan Surgical Association),Q4,479,0.8426,0.3088,1.0417,0.0,2.0,2.7798,0.0,1352.0,111.0,1345-2843,1882-5133,,,ok
+https://openalex.org/S2898336668,Revue de Chirurgie Orthopédique et Traumatologique,Q4,480,0.8369,0.3878,0.8,0.0,3.0,1.802,0.0,1024.0,45.0,1877-0517,1877-0525,,,ok
+https://openalex.org/S4210170031,Journal of Evolution of Medical and Dental Sciences,Q4,481,0.8122,0.2888,0.7778,0.0,3.0,2.1072,0.0,359.0,64.0,2278-4748,2278-4802,,,ok
+https://openalex.org/S2898247517,Revue des Maladies Respiratoires Actualités,Q4,482,0.8092,0.5541,0.7561,0.0,4.0,0.1726,0.0,2235.0,54.0,1877-1203,1877-122X,,,ok
+https://openalex.org/S2764556570,Evidence-Based Practice,Q4,483,0.7948,0.3879,0.92,0.0,3.0,0.7325,0.0,1020.0,50.0,1095-4120,2473-3717,,,ok
+https://openalex.org/S4210239061,Proceedings for Annual Meeting of The Japanese Pharmacological Society,Q4,484,0.7891,0.3394,1.1667,0.0,2.0,1.0,0.0,2292.0,20.0,2435-4953,,,,ok
+https://openalex.org/S2764689247,Medico-Legal Update,Q4,485,0.7847,0.5037,1.0,0.0,2.0,0.7472,0.0,161.0,33.0,0971-720X,0974-1283,,,ok
+https://openalex.org/S4210193681,Brazilian Journal of Oncology,Q4,486,0.7456,0.3711,0.8462,0.0,3.0,0.4685,0.0,348.0,33.0,2526-8732,,,,ok
+https://openalex.org/S2764490451,World Chinese Journal of Digestology,Q4,487,0.6788,0.3644,0.8,0.0,2.0,0.6661,0.0,537.0,70.0,1009-3079,2219-2859,,,ok
+https://openalex.org/S4210184299,Pediatric Patient Education,Q4,488,0.5774,0.3535,0.4286,0.0,3.0,-0.2063,0.0,570.0,9.0,2156-3012,,,,ok
+https://openalex.org/S4210195837,ASVIDE,Q4,489,0.4793,0.2394,0.8889,0.0,1.0,-0.2063,0.0,1218.0,17.0,2412-270X,,,,ok
+https://openalex.org/S183492911,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",数据不足,,,,,,,,,9.0,,0277-786X,1996-756X,,,insufficient_data
+https://openalex.org/S41354064,ChemInform,数据不足,,,,,,,,,6.0,,0931-7597,1431-5890,,,insufficient_data
+https://openalex.org/S2531072874,SpringerPlus,数据不足,,,,,,,,,1.0,,2193-1801,,,,insufficient_data
+https://openalex.org/S4210201558,Proceedings of the Royal Society of Medicine,数据不足,,,,,,,,,3.0,,0035-9157,,,,insufficient_data
+https://openalex.org/S59157177,Annales Françaises d Anesthésie et de Réanimation,数据不足,,,,,,,,,11.0,,0750-7658,1769-6623,,,insufficient_data
+https://openalex.org/S4210181396,InPharma,数据不足,,,,,,,,,5.0,,0156-2703,2196-5013,,,insufficient_data
+https://openalex.org/S2764636812,Zhonghua zhongyiyao zazhi,暂无数据,,,,,,,,,,,1673-1727,,,,no_data
+https://openalex.org/S3035600779,Zhonghua xiandai huli zazhi,暂无数据,,,,,,,,,,,1674-2907,,,,no_data
+https://openalex.org/S2764697616,Zhongguo jiceng yiyao,暂无数据,,,,,,,,,,,1008-6706,,,,no_data
+https://openalex.org/S3035524536,Guoji yiyao weisheng daobao,暂无数据,,,,,,,,,,,1007-1245,,,,no_data
+https://openalex.org/S4210186882,Arquivos Brasileiros de Cirurgia Digestiva Express,数据不足,,,,,,,,,9.0,,2359-2737,,,,insufficient_data

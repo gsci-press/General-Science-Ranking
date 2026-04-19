@@ -1,0 +1,501 @@
+﻿openalex_id,name,quartile,rank,score,fwci_mean,if2,if2_approx,h5,cite_cagr,self_cite_rate,paper_count,fwci_n,issn,eissn,ccf_rank,venue_type,data_status
+https://openalex.org/S4393916742,NeurIPS,Q1,1,54.8836,34.7728,0.0,165.5847,193.0,0.0,0.0,970.0,0.0,,,A,conference,ok
+https://openalex.org/S4306418987,ICCV,Q1,2,50.5047,32.0361,0.0,152.553,100.0,0.0,0.0,463.0,0.0,,,A,conference,ok
+https://openalex.org/S4306420609,ICLR,Q1,3,41.8567,26.334,0.0,125.4,173.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S4306418609,CVPR,Q1,4,40.2448,25.2813,0.0,120.387,180.0,0.0,0.0,1001.0,0.0,,,A,conference,ok
+https://openalex.org/S4363608668,ACL,Q1,5,35.0636,21.93,0.0,104.4285,167.0,0.0,0.0,1010.0,0.0,,,A,conference,ok
+https://openalex.org/S4306419637,ICML,Q1,6,34.9079,21.8462,0.0,104.0295,150.0,0.0,0.0,1001.0,0.0,,,A,conference,ok
+https://openalex.org/S4363424788,EMNLP,Q1,7,30.3225,18.8718,0.0,89.8655,148.0,0.0,0.0,1009.0,0.0,,,B,conference,ok
+https://openalex.org/S4363552898,ECCV,Q1,8,24.7662,15.2595,0.0,72.6645,153.0,0.0,0.0,877.0,0.0,,,B,conference,ok
+https://openalex.org/S4363607701,ACM SIGKDD,Q1,9,23.7777,9.1631,0.0,76.568,196.0,1.0523,0.0,2019.0,1997.0,,,A,conference,ok
+https://openalex.org/S4210188176,Foundations and Trends in Machine Learning,Q1,10,22.8684,16.0232,65.9167,0.0,13.0,1.2452,0.0,21.0,20.0,1935-8237,1935-8245,B,journal,ok
+https://openalex.org/S4363520029,Symposium on Operating Systems Principles (SOSP),Q1,11,22.3458,13.965,0.0,66.5,27.0,0.0,0.0,153.0,0.0,,,A,conference,ok
+https://openalex.org/S68686220,Proceedings of the IEEE,Q1,12,21.0572,13.077,61.1619,0.0,71.0,1.2342,0.0,547.0,229.0,0018-9219,1558-2256,A,journal,ok
+https://openalex.org/S157921468,ACM Computing Surveys,Q1,13,18.1173,18.3318,41.4476,0.0,118.0,1.6199,0.0,1191.0,1093.0,0360-0300,1557-7341,A,journal,ok
+https://openalex.org/S4363519970,Robotics: Science and Systems (RSS),Q1,14,17.8564,10.9067,0.0,51.9367,67.0,0.0,0.0,316.0,0.0,,,B,conference,ok
+https://openalex.org/S2912241403,Nature Machine Intelligence,Q1,15,15.4521,12.981,38.4829,0.0,92.0,1.8075,0.0,730.0,670.0,2522-5839,,A,journal,ok
+https://openalex.org/S4363516222,Conference on Robot Learning (CoRL),Q1,16,14.7338,8.8342,0.0,42.0677,89.0,0.0,0.0,647.0,0.0,,,B,conference,ok
+https://openalex.org/S4363497722,NAACL,Q1,17,13.7034,8.1671,0.0,38.8911,88.0,0.0,0.0,1000.0,0.0,,,B,conference,ok
+https://openalex.org/S90422530,IEEE Journal on Selected Areas in Communications,Q1,18,13.1664,12.8324,29.6652,0.0,92.0,1.3111,0.0,1331.0,984.0,0733-8716,1558-0008,A,journal,ok
+https://openalex.org/S4210213233,Science Robotics,Q1,19,13.0608,11.8696,30.776,0.0,71.0,1.5997,0.0,417.0,347.0,,2470-9476,A,journal,ok
+https://openalex.org/S7560371,Information Fusion,Q1,20,12.3273,9.8138,30.1148,0.0,99.0,3.1226,0.0,2202.0,1887.0,1566-2535,1872-6305,,journal,ok
+https://openalex.org/S4363607698,ACM SIGMOD,Q1,21,11.8,32.9296,0.0,0.0,2.0,-0.8347,0.0,320.0,9.0,,,A,conference,ok
+https://openalex.org/S199944782,IEEE Transactions on Pattern Analysis and Machine Intelligence,Q1,22,11.3494,8.4697,28.0709,0.0,132.0,1.624,0.0,2904.0,2452.0,0162-8828,1939-3539,A,journal,ok
+https://openalex.org/S134668137,Nucleic Acids Research,Q1,23,10.9886,7.6132,27.6636,0.0,143.0,2.0165,0.0,5101.0,4608.0,0305-1048,1362-4962,A,journal,ok
+https://openalex.org/S4363607761,KDD,Q1,24,10.493,6.0905,0.0,29.0025,84.0,0.0,0.0,1006.0,0.0,,,A,conference,ok
+https://openalex.org/S4363607599,ACM International Conference on Multimedia (MM),Q1,25,9.8859,5.7003,0.0,27.1445,82.0,0.0,0.0,1110.0,0.0,,,B,conference,ok
+https://openalex.org/S4394735545,ACM Transactions on Information Systems,Q1,26,9.2999,10.4845,17.9879,0.0,48.0,1.9135,0.0,529.0,452.0,1046-8188,1558-2868,A,journal,ok
+https://openalex.org/S2492086750,ACM Transactions on Intelligent Systems and Technology,Q1,27,9.2399,9.2745,19.6339,0.0,41.0,1.7361,0.0,570.0,459.0,2157-6904,2157-6912,B,journal,ok
+https://openalex.org/S4363607743,ACM WSDM,Q1,28,9.2124,6.5807,0.0,23.1142,62.0,0.8821,0.0,637.0,635.0,,,B,conference,ok
+https://openalex.org/S4363607695,ACM SIGIR,Q1,29,9.1339,5.2243,0.0,24.8778,76.0,0.0,0.0,1000.0,0.0,,,B,conference,ok
+https://openalex.org/S4363517036,IEEE International Conference on Robotics and Automation (ICRA),Q1,30,9.0923,5.206,0.0,24.7905,72.0,0.0,0.0,1001.0,0.0,,,A,conference,ok
+https://openalex.org/S166722454,Education and Information Technologies,Q1,31,9.0752,11.7263,14.7494,0.0,86.0,2.0472,0.0,2980.0,2737.0,1360-2357,1573-7608,,journal,ok
+https://openalex.org/S4363519752,USENIX Symposium on Operating Systems Design (OSDI),Q1,32,9.0426,5.2884,0.0,25.183,35.0,0.0,0.0,187.0,0.0,,,A,conference,ok
+https://openalex.org/S155526855,Computational Linguistics,Q1,33,8.9634,9.9826,18.0735,0.0,23.0,1.8402,0.0,157.0,118.0,0891-2017,1530-9312,A,journal,ok
+https://openalex.org/S4210173141,IEEE Transactions on Image Processing,Q1,34,8.9386,6.3653,21.7286,0.0,92.0,1.6378,0.0,2088.0,1839.0,1057-7149,1941-0042,A,journal,ok
+https://openalex.org/S4210228084,Nature Computational Science,Q1,35,8.9346,6.6138,21.7959,0.0,59.0,1.669,0.0,672.0,472.0,,2662-8457,A,journal,ok
+https://openalex.org/S185367456,ACM Transactions on Graphics,Q1,36,8.8475,6.7739,21.1171,0.0,61.0,2.0167,0.0,1097.0,902.0,0730-0301,1557-7368,A,journal,ok
+https://openalex.org/S144620930,IEEE Transactions on Robotics,Q1,37,8.7213,8.2011,18.6865,0.0,64.0,1.4715,0.0,1103.0,929.0,1552-3098,1941-0468,A,journal,ok
+https://openalex.org/S63459445,IEEE Transactions on Wireless Communications,Q1,38,8.6352,8.166,17.942,0.0,93.0,1.8255,0.0,3835.0,3214.0,1536-1276,1558-2248,B,journal,ok
+https://openalex.org/S2729999759,Transactions of the Association for Computational Linguistics,Q1,39,8.3895,7.3545,19.0722,0.0,43.0,0.9653,0.0,347.0,298.0,2307-387X,,A,journal,ok
+https://openalex.org/S4210198887,IJCAI,Q1,40,8.1063,4.5552,0.0,21.6914,77.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S4363516341,EuroSys,Q1,41,8.0704,4.6573,0.0,22.1777,35.0,0.0,0.0,251.0,0.0,,,B,conference,ok
+https://openalex.org/S4210174276,Internet of Things,Q1,42,7.9104,6.9489,16.9497,0.0,68.0,2.3731,0.0,1281.0,1153.0,2542-6605,2543-1536,,journal,ok
+https://openalex.org/S158797327,IEEE Communications Magazine,Q1,43,7.8593,7.9021,15.7278,0.0,60.0,1.4416,0.0,1773.0,859.0,0163-6804,1558-1896,,journal,ok
+https://openalex.org/S4363517054,IEEE/ACM ICSE,Q1,44,7.8289,4.3815,0.0,20.8642,74.0,0.0,0.0,901.0,0.0,,,A,conference,ok
+https://openalex.org/S13144211,Expert Systems with Applications,Q1,45,7.8227,6.0914,17.2767,0.0,129.0,1.8036,0.0,12619.0,11039.0,0957-4174,,B,journal,ok
+https://openalex.org/S30698027,IEEE Transactions on Knowledge and Data Engineering,Q1,46,7.7391,7.0797,16.1029,0.0,78.0,1.5969,0.0,1864.0,1645.0,1041-4347,1558-2191,A,journal,ok
+https://openalex.org/S4210191041,IEEE Transactions on Cybernetics,Q1,47,7.7232,5.9259,17.6747,0.0,79.0,1.4586,0.0,2092.0,1602.0,2168-2267,2168-2275,B,journal,ok
+https://openalex.org/S4363516598,International Symposium on Computer Architecture (ISCA),Q1,48,7.6416,4.3619,0.0,20.771,39.0,0.0,0.0,370.0,0.0,,,A,conference,ok
+https://openalex.org/S174847851,Information Processing & Management,Q1,49,7.5963,8.2667,14.0937,0.0,61.0,1.6779,0.0,1425.0,1251.0,0306-4573,1873-5371,,journal,ok
+https://openalex.org/S4363520121,USENIX Security Symposium,Q1,50,7.5749,4.2475,0.0,20.226,61.0,0.0,0.0,975.0,0.0,,,A,conference,ok
+https://openalex.org/S2764346689,Swarm and Evolutionary Computation,Q2,51,7.5285,6.436,16.3831,0.0,51.0,2.6031,0.0,1026.0,877.0,2210-6502,,B,journal,ok
+https://openalex.org/S25538012,International Journal of Computer Vision,Q2,52,7.525,5.8872,17.1181,0.0,63.0,1.6339,0.0,1048.0,900.0,0920-5691,1573-1405,A,journal,ok
+https://openalex.org/S93787993,IEEE Transactions on Evolutionary Computation,Q2,53,7.4606,5.9547,16.8716,0.0,57.0,1.6015,0.0,784.0,575.0,1089-778X,1941-0026,B,journal,ok
+https://openalex.org/S900972176,Engineering Applications of Artificial Intelligence,Q2,54,7.4442,5.7135,16.3977,0.0,104.0,2.3556,0.0,7537.0,6394.0,0952-1976,,B,journal,ok
+https://openalex.org/S118988714,Journal of Machine Learning Research,Q2,55,7.3176,3.9904,0.0,19.0019,107.0,0.0,0.0,3542.0,0.0,1532-4435,1533-7928,A,journal,ok
+https://openalex.org/S142627899,ACM Transactions on Software Engineering and Methodology,Q2,56,7.2345,8.3902,12.6599,0.0,46.0,2.1148,0.0,938.0,755.0,1049-331X,1557-7392,A,journal,ok
+https://openalex.org/S144771191,IEEE Transactions on Intelligent Transportation Systems,Q2,57,7.2201,5.4288,16.0443,0.0,105.0,1.5951,0.0,5596.0,4800.0,1524-9050,1558-0016,,journal,ok
+https://openalex.org/S4210175523,IEEE Transactions on Neural Networks and Learning Systems,Q2,58,7.1693,5.491,15.7915,0.0,107.0,1.3645,0.0,3744.0,3217.0,2162-237X,2162-2388,B,journal,ok
+https://openalex.org/S186584794,IEEE Network,Q2,59,7.1147,6.2946,15.0402,0.0,54.0,1.7134,0.0,1179.0,829.0,0890-8044,1558-156X,,journal,ok
+https://openalex.org/S12529635,Computers and Security,Q2,60,7.0599,6.085,14.8461,0.0,67.0,1.9795,0.0,1699.0,1515.0,0167-4048,,B,journal,ok
+https://openalex.org/S134177497,IEEE Transactions on Fuzzy Systems,Q2,61,7.0293,5.426,15.732,0.0,70.0,1.4039,0.0,1623.0,1344.0,1063-6706,1941-0034,B,journal,ok
+https://openalex.org/S61310614,IEEE Transactions on Information Forensics and Security,Q2,62,6.9355,5.9861,14.3694,0.0,71.0,2.2946,0.0,2335.0,1947.0,1556-6013,1556-6021,A,journal,ok
+https://openalex.org/S2480266640,IEEE Internet of Things Journal,Q2,63,6.9303,6.1948,13.719,0.0,107.0,1.941,0.0,10612.0,8392.0,2327-4662,2372-2541,,journal,ok
+https://openalex.org/S414566,Pattern Recognition,Q2,64,6.9135,5.1589,15.3706,0.0,82.0,1.9162,0.0,3926.0,3330.0,0031-3203,,B,journal,ok
+https://openalex.org/S69141925,IEEE Transactions on Mobile Computing,Q2,65,6.8572,6.5628,13.2963,0.0,67.0,2.3478,0.0,2608.0,2053.0,1536-1233,1558-0660,A,journal,ok
+https://openalex.org/S4363518953,INTERSPEECH,Q2,66,6.8468,3.7775,0.0,17.988,60.0,0.0,0.0,1001.0,0.0,,,B,conference,ok
+https://openalex.org/S89276529,ACM Transactions on Computer-Human Interaction,Q2,67,6.8443,5.8501,14.9206,0.0,40.0,1.5137,0.0,320.0,281.0,1073-0516,1557-7325,A,journal,ok
+https://openalex.org/S115173108,IEEE Transactions on Circuits and Systems for Video Technology,Q2,68,6.8324,4.786,15.5675,0.0,78.0,2.1698,0.0,3371.0,2704.0,1051-8215,1558-2205,B,journal,ok
+https://openalex.org/S4363607686,ACM SIGGRAPH Asia,Q2,69,6.7917,3.7806,0.0,18.0028,47.0,0.0,0.0,525.0,0.0,,,A,conference,ok
+https://openalex.org/S4363517061,IEEE Symposium on Security and Privacy (S&P),Q2,70,6.7519,3.7132,0.0,17.682,61.0,0.0,0.0,824.0,0.0,,,A,conference,ok
+https://openalex.org/S10169007,Knowledge-Based Systems,Q2,71,6.6933,5.525,13.9667,0.0,91.0,1.4996,0.0,5417.0,4553.0,0950-7051,,B,journal,ok
+https://openalex.org/S184777250,IEEE Transactions on Industrial Informatics,Q2,72,6.693,5.1182,14.4849,0.0,96.0,1.4885,0.0,3822.0,3252.0,1551-3203,1941-0050,,journal,ok
+https://openalex.org/S140556538,Applied Soft Computing,Q2,73,6.6674,5.2935,14.2313,0.0,83.0,1.7021,0.0,4808.0,4119.0,1568-4946,,B,journal,ok
+https://openalex.org/S126824455,IEEE Transactions on Consumer Electronics,Q2,74,6.6559,5.6339,13.7329,0.0,52.0,4.5931,0.0,2186.0,1555.0,0098-3063,1558-4127,,journal,ok
+https://openalex.org/S137030581,IEEE Transactions on Multimedia,Q2,75,6.6499,4.6833,15.0869,0.0,75.0,1.8361,0.0,2418.0,2053.0,1520-9210,1941-0077,B,journal,ok
+https://openalex.org/S4210209078,IEEE Transactions on Systems Man and Cybernetics Systems,Q2,76,6.613,5.1103,14.3998,0.0,69.0,1.9515,0.0,2818.0,2045.0,2168-2216,2168-2232,,journal,ok
+https://openalex.org/S2764955546,Journal of King Saud University - Computer and Information Sciences,Q2,77,6.5178,4.9407,14.5101,0.0,61.0,1.3673,0.0,1374.0,1145.0,1319-1578,2213-1248,,journal,ok
+https://openalex.org/S4210199657,IEEE Transactions on Intelligent Vehicles,Q2,78,6.4658,4.869,14.0607,0.0,78.0,1.7934,0.0,1797.0,1511.0,2379-8858,2379-8904,,journal,ok
+https://openalex.org/S107449649,Journal of Computer Applications,Q2,79,6.4525,3.4639,0.0,16.4947,86.0,0.0,0.0,2319.0,0.0,1001-9081,,,journal,ok
+https://openalex.org/S4363607587,ACM IUI,Q2,80,6.4377,3.5887,0.0,17.0889,37.0,0.0,0.0,305.0,0.0,,,B,conference,ok
+https://openalex.org/S196647941,IEEE Transactions on Communications,Q2,81,6.4211,5.8132,12.6643,0.0,77.0,1.399,0.0,2968.0,2269.0,0090-6778,1558-0857,,journal,ok
+https://openalex.org/S73484101,The International Journal of Robotics Research,Q2,82,6.3657,5.7859,13.2083,0.0,31.0,2.1506,0.0,358.0,296.0,0278-3649,1741-3176,A,journal,ok
+https://openalex.org/S4363519764,USENIX Symposium on Networked Systems Design (NSDI),Q2,83,6.3556,3.5312,0.0,16.8152,38.0,0.0,0.0,319.0,0.0,,,A,conference,ok
+https://openalex.org/S8351582,IEEE Transactions on Software Engineering,Q2,84,6.3266,6.429,11.9319,0.0,42.0,1.7766,0.0,726.0,590.0,0098-5589,1939-3520,A,journal,ok
+https://openalex.org/S44278595,Computers in Biology and Medicine,Q2,85,6.2702,4.6131,13.4841,0.0,99.0,1.4326,0.0,5410.0,4831.0,0010-4825,1879-0534,,journal,ok
+https://openalex.org/S2764413287,Alexandria Engineering Journal,Q2,86,6.2608,4.807,13.4161,0.0,78.0,1.4108,0.0,3883.0,3540.0,1110-0168,2090-2670,,journal,ok
+https://openalex.org/S4363607854,VLDB,Q2,87,6.2373,3.3872,0.0,16.1295,58.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S10936095,IEEE Transactions on Vehicular Technology,Q2,88,6.2191,5.4163,12.2692,0.0,83.0,1.6887,0.0,6656.0,5451.0,0018-9545,1939-9359,,journal,ok
+https://openalex.org/S4210193350,Drones,Q2,89,6.2148,6.9802,10.3509,0.0,62.0,1.6859,0.0,2817.0,2489.0,2504-446X,,,journal,ok
+https://openalex.org/S4363607487,FAccT,Q2,90,6.1268,3.5377,0.0,16.8462,14.0,0.0,0.0,28.0,0.0,,,B,conference,ok
+https://openalex.org/S4210219776,Information,Q2,91,6.1128,6.1625,11.0081,0.0,66.0,1.7674,0.0,3195.0,2586.0,2078-2489,,,journal,ok
+https://openalex.org/S34838331,Future Internet,Q2,92,6.1105,5.5327,12.0707,0.0,55.0,1.7184,0.0,1855.0,1597.0,1999-5903,,,journal,ok
+https://openalex.org/S34881539,IEEE Transactions on Automation Science and Engineering,Q2,93,6.0982,4.7508,12.8598,0.0,59.0,2.7166,0.0,2969.0,2425.0,1545-5955,1558-3783,,journal,ok
+https://openalex.org/S186357190,Future Generation Computer Systems,Q2,94,6.0969,5.3519,12.2654,0.0,58.0,1.5089,0.0,1813.0,1537.0,0167-739X,,B,journal,ok
+https://openalex.org/S4363516152,Architectural Support for Programming Languages (ASPLOS),Q2,95,6.0201,3.2636,0.0,15.541,52.0,0.0,0.0,655.0,0.0,,,B,conference,ok
+https://openalex.org/S45693802,Neurocomputing,Q2,96,5.9866,4.8481,12.0294,0.0,95.0,1.5661,0.0,6487.0,5162.0,0925-2312,,B,journal,ok
+https://openalex.org/S164062316,International Journal of Information Security,Q2,97,5.9639,5.9529,11.212,0.0,34.0,2.514,0.0,596.0,484.0,1615-5262,1615-5270,B,journal,ok
+https://openalex.org/S123019304,Neural Networks,Q2,98,5.9614,4.6057,12.5288,0.0,64.0,2.1824,0.0,3251.0,2561.0,0893-6080,,B,journal,ok
+https://openalex.org/S91767247,Briefings in Bioinformatics,Q2,99,5.9417,3.7605,13.6101,0.0,74.0,1.6047,0.0,2623.0,2221.0,1467-5463,1477-4054,B,journal,ok
+https://openalex.org/S64081563,Solid State Technology,Q2,100,5.9393,3.1033,0.0,14.7778,102.0,0.0,0.0,4000.0,0.0,0038-111X,,,journal,ok
+https://openalex.org/S4210190811,International Journal of Human-Computer Studies,Q3,101,5.9357,6.3244,10.596,0.0,38.0,1.8532,0.0,540.0,451.0,1071-5819,,B,journal,ok
+https://openalex.org/S2484352698,IEEE Transactions on Network Science and Engineering,Q3,102,5.9112,5.4051,11.5071,0.0,59.0,1.2114,0.0,1759.0,1477.0,2327-4697,2334-329X,,journal,ok
+https://openalex.org/S106148199,Cluster Computing,Q3,103,5.8661,5.8196,10.7238,0.0,54.0,1.6553,0.0,2171.0,1639.0,1386-7857,1573-7543,,journal,ok
+https://openalex.org/S205010575,Information and Software Technology,Q3,104,5.824,6.0349,10.5613,0.0,39.0,1.7049,0.0,765.0,637.0,0950-5849,,B,journal,ok
+https://openalex.org/S204223317,IEEE Transactions on Services Computing,Q3,105,5.8238,5.7188,10.8778,0.0,42.0,1.9537,0.0,996.0,808.0,1939-1374,,B,journal,ok
+https://openalex.org/S144091109,Autonomous Robots,Q3,106,5.7527,4.4579,13.0556,0.0,23.0,1.4428,0.0,201.0,159.0,0929-5593,1573-7527,B,journal,ok
+https://openalex.org/S4363497987,EACL,Q3,107,5.6992,3.0584,0.0,14.5636,51.0,0.0,0.0,836.0,0.0,,,B,conference,ok
+https://openalex.org/S4363516335,Eurocrypt,Q3,108,5.6585,3.1871,0.0,15.1765,19.0,0.0,0.0,147.0,0.0,,,A,conference,ok
+https://openalex.org/S30879505,Journal of the Association for Information Systems,Q3,109,5.6549,6.672,9.4701,0.0,27.0,1.2122,0.0,1542.0,214.0,1536-9323,,,journal,ok
+https://openalex.org/S4210177528,Ad Hoc Networks,Q3,110,5.65,4.9428,11.3005,0.0,41.0,1.9147,0.0,867.0,734.0,1570-8705,,B,journal,ok
+https://openalex.org/S4363517074,IEEE Visualization (VIS),Q3,111,5.6222,3.0023,0.0,14.2965,53.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S4210191458,AAAI,Q3,112,5.6139,3.8666,11.8477,10.2787,109.0,1.2791,0.0,9917.0,8116.0,,,A,conference,ok
+https://openalex.org/S192650101,Information Sciences,Q3,113,5.5875,4.1685,11.5496,0.0,86.0,1.2958,0.0,5059.0,4521.0,0020-0255,,B,journal,ok
+https://openalex.org/S8427965,Biomedical Signal Processing and Control,Q3,114,5.5805,3.9907,11.7189,0.0,78.0,1.9391,0.0,5221.0,4390.0,1746-8094,1746-8108,,journal,ok
+https://openalex.org/S2495854775,IEEE Journal of Biomedical and Health Informatics,Q3,115,5.568,4.1845,11.5481,0.0,68.0,1.8644,0.0,3146.0,2468.0,2168-2194,2168-2208,,journal,ok
+https://openalex.org/S2485537415,IEEE Access,Q3,116,5.4877,4.2686,10.3079,0.0,159.0,1.6806,0.0,46654.0,38331.0,,2169-3536,B,journal,ok
+https://openalex.org/S121340289,Computers & Electrical Engineering,Q3,117,5.4669,4.5402,10.8121,0.0,69.0,1.119,0.0,2636.0,2355.0,0045-7906,1879-0755,,journal,ok
+https://openalex.org/S4363518921,Network and Distributed System Security (NDSS),Q3,118,5.4496,2.939,0.0,13.9951,39.0,0.0,0.0,484.0,0.0,,,B,conference,ok
+https://openalex.org/S52395412,Bioinformatics,Q3,119,5.406,3.4997,11.7267,0.0,83.0,1.5725,0.0,3000.0,2566.0,1367-4803,1367-4811,B,journal,ok
+https://openalex.org/S4210183893,Proceedings of the ACM on Human-Computer Interaction,Q3,120,5.4008,5.911,8.7179,0.0,51.0,1.9982,0.0,2273.0,1953.0,2573-0142,,,journal,ok
+https://openalex.org/S4363607335,ACM CIKM,Q3,121,5.3772,2.8432,0.0,13.5392,53.0,0.0,0.0,1000.0,0.0,,,B,conference,ok
+https://openalex.org/S4210210251,IEEE Transactions on Emerging Topics in Computational Intelligence,Q3,122,5.3486,4.382,10.815,0.0,44.0,1.8951,0.0,1074.0,808.0,2471-285X,,,journal,ok
+https://openalex.org/S167262187,Journal of Chemical Information and Modeling,Q3,123,5.316,3.3495,11.8999,0.0,64.0,1.3031,0.0,3061.0,2682.0,1549-9596,1549-960X,,journal,ok
+https://openalex.org/S133768115,Robotics and Autonomous Systems,Q3,124,5.2995,4.2331,10.9889,0.0,40.0,1.5825,0.0,846.0,690.0,0921-8890,,B,journal,ok
+https://openalex.org/S10134376,Sustainability,Q3,125,5.2528,4.6865,8.9788,0.0,146.0,1.2282,0.0,56562.0,50855.0,2071-1050,,,journal,ok
+https://openalex.org/S51360982,Automatica,Q3,126,5.2459,3.5225,11.3343,0.0,66.0,1.3511,0.0,2219.0,1904.0,0005-1098,1873-2836,,journal,ok
+https://openalex.org/S4363517059,IEEE/RSJ International Conference on Intelligent Robots (IROS),Q3,127,5.2329,2.7589,0.0,13.1375,50.0,0.0,0.0,1026.0,0.0,,,B,conference,ok
+https://openalex.org/S168680287,IEEE Transactions on Signal Processing,Q3,128,5.2248,4.4758,10.1935,0.0,51.0,1.2571,0.0,1422.0,1234.0,1053-587X,1941-0476,B,journal,ok
+https://openalex.org/S4210226432,Quantum,Q3,129,5.2198,4.4088,10.3606,0.0,50.0,0.995,0.0,1254.0,1126.0,2521-327X,,,journal,ok
+https://openalex.org/S37879656,Journal of Systems and Software,Q3,130,5.2094,5.4916,8.8211,0.0,42.0,1.5732,0.0,991.0,803.0,0164-1212,,B,journal,ok
+https://openalex.org/S173527311,IEEE Transactions on Network and Service Management,Q3,131,5.2062,4.3794,10.1786,0.0,51.0,1.559,0.0,1644.0,1381.0,1932-4537,2373-7379,,journal,ok
+https://openalex.org/S10892749,IEEE Transactions on Instrumentation and Measurement,Q3,132,5.1833,3.5239,10.7411,0.0,83.0,1.848,0.0,10488.0,8823.0,0018-9456,1557-9662,,journal,ok
+https://openalex.org/S2764531433,International Journal of Engineering Research and,Q3,133,5.1693,2.7053,0.0,12.8824,54.0,0.0,0.0,2065.0,0.0,2278-0181,,,journal,ok
+https://openalex.org/S63392143,Computer Networks,Q3,134,5.1522,4.5097,9.646,0.0,58.0,1.5931,0.0,2344.0,1920.0,1389-1286,,B,journal,ok
+https://openalex.org/S70718007,Chaos Solitons & Fractals,Q3,135,5.1417,4.0413,10.1416,0.0,71.0,1.2656,0.0,5362.0,4648.0,0960-0779,1873-2887,,journal,ok
+https://openalex.org/S9692511,Frontiers in Psychology,Q3,136,5.09,5.3414,7.7988,0.0,97.0,1.2937,0.0,19854.0,17414.0,1664-1078,,,journal,ok
+https://openalex.org/S2490693980,IEEE Transactions on Computational Social Systems,Q3,137,5.0865,4.6193,9.3763,0.0,55.0,1.2158,0.0,1722.0,1295.0,2329-924X,2373-7476,,journal,ok
+https://openalex.org/S4363497452,COLING,Q3,138,5.0657,2.6636,0.0,12.6838,46.0,0.0,0.0,774.0,0.0,,,B,conference,ok
+https://openalex.org/S147897268,Neural Computing and Applications,Q3,139,5.0485,3.8292,9.8741,0.0,87.0,1.2314,0.0,4650.0,4060.0,0941-0643,1433-3058,,journal,ok
+https://openalex.org/S133795288,IEEE Transactions on Dependable and Secure Computing,Q3,140,5.0414,4.3785,9.5236,0.0,49.0,1.7194,0.0,1538.0,1154.0,1545-5971,1941-0018,B,journal,ok
+https://openalex.org/S147767848,Measurement,Q3,141,5.0353,3.528,10.1917,0.0,81.0,1.734,0.0,8413.0,7010.0,0263-2241,1873-412X,,journal,ok
+https://openalex.org/S72372694,Computational Intelligence and Neuroscience,Q3,142,5.0111,2.0763,12.7059,0.0,65.0,0.497,0.0,2513.0,2323.0,1687-5265,1687-5273,,journal,ok
+https://openalex.org/S121920818,Data Mining and Knowledge Discovery,Q3,143,5.009,3.712,10.8848,0.0,28.0,1.6599,0.0,366.0,289.0,1384-5810,1573-756X,B,journal,ok
+https://openalex.org/S57950554,International Journal of Intelligent Systems,Q3,144,5.0034,3.7051,10.6913,0.0,39.0,1.1033,0.0,781.0,664.0,0884-8173,1098-111X,,journal,ok
+https://openalex.org/S97130795,IEEE Transactions on Parallel and Distributed Systems,Q3,145,5.002,3.7656,10.3419,0.0,43.0,1.7643,0.0,783.0,660.0,1045-9219,1558-2183,A,journal,ok
+https://openalex.org/S4210169774,IEEE Robotics and Automation Letters,Q3,146,4.9986,4.095,9.4578,0.0,72.0,1.352,0.0,6006.0,4931.0,2377-3766,,B,journal,ok
+https://openalex.org/S19032547,BMC Bioinformatics,Q3,147,4.9798,2.8151,11.4493,0.0,54.0,1.3844,0.0,1777.0,1535.0,,1471-2105,B,journal,ok
+https://openalex.org/S4363516892,International Symposium on Microarchitecture (MICRO),Q3,148,4.9653,2.6287,0.0,12.5175,38.0,0.0,0.0,413.0,0.0,,,A,conference,ok
+https://openalex.org/S4363516447,High Performance Computer Architecture (HPCA),Q3,149,4.9653,2.6287,0.0,12.5175,38.0,0.0,0.0,413.0,0.0,,,A,conference,ok
+https://openalex.org/S196734849,Scientific Reports,Q3,150,4.9546,3.8888,8.8262,0.0,143.0,1.6205,0.0,122409.0,102607.0,2045-2322,,,journal,ok
+https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,Q3,151,4.9166,3.5457,10.3944,0.0,41.0,1.5879,0.0,765.0,657.0,1063-6692,1558-2566,A,journal,ok
+https://openalex.org/S184954342,IEEE Transactions on Automatic Control,Q3,152,4.8958,3.4165,10.0607,0.0,67.0,1.3779,0.0,2888.0,2289.0,0018-9286,1558-2523,,journal,ok
+https://openalex.org/S4363518965,ISSTA,Q3,153,4.8749,2.558,0.0,12.1808,41.0,0.0,0.0,375.0,0.0,,,B,conference,ok
+https://openalex.org/S115004586,Computer Communications,Q3,154,4.8655,4.0048,9.4366,0.0,49.0,1.3263,0.0,1218.0,1077.0,0140-3664,1873-703X,,journal,ok
+https://openalex.org/S4363515571,AISTATS,Q3,155,4.8466,2.5358,0.0,12.0752,42.0,0.0,0.0,1000.0,0.0,,,B,conference,ok
+https://openalex.org/S4210169297,IEEE Transactions on Audio Speech and Language Processing,Q3,156,4.8362,3.0086,10.7447,0.0,44.0,1.635,0.0,904.0,868.0,2329-9290,2329-9304,B,journal,ok
+https://openalex.org/S2481449237,Human-Computer Interaction,Q3,157,4.8131,4.9136,8.8478,0.0,16.0,2.1697,0.0,73.0,66.0,0737-0024,1532-7051,B,journal,ok
+https://openalex.org/S2898612692,Heliyon,Q3,158,4.7986,3.7474,8.3777,0.0,119.0,2.6863,0.0,34080.0,31107.0,2405-8440,,,journal,ok
+https://openalex.org/S3035462843,Complex & Intelligent Systems,Q3,159,4.7659,3.9914,8.9972,0.0,52.0,1.3322,0.0,1562.0,1317.0,2198-6053,2199-4536,,journal,ok
+https://openalex.org/S84775595,IEEE Transactions on Visualization and Computer Graphics,Q3,160,4.761,3.4948,9.553,0.0,52.0,1.8481,0.0,2249.0,1700.0,1077-2626,1941-0506,A,journal,ok
+https://openalex.org/S101949793,Sensors,Q3,161,4.7407,3.2978,8.8981,0.0,141.0,1.2701,0.0,35477.0,31349.0,1424-8220,,,journal,ok
+https://openalex.org/S193006928,Information Systems,Q3,162,4.7256,4.6564,8.4402,0.0,25.0,2.1317,0.0,369.0,290.0,0306-4379,,B,journal,ok
+https://openalex.org/S138681734,Nonlinear Dynamics,Q3,163,4.7224,3.3063,9.4779,0.0,72.0,1.272,0.0,4807.0,4299.0,0924-090X,1573-269X,,journal,ok
+https://openalex.org/S81770430,Knowledge and Information Systems,Q3,164,4.6837,4.8389,7.7662,0.0,35.0,1.7665,0.0,1001.0,765.0,0219-1377,0219-3116,B,journal,ok
+https://openalex.org/S4210202905,Electronics,Q3,165,4.6808,4.4447,7.3766,0.0,100.0,1.3351,0.0,19318.0,15726.0,2079-9292,,,journal,ok
+https://openalex.org/S4210169448,IEEE Transactions on Artificial Intelligence,Q3,166,4.6801,3.742,9.0496,0.0,41.0,2.1818,0.0,1304.0,945.0,2691-4581,,,journal,ok
+https://openalex.org/S4210223273,International Journal of Information Technology,Q3,167,4.6737,3.8683,8.8895,0.0,40.0,2.0858,0.0,2082.0,1752.0,2511-2104,2511-2112,,journal,ok
+https://openalex.org/S2492498579,IEEE Transactions on Cloud Computing,Q3,168,4.653,4.2145,8.663,0.0,31.0,1.6416,0.0,398.0,328.0,2168-7161,,B,journal,ok
+https://openalex.org/S109852484,Empirical Software Engineering,Q3,169,4.6428,5.1068,7.4146,0.0,33.0,1.2286,0.0,704.0,589.0,1382-3256,1573-7616,B,journal,ok
+https://openalex.org/S177430994,Image and Vision Computing,Q3,170,4.5616,3.446,9.1587,0.0,36.0,1.9662,0.0,1065.0,888.0,0262-8856,1872-8138,,journal,ok
+https://openalex.org/S95999327,IEEE Systems Journal,Q3,171,4.541,2.8571,9.8558,0.0,46.0,1.1454,0.0,1161.0,1016.0,1932-8184,1937-9234,,journal,ok
+https://openalex.org/S43295729,Remote Sensing,Q3,172,4.5376,3.5892,8.0278,0.0,101.0,1.1989,0.0,20990.0,18929.0,2072-4292,,,journal,ok
+https://openalex.org/S4363520113,USENIX Annual Technical Conference (ATC),Q3,173,4.4969,2.3672,0.0,11.2722,29.0,0.0,0.0,288.0,0.0,,,B,conference,ok
+https://openalex.org/S157670870,IEEE Transactions on Computers,Q3,174,4.4914,3.4809,8.8662,0.0,36.0,1.7886,0.0,925.0,724.0,0018-9340,1557-9956,A,journal,ok
+https://openalex.org/S147316732,IEEE Communications Letters,Q3,175,4.4838,3.3012,8.8147,0.0,51.0,1.4913,0.0,2617.0,2010.0,1089-7798,1558-2558,,journal,ok
+https://openalex.org/S62148650,Machine Learning,Q3,176,4.4798,3.4761,8.9808,0.0,32.0,1.6092,0.0,820.0,640.0,0885-6125,1573-0565,B,journal,ok
+https://openalex.org/S196139623,Artificial Intelligence,Q3,177,4.4776,4.1706,8.1498,0.0,29.0,1.3807,0.0,439.0,342.0,0004-3702,,A,journal,ok
+https://openalex.org/S4387289859,Proceedings of the ACM on Management of Data,Q3,178,4.4713,3.184,8.808,0.0,29.0,6.6182,0.0,882.0,645.0,2836-6573,,,journal,ok
+https://openalex.org/S139930977,Journal of Artificial Intelligence Research,Q3,179,4.4516,4.6012,7.4798,0.0,32.0,0.9109,0.0,436.0,332.0,1076-9757,,B,journal,ok
+https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,Q3,180,4.3875,3.0203,8.702,0.0,47.0,2.4804,0.0,1613.0,1225.0,2150-8097,,,journal,ok
+https://openalex.org/S110206669,Multimedia Tools and Applications,Q3,181,4.3596,2.7593,8.5418,0.0,90.0,1.3902,0.0,8987.0,7955.0,1380-7501,1573-7721,,journal,ok
+https://openalex.org/S2736976235,International journal of scientific and technology research,Q3,182,4.347,2.2005,0.0,10.4785,45.0,0.0,0.0,1940.0,0.0,2277-8616,,,journal,ok
+https://openalex.org/S103482838,Communications of the ACM,Q3,183,4.2988,4.2226,7.2151,0.0,35.0,1.2438,0.0,1107.0,638.0,0001-0782,1557-7317,A,journal,ok
+https://openalex.org/S157146593,Journal of Parallel and Distributed Computing,Q3,184,4.2528,3.6814,7.932,0.0,33.0,0.9436,0.0,502.0,413.0,0743-7315,,B,journal,ok
+https://openalex.org/S4210191536,Journal of Information Security and Applications,Q3,185,4.1915,3.0809,8.3622,0.0,34.0,1.4394,0.0,933.0,726.0,2214-2126,2214-2134,,journal,ok
+https://openalex.org/S32326811,The Journal of Supercomputing,Q3,186,4.1495,3.4867,7.2167,0.0,50.0,1.577,0.0,3888.0,3054.0,0920-8542,1573-0484,,journal,ok
+https://openalex.org/S4210178049,PeerJ Computer Science,Q3,187,4.1492,3.6773,7.0468,0.0,48.0,1.3399,0.0,2522.0,1988.0,2376-5992,,,journal,ok
+https://openalex.org/S198098182,Energies,Q3,188,4.1455,2.3487,8.0972,0.0,113.0,1.1538,0.0,30814.0,27143.0,1996-1073,,,journal,ok
+https://openalex.org/S2764664775,Bulletin of the American Physical Society,Q3,189,4.1422,2.2494,0.0,10.7115,14.0,0.0,0.0,95.0,0.0,0003-0503,,,journal,ok
+https://openalex.org/S177487720,Peer-to-Peer Networking and Applications,Q3,190,4.1235,4.0843,6.7813,0.0,29.0,1.6897,0.0,891.0,726.0,1936-6442,1936-6450,,journal,ok
+https://openalex.org/S189694085,IEEE Sensors Journal,Q3,191,4.0982,2.6278,7.7657,0.0,75.0,1.7982,0.0,13725.0,11121.0,1530-437X,1558-1748,,journal,ok
+https://openalex.org/S19610489,ACM Transactions on Multimedia Computing Communications and Applications,Q3,192,4.0948,3.0249,7.8992,0.0,43.0,1.1556,0.0,1241.0,1007.0,1551-6857,1551-6865,B,journal,ok
+https://openalex.org/S78926909,The VLDB Journal,Q3,193,4.0622,3.0286,8.3776,0.0,21.0,1.4597,0.0,235.0,183.0,1066-8888,0949-877X,A,journal,ok
+https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,Q3,194,4.0198,4.7325,5.7076,0.0,27.0,0.993,0.0,570.0,457.0,2162-3449,2334-0770,,journal,ok
+https://openalex.org/S4363516140,ASE,Q3,195,3.9982,1.9813,0.0,9.4349,43.0,0.0,0.0,1028.0,0.0,,,B,conference,ok
+https://openalex.org/S190629608,Algorithms,Q3,196,3.8967,3.0996,6.8748,0.0,42.0,1.7697,0.0,2463.0,1887.0,1999-4893,,,journal,ok
+https://openalex.org/S154637859,Signal Processing,Q3,197,3.8818,3.1212,7.0244,0.0,34.0,1.6186,0.0,1581.0,1299.0,0165-1684,1872-7557,,journal,ok
+https://openalex.org/S4363518898,MSR,Q3,198,3.8763,1.959,0.0,9.3287,30.0,0.0,0.0,449.0,0.0,,,B,conference,ok
+https://openalex.org/S202381698,PLoS ONE,Q3,199,3.8503,3.1528,5.8422,0.0,104.0,1.2676,0.0,64986.0,53035.0,1932-6203,,,journal,ok
+https://openalex.org/S4210205812,Applied Sciences,Q3,200,3.821,2.5855,6.3543,0.0,121.0,1.3247,0.0,51691.0,42625.0,2076-3417,,,journal,ok
+https://openalex.org/S4363516238,Crypto,Q4,201,3.8117,1.9882,0.0,9.4674,19.0,0.0,0.0,171.0,0.0,,,A,conference,ok
+https://openalex.org/S205498627,Wireless Networks,Q4,202,3.7952,3.0108,6.901,0.0,35.0,1.2295,0.0,1188.0,988.0,1022-0038,1572-8196,,journal,ok
+https://openalex.org/S122199241,Software Practice and Experience,Q4,203,3.7663,3.4617,6.5663,0.0,21.0,1.5491,0.0,372.0,302.0,0038-0644,1097-024X,,journal,ok
+https://openalex.org/S4363517009,IEEE ICDE,Q4,204,3.7551,1.835,0.0,8.738,40.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S151820558,Pattern Recognition Letters,Q4,205,3.747,2.7003,7.0761,0.0,38.0,1.1809,0.0,1217.0,1000.0,0167-8655,1872-7344,,journal,ok
+https://openalex.org/S120629676,IEEE Signal Processing Letters,Q4,206,3.742,2.7051,6.8039,0.0,43.0,1.6849,0.0,2389.0,1830.0,1070-9908,1558-2361,,journal,ok
+https://openalex.org/S59012888,Physica Scripta,Q4,207,3.7357,3.9182,4.8967,0.0,47.0,2.1561,0.0,10808.0,7967.0,0031-8949,1402-4896,,journal,ok
+https://openalex.org/S74726891,Applied Intelligence,Q4,208,3.7207,2.7407,6.5608,0.0,55.0,1.1521,0.0,4085.0,3528.0,0924-669X,1573-7497,,journal,ok
+https://openalex.org/S185008460,Computer Vision and Image Understanding,Q4,209,3.7131,2.6265,7.1101,0.0,32.0,1.5808,0.0,808.0,648.0,1077-3142,,B,journal,ok
+https://openalex.org/S4210174798,SN Computer Science,Q4,210,3.7097,3.1675,5.9602,0.0,44.0,1.8936,0.0,3506.0,2634.0,2661-8907,2662-995X,,journal,ok
+https://openalex.org/S48031226,Journal of Ambient Intelligence and Humanized Computing,Q4,211,3.7018,2.636,6.9294,0.0,47.0,0.6939,0.0,997.0,877.0,1868-5137,1868-5145,,journal,ok
+https://openalex.org/S93916849,IEEE Transactions on Circuits & Systems II Express Briefs,Q4,212,3.6834,1.8949,7.6331,0.0,49.0,1.4412,0.0,3133.0,2600.0,1549-7747,1558-3791,,journal,ok
+https://openalex.org/S65753830,Soft Computing,Q4,213,3.6502,2.3395,7.0032,0.0,49.0,0.9817,0.0,2662.0,2255.0,1432-7643,1433-7479,,journal,ok
+https://openalex.org/S4363517045,IEEE Symposium on Foundations of Computer Science (FOCS),Q4,214,3.6477,1.7776,0.0,8.4647,37.0,0.0,0.0,553.0,0.0,,,A,conference,ok
+https://openalex.org/S64117906,Digital Signal Processing,Q4,215,3.6401,2.9827,6.2673,0.0,36.0,1.3264,0.0,2037.0,1615.0,1051-2004,1095-4333,,journal,ok
+https://openalex.org/S4210216081,Proceedings of the ACM on Programming Languages,Q4,216,3.6259,2.8958,6.475,0.0,28.0,1.7502,0.0,1258.0,1012.0,2475-1421,,,journal,ok
+https://openalex.org/S24688465,Physica A Statistical Mechanics and its Applications,Q4,217,3.6052,2.5574,6.5619,0.0,45.0,1.1166,0.0,3011.0,2446.0,0378-4371,1873-2119,,journal,ok
+https://openalex.org/S4210223820,World Journal of Advanced Research and Reviews,Q4,218,3.5999,3.243,5.3079,0.0,43.0,2.5937,0.0,9963.0,3226.0,2581-9615,,,journal,ok
+https://openalex.org/S4306425600,Transactions on Emerging Telecommunications Technologies,Q4,219,3.5841,2.8414,6.539,0.0,29.0,1.0072,0.0,870.0,656.0,2161-3915,2161-5748,,journal,ok
+https://openalex.org/S15272795,International Journal of Emerging Technologies in Learning (iJET),Q4,220,3.5548,3.3383,5.7008,0.0,33.0,0.6997,0.0,891.0,791.0,1863-0383,1868-8799,,journal,ok
+https://openalex.org/S195663827,Microprocessors and Microsystems,Q4,221,3.5533,2.1037,7.3141,0.0,32.0,1.1434,0.0,492.0,408.0,0141-9331,1872-9436,,journal,ok
+https://openalex.org/S6725529,IEEE Software,Q4,222,3.5519,2.7233,6.7238,0.0,19.0,2.0834,0.0,734.0,295.0,0740-7459,1937-4194,,journal,ok
+https://openalex.org/S183498172,Journal of the Franklin Institute,Q4,223,3.5318,2.3239,6.5921,0.0,40.0,1.5773,0.0,2643.0,2111.0,0016-0032,1879-2693,,journal,ok
+https://openalex.org/S4210192031,Mathematics,Q4,224,3.4883,2.5463,5.5882,0.0,81.0,0.9271,0.0,17928.0,13771.0,2227-7390,,,journal,ok
+https://openalex.org/S140962798,Neural Processing Letters,Q4,225,3.4517,2.3126,6.411,0.0,39.0,1.1868,0.0,1099.0,979.0,1370-4621,1573-773X,,journal,ok
+https://openalex.org/S2764999920,International Journal of Machine Learning and Cybernetics,Q4,226,3.4289,2.6167,5.8843,0.0,34.0,1.7754,0.0,1339.0,1087.0,1868-8071,1868-808X,,journal,ok
+https://openalex.org/S201441698,Optik,Q4,227,3.4287,1.5418,7.2545,0.0,52.0,0.7373,0.0,3095.0,2716.0,0030-4026,1618-1336,,journal,ok
+https://openalex.org/S4210236372,Jurnal Basicedu,Q4,228,3.4163,5.2687,2.5277,0.0,42.0,-0.0504,0.0,1875.0,1488.0,2580-1147,2580-3735,,journal,ok
+https://openalex.org/S175310385,International Journal of Communication Systems,Q4,229,3.3972,2.9578,5.5556,0.0,32.0,0.9342,0.0,1326.0,975.0,1074-5351,1099-1131,,journal,ok
+https://openalex.org/S4363516218,Computer Aided Verification (CAV),Q4,230,3.3939,1.7091,0.0,8.1384,20.0,0.0,0.0,254.0,0.0,,,A,conference,ok
+https://openalex.org/S109302362,Measurement Science and Technology,Q4,231,3.3712,2.2822,5.8484,0.0,43.0,1.9902,0.0,5404.0,4290.0,0957-0233,1361-6501,,journal,ok
+https://openalex.org/S2764825856,Jisuanji gongcheng,Q4,232,3.3473,1.6788,0.0,7.9945,20.0,0.0,0.0,221.0,0.0,1000-3428,,,journal,ok
+https://openalex.org/S73060445,The Visual Computer,Q4,233,3.3333,2.0987,6.1842,0.0,37.0,1.6005,0.0,1956.0,1565.0,0178-2789,1432-2315,,journal,ok
+https://openalex.org/S178776955,Optics Express,Q4,234,3.3325,1.7931,6.2025,0.0,60.0,1.3245,0.0,14842.0,12378.0,1094-4087,,,journal,ok
+https://openalex.org/S169411308,Fuzzy Sets and Systems,Q4,235,3.3271,2.5519,5.8188,0.0,28.0,1.4994,0.0,994.0,781.0,0165-0114,1872-6801,,journal,ok
+https://openalex.org/S49967189,Wireless Personal Communications,Q4,236,3.324,2.3344,5.7764,0.0,42.0,1.2636,0.0,2298.0,1890.0,0929-6212,1572-834X,,journal,ok
+https://openalex.org/S100835903,IEEE Transactions on Computer-Aided Design of Integrated Circuits,Q4,237,3.3168,2.1303,6.0194,0.0,36.0,1.9773,0.0,1807.0,1281.0,0278-0070,1937-4151,A,journal,ok
+https://openalex.org/S156904493,Signal Image and Video Processing,Q4,238,3.2973,2.3445,5.6723,0.0,36.0,1.8282,0.0,2936.0,2101.0,1863-1703,1863-1711,,journal,ok
+https://openalex.org/S105046310,ACM Transactions on Design Automation of Electronic Systems,Q4,239,3.2621,2.75,5.6306,0.0,19.0,1.5947,0.0,438.0,302.0,1084-4309,1557-7309,B,journal,ok
+https://openalex.org/S4363516369,Financial Cryptography (FC),Q4,240,3.2411,1.6645,0.0,7.9261,14.0,0.0,0.0,108.0,0.0,,,B,conference,ok
+https://openalex.org/S112262039,Multimedia Systems,Q4,241,3.2407,2.4951,5.4171,0.0,31.0,1.6599,0.0,1224.0,907.0,0942-4962,1432-1882,,journal,ok
+https://openalex.org/S4210191605,"Computers, materials & continua/Computers, materials & continua (Print)",Q4,242,3.2407,2.4136,5.3285,0.0,46.0,0.965,0.0,4192.0,3147.0,1546-2218,1546-2226,,journal,ok
+https://openalex.org/S4363516255,Design Automation Conference (DAC),Q4,243,3.2278,1.505,0.0,7.1667,37.0,0.0,0.0,1003.0,0.0,,,B,conference,ok
+https://openalex.org/S190787756,Symmetry,Q4,244,3.2266,2.2352,5.2971,0.0,61.0,0.8001,0.0,8767.0,6741.0,2073-8994,,,journal,ok
+https://openalex.org/S2764513735,Jisuanji fangzhen,Q4,245,3.216,1.5653,0.0,7.4537,24.0,0.0,0.0,268.0,0.0,1006-9348,,,journal,ok
+https://openalex.org/S235346,Wireless Communications and Mobile Computing,Q4,246,3.1931,1.7709,6.2671,0.0,45.0,0.3899,0.0,2016.0,1774.0,1530-8669,1530-8677,,journal,ok
+https://openalex.org/S96783963,Journal of Sensors,Q4,247,3.1759,1.8599,6.2588,0.0,33.0,0.6891,0.0,736.0,627.0,1687-725X,1687-7268,,journal,ok
+https://openalex.org/S67831204,Computer Graphics Forum,Q4,248,3.1471,2.5664,5.0783,0.0,29.0,1.3626,0.0,1060.0,811.0,0167-7055,1467-8659,,journal,ok
+https://openalex.org/S4306421405,ACM Transactions on Asian and Low-Resource Language Information Processing,Q4,249,3.1319,2.1996,5.599,0.0,27.0,1.367,0.0,806.0,644.0,2375-4699,2375-4702,,journal,ok
+https://openalex.org/S50372074,Applied Mathematics and Computation,Q4,250,3.1279,2.3843,5.1169,0.0,37.0,1.0103,0.0,2203.0,1702.0,0096-3003,1873-5649,,journal,ok
+https://openalex.org/S19068271,EPJ Web of Conferences,Q4,251,3.1254,5.3797,1.8205,0.0,13.0,1.3413,0.0,6006.0,1956.0,2100-014X,2101-6275,,journal,ok
+https://openalex.org/S105424869,Journal of Visual Communication and Image Representation,Q4,252,3.1245,1.8143,6.0548,0.0,30.0,1.1855,0.0,961.0,774.0,1047-3203,1095-9076,,journal,ok
+https://openalex.org/S2737646863,Engineering Technology & Applied Science Research,Q4,253,3.1151,2.65,4.7971,0.0,26.0,1.9918,0.0,3172.0,2208.0,1792-8036,2241-4487,,journal,ok
+https://openalex.org/S18088403,Natural Language Engineering,Q4,254,3.1126,2.061,6.3673,0.0,15.0,1.0308,0.0,118.0,96.0,1351-3249,1469-8110,B,journal,ok
+https://openalex.org/S178916657,Computer,Q4,255,3.1118,3.0129,4.5571,0.0,24.0,1.1278,0.0,1724.0,643.0,0018-9162,1558-0814,,journal,ok
+https://openalex.org/S50368787,Electronic Notes in Theoretical Computer Science,Q4,256,3.0933,1.5389,0.0,7.3283,17.0,0.0,0.0,309.0,0.0,1571-0661,,,journal,ok
+https://openalex.org/S4363607689,ACM SIGCOMM,Q4,257,3.0808,1.4591,0.0,6.9483,27.0,0.0,0.0,324.0,0.0,,,A,conference,ok
+https://openalex.org/S195231649,Entropy,Q4,258,3.0412,2.0043,5.0696,0.0,48.0,0.9396,0.0,5761.0,4601.0,1099-4300,,,journal,ok
+https://openalex.org/S4502562,IEEE Transactions on Information Theory,Q4,259,3.0242,2.1556,5.1592,0.0,32.0,1.0249,0.0,1999.0,1428.0,0018-9448,1557-9654,,journal,ok
+https://openalex.org/S194044894,International Journal of Theoretical Physics,Q4,260,3.0084,2.2282,5.1235,0.0,25.0,1.4289,0.0,1179.0,826.0,0020-7748,1572-9575,,journal,ok
+https://openalex.org/S190936789,Journal of Cryptology,Q4,261,2.9994,2.1134,5.8133,0.0,15.0,1.1272,0.0,147.0,103.0,0933-2790,1432-1378,A,journal,ok
+https://openalex.org/S11065456,Concurrency and Computation Practice and Experience,Q4,262,2.9775,1.9827,5.1339,0.0,33.0,1.2028,0.0,1970.0,1433.0,1532-0626,1532-0634,,journal,ok
+https://openalex.org/S4363517070,IEEE Virtual Reality (VR),Q4,263,2.9632,1.4295,0.0,6.8071,20.0,0.0,0.0,220.0,0.0,,,B,conference,ok
+https://openalex.org/S60606485,International Journal of High Performance Computing Applications,Q4,264,2.9599,2.5254,5.1486,0.0,14.0,1.1077,0.0,171.0,121.0,1094-3420,1741-2846,B,journal,ok
+https://openalex.org/S128516502,Notes and Queries,Q4,265,2.9536,6.9399,1.0,0.0,2.0,-0.0824,0.0,557.0,36.0,0029-3970,1471-6941,,journal,ok
+https://openalex.org/S4363607510,ACM FSE / ESEC,Q4,266,2.9499,1.3475,0.0,6.4167,32.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S4363607693,ACM SIGPLAN PLDI,Q4,267,2.9499,1.3475,0.0,6.4167,32.0,0.0,0.0,1000.0,0.0,,,A,conference,ok
+https://openalex.org/S4306424877,Language Resources and Evaluation,Q4,268,2.9414,2.7634,4.5426,0.0,18.0,0.9792,0.0,309.0,220.0,1574-020X,1574-0218,,journal,ok
+https://openalex.org/S4210217756,Journal on Education,Q4,269,2.9338,3.6213,3.0535,0.0,21.0,1.3829,0.0,2263.0,1054.0,2654-5497,2655-1365,,journal,ok
+https://openalex.org/S152111507,Mobile Information Systems,Q4,270,2.9277,1.4702,5.9057,0.0,30.0,0.6846,0.0,1512.0,1271.0,1574-017X,1875-905X,,journal,ok
+https://openalex.org/S118992489,Journal of the ACM,Q4,271,2.9197,2.2401,5.2727,0.0,17.0,0.8826,0.0,156.0,117.0,0004-5411,1557-735X,A,journal,ok
+https://openalex.org/S2764944466,Journal of Emerging Technologies and Innovative Research,Q4,272,2.9103,5.026,1.8571,0.0,4.0,5.6667,0.0,950.0,29.0,2349-5162,,,journal,ok
+https://openalex.org/S4210179087,AIMS Mathematics,Q4,273,2.8856,2.4166,4.0675,0.0,40.0,0.8774,0.0,5493.0,3692.0,2473-6988,,,journal,ok
+https://openalex.org/S83215360,IET Image Processing,Q4,274,2.883,1.6875,5.2874,0.0,28.0,1.3588,0.0,1155.0,907.0,1751-9659,1751-9667,,journal,ok
+https://openalex.org/S4363607527,ACM HPDC,Q4,275,2.8757,1.3806,0.0,6.5742,19.0,0.0,0.0,175.0,0.0,,,B,conference,ok
+https://openalex.org/S92819544,Quantum Information Processing,Q4,276,2.8631,1.9594,4.8279,0.0,30.0,1.1081,0.0,1612.0,1240.0,1570-0755,1573-1332,,journal,ok
+https://openalex.org/S4363520012,Symposium on Geometry Processing (SGP),Q4,277,2.8619,1.2762,0.0,6.0773,35.0,0.0,0.0,1000.0,0.0,,,B,conference,ok
+https://openalex.org/S4210214087,Computer Systems Science and Engineering,Q4,278,2.8617,1.6274,5.227,0.0,33.0,0.9968,0.0,1047.0,927.0,0267-6192,,,journal,ok
+https://openalex.org/S4363607708,ACM-SIAM Symposium on Discrete Algorithms (SODA),Q4,279,2.8557,1.3189,0.0,6.2806,26.0,0.0,0.0,680.0,0.0,,,A,conference,ok
+https://openalex.org/S193109227,ACM Transactions on Computer Systems,Q4,280,2.8304,3.4105,4.0,0.0,5.0,2.5214,0.0,44.0,22.0,0734-2071,1557-7333,A,journal,ok
+https://openalex.org/S120683614,Security and Communication Networks,Q4,281,2.8132,1.7614,5.1226,0.0,29.0,0.5505,0.0,703.0,635.0,1939-0114,1939-0122,,journal,ok
+https://openalex.org/S2898407351,Materials Today Proceedings,Q4,282,2.8124,1.0331,5.2821,0.0,63.0,0.8295,0.0,12498.0,11155.0,2214-7853,,,journal,ok
+https://openalex.org/S178711970,Journal of Biomolecular Structure and Dynamics,Q4,283,2.8097,1.3846,5.176,0.0,34.0,1.581,0.0,3033.0,2650.0,0739-1102,1538-0254,,journal,ok
+https://openalex.org/S23629721,International Journal of Advanced Computer Science and Applications,Q4,284,2.7901,1.8941,4.2556,0.0,39.0,1.5601,0.0,5612.0,3693.0,2156-5570,2158-107X,,journal,ok
+https://openalex.org/S4210182531,Jurnal Penelitian Pendidikan IPA,Q4,285,2.7836,3.748,2.2099,0.0,23.0,1.2975,0.0,5507.0,3019.0,2407-795X,2460-2582,,journal,ok
+https://openalex.org/S56112914,Journal of computing sciences in colleges,Q4,286,2.7621,1.3239,0.0,6.3045,17.0,0.0,0.0,988.0,0.0,1937-4763,1937-4771,,journal,ok
+https://openalex.org/S4363517002,ICASSP,Q4,287,2.7612,1.3146,0.0,6.26,18.0,0.0,0.0,137.0,0.0,,,B,conference,ok
+https://openalex.org/S113214489,Mathematical Biosciences & Engineering,Q4,288,2.7536,1.5728,4.8256,0.0,36.0,0.8709,0.0,1979.0,1674.0,1547-1063,1551-0018,,journal,ok
+https://openalex.org/S38090728,Signal Processing Image Communication,Q4,289,2.7485,1.7692,5.0,0.0,21.0,1.0347,0.0,451.0,356.0,0923-5965,1879-2677,,journal,ok
+https://openalex.org/S4210173132,Axioms,Q4,290,2.7435,2.2096,3.8789,0.0,36.0,0.9176,0.0,3698.0,2522.0,2075-1680,,,journal,ok
+https://openalex.org/S4363607323,ACM CCS,Q4,291,2.6538,1.2069,0.0,5.7473,23.0,0.0,0.0,411.0,0.0,,,A,conference,ok
+https://openalex.org/S2764687066,The Journal of Engineering,Q4,292,2.5964,1.6301,4.6971,0.0,16.0,1.5987,0.0,420.0,289.0,2051-3305,,,journal,ok
+https://openalex.org/S166774750,Scientific Programming,Q4,293,2.5715,1.644,4.3043,0.0,32.0,0.3583,0.0,1071.0,885.0,1058-9244,1875-919X,,journal,ok
+https://openalex.org/S4210182600,Ciencia Latina Revista Científica Multidisciplinar,Q4,294,2.5647,3.0353,2.1604,0.0,31.0,0.8945,0.0,13272.0,4157.0,2707-2207,2707-2215,,journal,ok
+https://openalex.org/S32837994,TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES,Q4,295,2.5602,1.3952,4.9159,0.0,17.0,1.2303,0.0,314.0,245.0,1300-0632,1303-6203,,journal,ok
+https://openalex.org/S203572503,Publicationes Mathematicae Debrecen,Q4,296,2.5546,3.6404,1.5435,0.0,34.0,0.0388,0.0,1765.0,271.0,0033-3883,2064-2849,,journal,ok
+https://openalex.org/S137436721,Graphical Models,Q4,297,2.5489,1.9919,4.3269,0.0,10.0,2.1171,0.0,132.0,87.0,1524-0703,,B,journal,ok
+https://openalex.org/S178238111,Mathematical Problems in Engineering,Q4,298,2.5303,1.2493,4.4556,0.0,40.0,0.4026,0.0,3075.0,2599.0,1024-123X,1026-7077,,journal,ok
+https://openalex.org/S207319443,Complexity,Q4,299,2.5206,1.9382,3.6746,0.0,31.0,0.4635,0.0,950.0,796.0,1076-2787,1099-0526,,journal,ok
+https://openalex.org/S4363517066,International Conference on Tools and Algorithms (TACAS),Q4,300,2.5112,1.144,0.0,5.4474,19.0,0.0,0.0,270.0,0.0,,,B,conference,ok
+https://openalex.org/S40639465,Intelligent Automation & Soft Computing,Q4,301,2.4956,1.4271,4.1145,0.0,34.0,0.6899,0.0,1002.0,863.0,1079-8587,2326-005X,,journal,ok
+https://openalex.org/S44643521,The Computer Journal,Q4,302,2.4638,1.7381,3.8371,0.0,19.0,1.6693,0.0,627.0,414.0,0010-4620,1460-2067,,journal,ok
+https://openalex.org/S4210213420,JIIP - Jurnal Ilmiah Ilmu Pendidikan,Q4,303,2.4382,3.4155,1.6164,0.0,24.0,0.2539,0.0,6010.0,1759.0,2614-8854,,,journal,ok
+https://openalex.org/S11296630,The Journal of the Acoustical Society of America,Q4,304,2.4371,1.6708,3.4572,0.0,31.0,1.2488,0.0,9404.0,3065.0,0001-4966,1520-8524,,journal,ok
+https://openalex.org/S151579836,Journal of Mathematical Analysis and Applications,Q4,305,2.4272,2.2209,2.9373,0.0,22.0,1.406,0.0,3414.0,2078.0,0022-247X,1096-0813,,journal,ok
+https://openalex.org/S4363500428,UAI,Q4,306,2.4041,1.0198,0.0,4.8563,27.0,0.0,0.0,841.0,0.0,,,B,conference,ok
+https://openalex.org/S4220651630,International Journal of Research Publication and Reviews,Q4,307,2.392,2.666,2.0491,0.0,23.0,1.7569,0.0,8789.0,1463.0,2582-7421,,,journal,ok
+https://openalex.org/S4387279737,Indo-MathEdu Intellectuals Journal,Q4,308,2.3845,3.6114,1.8937,0.0,8.0,0.9186,0.0,2307.0,346.0,2808-5078,2808-5604,,journal,ok
+https://openalex.org/S4210200847,International Journal of Scientific Research in Computer Science Engineering and Information Technology,Q4,309,2.3536,2.3395,2.689,0.0,16.0,1.7955,0.0,2112.0,813.0,2456-3307,,,journal,ok
+https://openalex.org/S2764855249,Indonesian Journal of Electrical Engineering and Computer Science,Q4,310,2.3362,1.4728,3.5389,0.0,29.0,0.7702,0.0,3044.0,1863.0,2502-4752,2502-4760,,journal,ok
+https://openalex.org/S4363516533,International Parallel and Distributed Processing Symposium (IPDPS),Q4,311,2.3243,1.0147,0.0,4.8319,20.0,0.0,0.0,474.0,0.0,,,B,conference,ok
+https://openalex.org/S4404677771,Karimah Tauhid.,Q4,312,2.3224,3.2021,1.7723,0.0,8.0,3.0361,0.0,2143.0,414.0,2963-590X,,,journal,ok
+https://openalex.org/S4387284566,Pakistan Journal of Life and Social Sciences (PJLSS),Q4,313,2.3099,2.856,1.5895,0.0,9.0,8.4727,0.0,3173.0,670.0,1727-4915,2221-7630,,journal,ok
+https://openalex.org/S4210191986,EDUKATIF JURNAL ILMU PENDIDIKAN,Q4,314,2.2918,3.174,1.4276,0.0,26.0,-0.2199,0.0,1539.0,1136.0,2656-8063,2656-8071,,journal,ok
+https://openalex.org/S90119964,ACM Transactions on Database Systems,Q4,315,2.2779,1.8294,3.6522,0.0,10.0,1.3021,0.0,76.0,46.0,0362-5915,1557-4644,A,journal,ok
+https://openalex.org/S4210209118,Educational Dimension,Q4,316,2.272,2.7895,2.6744,0.0,8.0,0.679,0.0,957.0,103.0,2708-4604,2708-4612,,journal,ok
+https://openalex.org/S4210198394,International Journal of Research and Innovation in Social Science,Q4,317,2.2636,3.1092,1.4135,0.0,11.0,2.8125,0.0,13366.0,2054.0,2454-6186,,,journal,ok
+https://openalex.org/S4210199797,Journal of Advanced Research in Applied Sciences and Engineering Technology,Q4,318,2.2604,1.5997,3.0608,0.0,20.0,2.1931,0.0,1939.0,1108.0,2462-1943,,,journal,ok
+https://openalex.org/S4210186093,E3S Web of Conferences,Q4,319,2.2573,1.2307,2.821,0.0,38.0,2.9338,0.0,25885.0,12047.0,2267-1242,2555-0403,,journal,ok
+https://openalex.org/S4210235676,International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering,Q4,320,2.2477,1.2191,3.4348,0.0,31.0,0.8955,0.0,3420.0,2267.0,2722-256X,2722-2578,,journal,ok
+https://openalex.org/S4387282513,International Research Journal of Modernization in Engineering Technology and Science,Q4,321,2.2378,1.6863,2.8565,0.0,31.0,0.563,0.0,9658.0,1667.0,2582-5208,,,journal,ok
+https://openalex.org/S5406946370,Journal of Electrical Systems,Q4,322,2.232,1.6514,2.5998,0.0,16.0,6.1844,0.0,2638.0,1178.0,1112-5209,,,journal,ok
+https://openalex.org/S4210235671,Recent Advances in Computer Science and Communications,Q4,323,2.2266,1.4966,3.5966,0.0,10.0,2.9003,0.0,317.0,163.0,2666-2558,2666-2566,,journal,ok
+https://openalex.org/S171741597,Discrete Applied Mathematics,Q4,324,2.2265,1.9011,2.6929,0.0,20.0,1.3277,0.0,1710.0,966.0,0166-218X,1872-6771,,journal,ok
+https://openalex.org/S2764408626,IAES International Journal of Artificial Intelligence,Q4,325,2.2239,1.6656,2.9977,0.0,22.0,1.0491,0.0,1324.0,740.0,2089-4872,2252-8938,,journal,ok
+https://openalex.org/S4363607732,ACM Symposium on Theory of Computing (STOC),Q4,326,2.2168,1.471,0.0,3.6782,19.0,0.2499,0.0,753.0,624.0,,,A,conference,ok
+https://openalex.org/S4363607710,ACM Symposium on Principles of Distributed Computing (PODC),Q4,327,2.1908,1.4162,0.0,3.5505,18.0,0.6097,0.0,980.0,835.0,,,A,conference,ok
+https://openalex.org/S4363607358,ACM CSCW,Q4,328,2.1651,0.9555,0.0,4.55,15.0,0.0,0.0,110.0,0.0,,,B,conference,ok
+https://openalex.org/S4363517025,International Colloquium on Automata Languages (ICALP),Q4,329,2.1583,1.0445,0.0,4.9737,8.0,0.0,0.0,38.0,0.0,,,B,conference,ok
+https://openalex.org/S4210213322,Työväentutkimus Vuosikirja,Q4,330,2.1494,1.6012,2.3857,0.0,52.0,-0.3011,0.0,545.0,320.0,0784-1272,1459-7780,,journal,ok
+https://openalex.org/S2764391171,Scalable Computing Practice and Experience,Q4,331,2.1194,1.8483,2.4704,0.0,11.0,3.7475,0.0,856.0,444.0,1895-1767,,,journal,ok
+https://openalex.org/S159544283,Linear Algebra and its Applications,Q4,332,2.1167,1.9958,2.3038,0.0,17.0,1.2198,0.0,1268.0,776.0,0024-3795,1873-1856,,journal,ok
+https://openalex.org/S4363516317,ECML PKDD,Q4,333,2.1011,0.8551,0.0,4.0717,22.0,0.0,0.0,985.0,0.0,,,B,conference,ok
+https://openalex.org/S18902827,Discrete Mathematics,Q4,334,2.0989,1.9297,2.424,0.0,15.0,1.2911,0.0,1748.0,999.0,0012-365X,1872-681X,,journal,ok
+https://openalex.org/S2764379787,International journal of intelligent engineering and systems,Q4,335,2.0979,1.527,2.8057,0.0,22.0,0.6834,0.0,1668.0,1107.0,1882-708X,2185-310X,,journal,ok
+https://openalex.org/S4363520047,Supercomputing (SC),Q4,336,2.0923,0.8641,0.0,4.1149,20.0,0.0,0.0,560.0,0.0,,,A,conference,ok
+https://openalex.org/S4387281889,Applied and Computational Engineering,Q4,337,2.0899,1.3855,2.4415,0.0,25.0,2.3207,0.0,7282.0,2214.0,2755-2721,2755-273X,,journal,ok
+https://openalex.org/S4363516143,Asiacrypt,Q4,338,2.0837,0.9635,0.0,4.5882,10.0,0.0,0.0,131.0,0.0,,,B,conference,ok
+https://openalex.org/S4210202797,SHS Web of Conferences,Q4,339,2.0824,2.0377,1.8734,0.0,20.0,1.5381,0.0,6101.0,2081.0,2261-2424,2416-5182,,journal,ok
+https://openalex.org/S4306513441,Insecta mundi,Q4,340,2.0817,2.9783,1.6667,0.0,8.0,0.6303,0.0,760.0,55.0,0749-6737,1942-1354,,journal,ok
+https://openalex.org/S4363517023,International Conference on Computer-Aided Design (ICCAD),Q4,341,2.0597,0.8592,0.0,4.0915,18.0,0.0,0.0,625.0,0.0,,,B,conference,ok
+https://openalex.org/S62507282,Journal of the Audio Engineering Society,Q4,342,2.056,1.3876,3.1818,0.0,13.0,1.1544,0.0,253.0,152.0,1549-4950,,,journal,ok
+https://openalex.org/S5406945286,Communications on Applied Nonlinear Analysis,Q4,343,2.0517,2.2486,2.0457,0.0,10.0,1.7878,0.0,1795.0,271.0,1074-133X,,,journal,ok
+https://openalex.org/S4210234583,Indonesian Journal of Computer Science,Q4,344,2.0504,1.6823,2.6647,0.0,11.0,2.1949,0.0,1142.0,420.0,2302-4364,2549-7286,,journal,ok
+https://openalex.org/S179157397,Journal of Intelligent & Fuzzy Systems,Q4,345,2.0189,0.9468,3.1575,0.0,22.0,1.1425,0.0,2295.0,1629.0,1064-1246,1875-8967,,journal,ok
+https://openalex.org/S4210206007,International Journal of Computer Applications,Q4,346,2.0112,1.603,2.4679,0.0,15.0,1.5434,0.0,1824.0,492.0,0975-8887,,,journal,ok
+https://openalex.org/S4210219095,SinkrOn,Q4,347,2.0096,1.7226,2.455,0.0,16.0,0.758,0.0,900.0,602.0,2541-044X,2541-2019,,journal,ok
+https://openalex.org/S204131793,KSII Transactions on Internet and Information Systems,Q4,348,2.0066,1.3271,2.8602,0.0,17.0,1.0062,0.0,794.0,440.0,1976-7277,2288-1468,,journal,ok
+https://openalex.org/S149016011,Electronics Letters,Q4,349,1.996,1.2414,2.7495,0.0,17.0,1.7457,0.0,1364.0,796.0,0013-5194,1350-911X,,journal,ok
+https://openalex.org/S137468011,Journal of Vision,Q4,350,1.9942,0.9952,2.8922,0.0,25.0,1.0588,0.0,5763.0,1174.0,1534-7362,,,journal,ok
+https://openalex.org/S4210236931,ShodhKosh Journal of Visual and Performing Arts,Q4,351,1.986,2.4327,1.3184,0.0,9.0,3.613,0.0,5388.0,583.0,2582-7472,,,journal,ok
+https://openalex.org/S4210207214,International Journal For Multidisciplinary Research,Q4,352,1.9772,1.8842,1.6493,0.0,21.0,1.4217,0.0,27366.0,3340.0,2582-2160,,,journal,ok
+https://openalex.org/S4363517029,International Conference on Parallel Processing (ICPP),Q4,353,1.9761,0.8137,0.0,3.875,17.0,0.0,0.0,361.0,0.0,,,B,conference,ok
+https://openalex.org/S90727058,Theoretical Computer Science,Q4,354,1.952,1.1564,2.7764,0.0,20.0,0.8465,0.0,1528.0,903.0,0304-3975,,B,journal,ok
+https://openalex.org/S141020589,Journal of Computer and System Sciences,Q4,355,1.9299,1.5892,2.6944,0.0,11.0,0.6918,0.0,197.0,109.0,0022-0000,,B,journal,ok
+https://openalex.org/S2898405271,IFAC-PapersOnLine,Q4,356,1.9253,0.8522,2.5335,0.0,29.0,1.6008,0.0,10074.0,5972.0,2405-8963,2405-8971,,journal,ok
+https://openalex.org/S59933527,Information and Computation,Q4,357,1.9049,1.3688,2.6765,0.0,12.0,1.1596,0.0,324.0,176.0,0890-5401,,A,journal,ok
+https://openalex.org/S4210168758,BIO Web of Conferences,Q4,358,1.9011,1.2313,2.0299,0.0,20.0,2.8334,0.0,10192.0,3450.0,2117-4458,2273-1709,,journal,ok
+https://openalex.org/S60030702,Transactions of the American Mathematical Society,Q4,359,1.8993,1.8196,2.0412,0.0,14.0,0.6501,0.0,730.0,477.0,0002-9947,1088-6850,,journal,ok
+https://openalex.org/S4363607712,ACM Symposium on Parallelism in Algorithms (SPAA),Q4,360,1.892,0.8119,0.0,3.8664,12.0,0.0,0.0,163.0,0.0,,,B,conference,ok
+https://openalex.org/S158511090,Journal of Electronic Imaging,Q4,361,1.8772,0.9943,2.6235,0.0,20.0,1.1128,0.0,1361.0,827.0,1017-9909,1560-229X,,journal,ok
+https://openalex.org/S4363607671,ACM RecSys,Q4,362,1.8751,1.0845,0.0,3.4519,9.0,0.4609,0.0,103.0,78.0,,,B,conference,ok
+https://openalex.org/S4210216686,Laser & Optoelectronics Progress,Q4,363,1.8639,1.1925,2.2178,0.0,13.0,3.704,0.0,3747.0,2172.0,1006-4125,,,journal,ok
+https://openalex.org/S2764746358,Indian Journal of Science and Technology,Q4,364,1.8445,1.081,2.4276,0.0,15.0,2.0267,0.0,1787.0,912.0,0974-5645,0974-6846,,journal,ok
+https://openalex.org/S2764696622,AIP conference proceedings,Q4,365,1.8408,0.868,1.8486,0.0,44.0,1.2735,0.0,73575.0,23965.0,0094-243X,1551-7616,,journal,ok
+https://openalex.org/S175543413,Optical Engineering,Q4,366,1.8389,0.8567,2.6616,0.0,20.0,1.1179,0.0,1570.0,1005.0,0091-3286,1560-2303,,journal,ok
+https://openalex.org/S112646816,SHILAP Revista de lepidopterología,Q4,367,1.8296,1.0314,1.5079,0.0,68.0,0.2468,0.0,81822.0,8772.0,0300-5267,2340-4078,,journal,ok
+https://openalex.org/S4210184485,Jurnal Informatika dan Teknik Elektro Terapan,Q4,368,1.8263,1.8925,2.0166,0.0,13.0,-0.0737,0.0,1423.0,336.0,2303-0577,2830-7062,,journal,ok
+https://openalex.org/S4210169770,International Journal of Computer Sciences and Engineering,Q4,369,1.8251,1.5321,2.6207,0.0,6.0,1.6684,0.0,363.0,46.0,2347-2693,,,journal,ok
+https://openalex.org/S4363607741,ACM UbiComp,Q4,370,1.82,0.7315,0.0,3.4833,15.0,0.0,0.0,291.0,0.0,,,B,conference,ok
+https://openalex.org/S4363518887,Middleware,Q4,371,1.8182,0.777,0.0,3.7,11.0,0.0,0.0,126.0,0.0,,,B,conference,ok
+https://openalex.org/S100460328,Scientific American,Q4,372,1.8179,2.1759,1.5,0.0,12.0,0.3068,0.0,1775.0,232.0,0036-8733,1946-7087,,journal,ok
+https://openalex.org/S4210182618,JURNAL MEDIA INFORMATIKA BUDIDARMA,Q4,373,1.8099,1.5353,2.2569,0.0,16.0,-0.1867,0.0,691.0,520.0,2548-8368,2614-5278,,journal,ok
+https://openalex.org/S4210202285,SAE technical papers on CD-ROM/SAE technical paper series,Q4,374,1.8029,0.7465,2.4211,0.0,24.0,1.4042,0.0,8028.0,3642.0,0148-7191,1083-4958,,journal,ok
+https://openalex.org/S104949663,Nanotechnology Perceptions,Q4,375,1.7894,1.0844,1.8691,0.0,11.0,7.5178,0.0,2569.0,410.0,1660-6795,2235-2074,,journal,ok
+https://openalex.org/S2764488870,International Journal on Recent and Innovation Trends in Computing and Communication,Q4,376,1.7883,0.8926,2.4985,0.0,20.0,0.8239,0.0,2280.0,1174.0,2321-8169,,,journal,ok
+https://openalex.org/S156280010,American Mathematical Monthly,Q4,377,1.7836,2.3089,1.4935,0.0,7.0,0.7305,0.0,515.0,143.0,0002-9890,1930-0972,,journal,ok
+https://openalex.org/S4210201094,International Journal of Advanced Research in Science Communication and Technology,Q4,378,1.7696,1.178,1.8659,0.0,23.0,0.8999,0.0,9183.0,2152.0,2581-9429,,,journal,ok
+https://openalex.org/S139349430,Distributed Computing,Q4,379,1.7606,0.9879,3.0476,0.0,9.0,0.6736,0.0,75.0,40.0,0178-2770,1432-0452,B,journal,ok
+https://openalex.org/S2493627025,IEICE Transactions on Communications,Q4,380,1.7589,0.9781,2.6069,0.0,11.0,1.6057,0.0,549.0,308.0,0916-8516,1745-1345,,journal,ok
+https://openalex.org/S2486202937,IEICE Transactions on Information and Systems,Q4,381,1.7351,0.8231,2.6632,0.0,14.0,1.0031,0.0,958.0,487.0,0916-8532,1745-1361,,journal,ok
+https://openalex.org/S4210210796,International Journal of Engineering and Advanced Technology,Q4,382,1.7337,0.7551,3.119,0.0,9.0,1.1392,0.0,268.0,115.0,2249-8958,,,journal,ok
+https://openalex.org/S4210226894,Proceedings of the American Mathematical Society,Q4,383,1.7321,1.4783,1.8964,0.0,12.0,0.9394,0.0,1170.0,581.0,0002-9939,1088-6826,,journal,ok
+https://openalex.org/S4210230215,Didaktik Jurnal Ilmiah PGSD STKIP Subang,Q4,384,1.7299,1.5373,1.6017,0.0,12.0,1.7224,0.0,1489.0,584.0,2477-5673,2614-722X,,journal,ok
+https://openalex.org/S4210240841,INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT,Q4,385,1.7188,1.2502,1.6049,0.0,21.0,1.0447,0.0,16500.0,2422.0,2582-3930,,,journal,ok
+https://openalex.org/S143715161,Computer-Aided Design and Applications,Q4,386,1.7103,1.0319,2.1342,0.0,13.0,1.8254,0.0,1351.0,567.0,1686-4360,,,journal,ok
+https://openalex.org/S4210169567,International Journal of Recent Technology and Engineering (IJRTE),Q4,387,1.6977,0.8354,3.0,0.0,7.0,1.4662,0.0,261.0,109.0,2277-3878,,,journal,ok
+https://openalex.org/S4210179614,International Journal of Communication Networks and Information Security (IJCNIS),Q4,388,1.6903,0.8351,2.4565,0.0,22.0,-0.286,0.0,501.0,422.0,2073-607X,2076-0930,,journal,ok
+https://openalex.org/S4210187594,Journal of Physics Conference Series,Q4,389,1.6814,0.6668,1.8001,0.0,33.0,1.1733,0.0,47738.0,19946.0,1742-6588,1742-6596,,journal,ok
+https://openalex.org/S186921487,ACM SIGSOFT Software Engineering Notes,Q4,390,1.6787,1.0895,2.5435,0.0,7.0,1.5713,0.0,178.0,65.0,0163-5948,1943-5843,,journal,ok
+https://openalex.org/S4210209777,Applied Mathematics and Nonlinear Sciences,Q4,391,1.6769,1.2677,1.5421,0.0,10.0,4.23,0.0,7243.0,2686.0,2444-8656,,,journal,ok
+https://openalex.org/S4393919366,"Advances in Social Science, Education and Humanities Research/Advances in social science, education and humanities research",Q4,392,1.6697,1.4525,1.6531,0.0,17.0,0.1846,0.0,5204.0,2370.0,2352-5398,2731-8060,,journal,ok
+https://openalex.org/S2764394011,Universal Journal of Educational Research,Q4,393,1.6535,2.0783,1.375,0.0,6.0,0.8945,0.0,99.0,46.0,2332-3205,2332-3213,,journal,ok
+https://openalex.org/S4210239397,JATI (Jurnal Mahasiswa Teknik Informatika),Q4,394,1.6511,1.2963,1.6306,0.0,12.0,1.6916,0.0,3753.0,838.0,2598-828X,,,journal,ok
+https://openalex.org/S4210205149,ECS Transactions,Q4,395,1.6252,0.6307,2.1144,0.0,24.0,0.6071,0.0,2769.0,1800.0,1938-5862,1938-6737,,journal,ok
+https://openalex.org/S4404663355,IET conference proceedings.,Q4,396,1.6251,0.8214,1.9121,0.0,17.0,1.4928,0.0,14607.0,4282.0,2732-4494,,,journal,ok
+https://openalex.org/S153560523,SIAM Journal on Computing,Q4,397,1.6242,1.0279,2.3295,0.0,11.0,0.5003,0.0,252.0,145.0,0097-5397,1095-7111,A,journal,ok
+https://openalex.org/S3845260,Formal Methods in System Design,Q4,398,1.617,0.7995,2.92,0.0,6.0,1.2352,0.0,88.0,48.0,0925-9856,1572-8102,B,journal,ok
+https://openalex.org/S4210216316,Electronic Proceedings in Theoretical Computer Science,Q4,399,1.6135,1.0325,2.0321,0.0,12.0,0.9856,0.0,1147.0,459.0,2075-2180,,,journal,ok
+https://openalex.org/S4387292069,Tuijin Jishu/Journal of Propulsion Technology,Q4,400,1.6092,0.9136,2.1246,0.0,11.0,1.4944,0.0,1232.0,348.0,1001-4055,,,journal,ok
+https://openalex.org/S89324355,Algorithmica,Q4,401,1.6033,0.9193,2.1583,0.0,14.0,0.5416,0.0,417.0,259.0,0178-4617,1432-0541,B,journal,ok
+https://openalex.org/S127523745,Measurement Techniques,Q4,402,1.5899,0.7804,2.3636,0.0,8.0,2.2441,0.0,446.0,210.0,0543-1972,1573-8906,,journal,ok
+https://openalex.org/S2764566388,International Journal for Research in Applied Science and Engineering Technology,Q4,403,1.5833,0.7313,1.5985,0.0,26.0,0.9974,0.0,20760.0,5604.0,2321-9653,,,journal,ok
+https://openalex.org/S4210234566,Brazilian Journal of Development,Q4,404,1.5829,1.118,1.4813,0.0,19.0,0.6195,0.0,9260.0,2396.0,2525-8761,,,journal,ok
+https://openalex.org/S4210240710,International Journal of Science and Research (IJSR),Q4,405,1.5807,1.0511,1.3948,0.0,20.0,0.9871,0.0,17717.0,2100.0,2319-7064,,,journal,ok
+https://openalex.org/S2736736441,Türk bilgisayar ve matematik eğitimi dergisi,Q4,406,1.5739,1.2519,2.2581,0.0,4.0,2.0822,0.0,65.0,34.0,1309-4653,,,journal,ok
+https://openalex.org/S4220650861,INTED proceedings,Q4,407,1.5739,1.5497,1.4113,0.0,9.0,0.987,0.0,5611.0,908.0,2340-1079,2340-1087,,journal,ok
+https://openalex.org/S4387281017,Highlights in Science Engineering and Technology,Q4,408,1.5508,0.6181,1.7038,0.0,16.0,2.8,0.0,9094.0,2602.0,2791-0210,,,journal,ok
+https://openalex.org/S4210197898,EKONOMIKA I UPRAVLENIE PROBLEMY RESHENIYA,Q4,409,1.5291,1.4564,1.1675,0.0,9.0,1.7516,0.0,9434.0,889.0,2227-3891,2308-927X,,journal,ok
+https://openalex.org/S4387284494,Proceedings of the International Symposium on Combinatorial Search,Q4,410,1.503,0.6731,2.383,0.0,8.0,1.2608,0.0,208.0,87.0,2832-9163,2832-9171,,journal,ok
+https://openalex.org/S147953040,Information Processing Letters,Q4,411,1.5028,0.9343,2.0,0.0,8.0,1.3236,0.0,240.0,129.0,0020-0190,1872-6119,,journal,ok
+https://openalex.org/S4210237956,Jurnal Mantik,Q4,412,1.499,1.4856,1.7143,0.0,4.0,1.6833,0.0,108.0,35.0,2685-4236,,,journal,ok
+https://openalex.org/S4220651959,AHFE international,Q4,413,1.4974,0.8508,1.6086,0.0,13.0,1.5039,0.0,6010.0,1818.0,2771-0718,,,journal,ok
+https://openalex.org/S4363518945,ISMB,Q4,414,1.4959,0.4246,0.0,2.0217,28.0,0.0,0.0,304.0,0.0,,,B,conference,ok
+https://openalex.org/S177675236,Journal of Symbolic Logic,Q4,415,1.4938,1.3036,1.5823,0.0,9.0,0.5556,0.0,349.0,139.0,0022-4812,1943-5886,,journal,ok
+https://openalex.org/S4210175061,MATEC Web of Conferences,Q4,416,1.4927,0.593,1.8994,0.0,14.0,1.4316,0.0,3410.0,1455.0,2261-236X,2274-7214,,journal,ok
+https://openalex.org/S4210194219,Antarctica A Keystone in a Changing World,Q4,417,1.4925,0.4783,2.5238,0.0,10.0,0.8798,0.0,366.0,2.0,0196-1497,2331-1258,,journal,ok
+https://openalex.org/S4363516313,ECOOP,Q4,418,1.4803,0.5718,0.0,2.7228,10.0,0.0,0.0,126.0,0.0,,,B,conference,ok
+https://openalex.org/S4220651193,EDULEARN proceedings,Q4,419,1.4769,1.3211,1.3155,0.0,9.0,1.0813,0.0,6509.0,901.0,2340-1117,2340-1125,,journal,ok
+https://openalex.org/S2764572829,Advances in Science Technology and Engineering Systems Journal,Q4,420,1.4637,0.8732,2.0746,0.0,7.0,1.2188,0.0,309.0,133.0,2415-6698,,,journal,ok
+https://openalex.org/S4210179027,International Journal of Health Sciences,Q4,421,1.4569,0.6762,1.6981,0.0,22.0,0.0821,0.0,9593.0,3448.0,2550-696X,2550-6978,,journal,ok
+https://openalex.org/S2739064124,Research Society and Development,Q4,422,1.4518,0.8855,1.3224,0.0,22.0,0.2003,0.0,16411.0,7689.0,2525-3409,,,journal,ok
+https://openalex.org/S4306515286,Journal of Advanced Research in Dynamical and Control Systems,Q4,423,1.4378,0.6176,0.0,2.9408,6.0,0.0,0.0,194.0,0.0,1943-023X,,,journal,ok
+https://openalex.org/S4220651900,ICERI proceedings,Q4,424,1.4299,1.1689,1.2427,0.0,8.0,1.922,0.0,6390.0,642.0,2340-1095,2340-1109,,journal,ok
+https://openalex.org/S4210180821,International Journal of Advanced Trends in Computer Science and Engineering,Q4,425,1.4255,1.0281,1.8966,0.0,5.0,1.6045,0.0,154.0,53.0,2278-3091,,,journal,ok
+https://openalex.org/S4210175429,HUMAN REVIEW International Humanities Review / Revista Internacional de Humanidades,Q4,426,1.4251,1.1458,1.3608,0.0,8.0,1.4524,0.0,1993.0,480.0,2695-9623,,,journal,ok
+https://openalex.org/S166990724,IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences,Q4,427,1.4244,0.6239,1.8835,0.0,9.0,1.897,0.0,828.0,354.0,0916-8508,1745-1337,,journal,ok
+https://openalex.org/S2898246533,IFAC Proceedings Volumes,Q4,428,1.4076,0.5763,0.0,2.7443,7.0,0.0,0.0,420.0,0.0,1474-6670,2589-3653,,journal,ok
+https://openalex.org/S4210187168,Malaya Journal of Matematik,Q4,429,1.3974,1.2523,1.3488,0.0,6.0,1.4662,0.0,162.0,65.0,2319-3786,2321-5666,,journal,ok
+https://openalex.org/S4210197137,European Journal of Science and Technology,Q4,430,1.3967,0.6433,1.7797,0.0,14.0,0.3918,0.0,916.0,481.0,2148-2683,,,journal,ok
+https://openalex.org/S4210222784,Innovate Pedagogy,Q4,431,1.3914,1.3577,1.2071,0.0,6.0,1.3467,0.0,3682.0,327.0,2663-6085,2663-6093,,journal,ok
+https://openalex.org/S2914917527,International Journal of Trend in Scientific Research and Development,Q4,432,1.3879,0.5635,0.0,2.6833,7.0,0.0,0.0,279.0,0.0,2456-6470,,,journal,ok
+https://openalex.org/S4306540603,Экономика и предпринимательство,Q4,433,1.3845,1.1082,0.945,0.0,12.0,1.2127,0.0,14365.0,1533.0,1999-2300,,,journal,ok
+https://openalex.org/S4363607738,ACM UIST,Q4,434,1.3568,0.9324,0.0,1.3855,6.0,2.7325,0.0,622.0,314.0,,,A,conference,ok
+https://openalex.org/S4210196574,Jurnal Teknologi Informasi dan Ilmu Komputer,Q4,435,1.3215,0.9169,1.4309,0.0,7.0,1.2711,0.0,834.0,301.0,2355-7699,2528-6579,,journal,ok
+https://openalex.org/S4210216884,Humanities science current issues,Q4,436,1.3093,1.6073,0.95,0.0,5.0,0.5053,0.0,6025.0,520.0,2308-4855,2308-4863,,journal,ok
+https://openalex.org/S4210202658,International Journal of Innovative Technology and Exploring Engineering,Q4,437,1.2967,0.7878,1.617,0.0,7.0,0.9068,0.0,312.0,114.0,2278-3075,,,journal,ok
+https://openalex.org/S67425620,Advanced materials research,Q4,438,1.296,0.3795,1.9615,0.0,10.0,0.6303,0.0,228.0,115.0,1022-6680,1662-8985,,journal,ok
+https://openalex.org/S4363607891,International World Wide Web Conference (WWW),Q4,439,1.2876,1.0036,0.0,1.7935,6.0,0.0102,0.0,227.0,133.0,,,B,conference,ok
+https://openalex.org/S4210237063,Frontiers in Educational Research,Q4,440,1.2766,1.2178,1.065,0.0,7.0,0.5347,0.0,2086.0,760.0,2522-6398,,,journal,ok
+https://openalex.org/S4363516343,EuroPar,Q4,441,1.2739,0.4704,0.0,2.2399,8.0,0.0,0.0,192.0,0.0,,,B,conference,ok
+https://openalex.org/S4210201771,International Journal of Emerging Trends in Engineering Research,Q4,442,1.2627,0.6081,1.871,0.0,6.0,0.8925,0.0,191.0,66.0,2347-3983,,,journal,ok
+https://openalex.org/S65043351,International Journal of Computational Science and Engineering,Q4,443,1.2448,0.7493,1.5349,0.0,6.0,1.115,0.0,487.0,174.0,1742-7185,1742-7193,,journal,ok
+https://openalex.org/S193995496,Computational Complexity,Q4,444,1.2387,1.0143,1.5385,0.0,5.0,0.4057,0.0,62.0,28.0,1016-3328,1420-8954,B,journal,ok
+https://openalex.org/S2764477435,Advances in Education,Q4,445,1.2203,1.1486,1.0324,0.0,5.0,1.1136,0.0,7411.0,833.0,2160-729X,2160-7303,,journal,ok
+https://openalex.org/S2764402380,Korean Association For Learner-Centered Curriculum And Instruction,Q4,446,1.2179,0.8847,1.1963,0.0,6.0,1.2659,0.0,4886.0,822.0,1598-2106,2671-776X,,journal,ok
+https://openalex.org/S4210193300,ACADEMICIA An International Multidisciplinary Research Journal,Q4,447,1.2165,1.0649,1.0,0.0,7.0,0.6367,0.0,1055.0,135.0,2249-7137,,,journal,ok
+https://openalex.org/S128754310,Applied Mechanics and Materials,Q4,448,1.1868,0.4756,1.3636,0.0,8.0,1.3811,0.0,329.0,153.0,1660-9336,1662-7482,,journal,ok
+https://openalex.org/S2738200778,LAPLAGE EM REVISTA,Q4,449,1.1606,0.3371,0.0,1.6054,12.0,0.0,0.0,4000.0,0.0,2446-6220,,,journal,ok
+https://openalex.org/S2946866068,Journal of the Korea Academia-Industrial cooperation Society,Q4,450,1.1551,0.7425,1.1374,0.0,6.0,1.2911,0.0,4019.0,696.0,1975-4701,2288-4688,,journal,ok
+https://openalex.org/S4210184223,Advances in Mathematics Scientific Journal,Q4,451,1.1443,0.9011,1.2667,0.0,4.0,1.0801,0.0,200.0,38.0,1857-8365,1857-8438,,journal,ok
+https://openalex.org/S4387291891,Science and Technology of Engineering Chemistry and Environmental Protection,Q4,452,1.1435,0.8228,1.4795,0.0,4.0,0.7425,0.0,2123.0,161.0,2959-6157,2960-1339,,journal,ok
+https://openalex.org/S4363516285,International Symposium on Distributed Computing (DISC),Q4,453,1.1385,0.4233,0.0,2.0156,6.0,0.0,0.0,198.0,0.0,,,B,conference,ok
+https://openalex.org/S4210177536,Pedagogy of the formation of a creative person in higher and secondary schools,Q4,454,1.123,1.2969,0.9429,0.0,4.0,0.2292,0.0,809.0,95.0,1992-5786,,,journal,ok
+https://openalex.org/S2764896880,Computer Engineering and Applications Journal,Q4,455,1.1214,0.7059,1.65,0.0,4.0,0.4867,0.0,76.0,37.0,2252-4274,2252-5459,,journal,ok
+https://openalex.org/S4363516347,Eurographics,Q4,456,1.1073,0.3813,0.0,1.8158,7.0,0.0,0.0,135.0,0.0,,,B,conference,ok
+https://openalex.org/S4363516115,Annual IEEE Conference on Computational Complexity (CCC),Q4,457,1.1039,0.4258,0.0,2.0278,5.0,0.0,0.0,121.0,0.0,,,B,conference,ok
+https://openalex.org/S4387286662,SWorldJournal,Q4,458,1.0799,0.9161,1.1765,0.0,3.0,1.2039,0.0,1555.0,53.0,2663-5712,,,journal,ok
+https://openalex.org/S4210228265,The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Series pedagogy,Q4,459,1.0683,1.1474,0.875,0.0,5.0,-0.0772,0.0,9385.0,58.0,2311-6382,2415-3605,,journal,ok
+https://openalex.org/S4387281948,The Journal of Humanities and Social sciences 21,Q4,460,1.0626,0.652,1.0075,0.0,5.0,1.4524,0.0,2090.0,326.0,2951-049X,,,journal,ok
+https://openalex.org/S2736657409,Turkish Online Journal of Qualitative Inquiry,Q4,461,1.0379,0.881,1.1429,0.0,3.0,0.9129,0.0,84.0,22.0,1309-6591,,,journal,ok
+https://openalex.org/S4220651000,Abstracts with programs - Geological Society of America,Q4,462,1.0262,0.5332,1.0415,0.0,6.0,0.8561,0.0,17722.0,562.0,0016-7592,,,journal,ok
+https://openalex.org/S4393917449,"Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition",Q4,463,1.0235,0.4915,1.0176,0.0,7.0,0.6735,0.0,21018.0,1017.0,1524-6965,1545-4428,,journal,ok
+https://openalex.org/S4210209073,Design,Q4,464,1.0222,1.0164,0.904,0.0,2.0,2.0208,0.0,1417.0,133.0,2476-1516,2476-1524,,journal,ok
+https://openalex.org/S4220651540,Modern engineering and innovative technologies,Q4,465,0.9994,0.7267,1.0,0.0,3.0,1.6916,0.0,1577.0,82.0,2567-5273,,,journal,ok
+https://openalex.org/S4210220879,The European Proceedings of Social & Behavioural Sciences,Q4,466,0.9916,0.7912,0.9128,0.0,6.0,-0.1126,0.0,1210.0,586.0,2357-1330,,,journal,ok
+https://openalex.org/S4363607330,ACM CHI,Q4,467,0.9524,1.0245,0.0,1.0568,2.0,0.4422,0.0,106.0,22.0,,,A,conference,ok
+https://openalex.org/S4210211642,International Journal of Psychosocial Rehabilitation,Q4,468,0.9252,1.224,0.75,0.0,2.0,0.2599,0.0,37.0,5.0,1475-7192,,,journal,ok
+https://openalex.org/S4210229544,The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec),Q4,469,0.826,0.2831,0.9076,0.0,3.0,1.7806,0.0,4383.0,202.0,2424-3124,,,journal,ok
+https://openalex.org/S4210200622,Jurnal Repositor,Q4,470,0.8125,0.7598,0.8,0.0,3.0,-0.1566,0.0,377.0,30.0,2714-7975,2716-1382,,journal,ok
+https://openalex.org/S4210170956,ACM SIGCSE Bulletin,Q4,471,0.7196,0.557,1.0,0.0,2.0,-0.134,0.0,105.0,5.0,0097-8418,2331-3927,,journal,ok
+https://openalex.org/S4210205064,The Journal of Humanities and Social sciences 21,Q4,472,0.644,0.6631,0.0,0.0,4.0,0.0658,0.0,440.0,77.0,2093-8721,,,journal,ok
+https://openalex.org/S4210239931,Foreign Language Science and Technology Journal Database Educational Science,Q4,473,0.5358,0.3006,0.0,0.0,2.0,1.8284,0.0,1171.0,16.0,1671-5764,,,journal,ok
+https://openalex.org/S4363517019,IEEE International Conference on Image Processing (ICIP),Q4,474,0.4024,0.0,0.0,0.0,4.0,0.0,0.0,27.0,0.0,,,B,conference,ok
+https://openalex.org/S4363517015,IEEE ICDM,Q4,475,0.2747,0.0,0.0,0.0,2.0,0.0,0.0,24.0,0.0,,,B,conference,ok
+https://openalex.org/S2764532672,International Journal of Electrical and Computer Engineering (IJECE),Q4,476,0.2293,0.16,0.0,0.0,1.0,0.0,0.0,59.0,4.0,2088-8708,,,journal,ok
+https://openalex.org/S4363517012,IEEE INFOCOM,数据不足,,,,,,,,,5.0,,,,A,conference,insufficient_data
+https://openalex.org/S4363607688,ACM SIGGRAPH,数据不足,,,,,,,,,1.0,,,,A,conference,insufficient_data
+https://openalex.org/S4363607694,ACM SIGPLAN POPL,数据不足,,,,,,,,,0.0,,,,A,conference,insufficient_data
+https://openalex.org/S4363607654,ACM OOPSLA,数据不足,,,,,,,,,0.0,,,,A,conference,insufficient_data
+https://openalex.org/S4363607385,ACM CoNEXT,数据不足,,,,,,,,,5.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363607628,ACM MobiCom,数据不足,,,,,,,,,1.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363607633,ACM MobiSys,数据不足,,,,,,,,,3.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363607685,ACM SenSys,暂无数据,,,,,,,,,,,,,B,conference,no_data
+https://openalex.org/S4363518960,International Symposium on Research in Attacks (RAID),数据不足,,,,,,,,,2.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363520004,SIAM International Conference on Data Mining (SDM),数据不足,,,,,,,,,4.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363497587,COLT,数据不足,,,,,,,,,5.0,,,,B,conference,insufficient_data
+https://openalex.org/S4363516261,Design Automation and Test in Europe (DATE),暂无数据,,,,,,,,,,,,,B,conference,no_data
+https://openalex.org/S183492911,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",数据不足,,,,,,,,,9.0,,0277-786X,1996-756X,,journal,insufficient_data
+https://openalex.org/S2764384989,Jisuanji gongcheng yu sheji,暂无数据,,,,,,,,,,,1000-7024,,,journal,no_data
+https://openalex.org/S2764587835,Jisuanji yingyong yanjiu,暂无数据,,,,,,,,,,,1001-3695,,,journal,no_data
+https://openalex.org/S6195976,Journal of Computational and Theoretical Nanoscience,数据不足,,,,,,,,,10.0,,1546-1955,1546-1963,,journal,insufficient_data
+https://openalex.org/S4210223468,Journal of Xidian University,数据不足,,,,,,,,,5.0,,1001-2400,,,journal,insufficient_data
+https://openalex.org/S4210181249,Journal of Critical Reviews,数据不足,,,,,,,,,17.0,,2394-5125,,,journal,insufficient_data
+https://openalex.org/S2764537343,DEStech Transactions on Social Science Education and Human Science,暂无数据,,,,,,,,,,,2475-0042,,,journal,no_data
+https://openalex.org/S4210213282,Advances in Higher Education,数据不足,,,,,,,,,1.0,,2424-8428,,,journal,insufficient_data
+https://openalex.org/S90335559,Journal of Engineering and Applied Sciences,数据不足,,,,,,,,,1.0,,1816-949X,1818-7803,,journal,insufficient_data
+https://openalex.org/S2764550102,DEStech Transactions on Computer Science and Engineering,暂无数据,,,,,,,,,,,2475-8841,,,journal,no_data
+https://openalex.org/S2764833235,"International journal of advance research, ideas and innovations in technology",数据不足,,,,,,,,,2.0,,2454-132X,,,journal,insufficient_data
+https://openalex.org/S2764370513,International journal of advance research and innovative ideas in education,数据不足,,,,,,,,,3.0,,2395-4396,,,journal,insufficient_data
